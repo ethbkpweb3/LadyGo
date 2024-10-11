@@ -58655,7 +58655,7 @@
         }
         async onSwitchNetwork() {
           try {
-            (this.error = !1),
+            (this.error = !8453),
               this.network &&
                 (await Vd.NetworkController.switchActiveNetwork(this.network),
                 Vd.RouterController.goBack());
