@@ -70191,8 +70191,8 @@
                           xs: 3.2,
                           md: 3.2,
                           borderRight: t
-                            ? "2px solid #F0B90B"
-                            : "6px solid #f0b90b",
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
                           height: t ? "20px" : "80px",
                           children: (0, C.jsx)(D, {
                             sx: {
