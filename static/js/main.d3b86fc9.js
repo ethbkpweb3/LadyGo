@@ -66867,15 +66867,14 @@
                     style: {
                       textDecoration: "none",
                     },
-                    children: (0, C.jsx)(D, {
-                      sx: {
-                        fontWeight: "400",
-                        fontSize: i ? "16px" : "20px",
-                        color: "#fff",
-                        fontFamily: "accelerator",
-                      },
-                      children: "LadyGO",
-                    }),
+                    children: (0, C.jsx)("img", {
+                        src: Pb,
+                        width: e ? "120px" : "200px",
+                        style: {
+                          marginRight: e ? "30px" : "55px",
+                        },
+                        alt: "",
+                      }),
                   }),
                   (0, C.jsxs)(O, {
                     display: "flex",
@@ -68325,14 +68324,16 @@
                             textAlign: "center",
                           },
                           children: [
-                            (0, C.jsx)("img", {
-                                src: Pb,
-                                width: e ? "120px" : "200px",
-                                style: {
-                                  marginRight: e ? "30px" : "55px",
-                                },
-                                alt: "",
-                              }),
+                            (0, C.jsx)("span", {
+                              style: {
+                                background: "transparent",
+                                backgroundImage:
+                                  "linear-gradient(271.68deg, #F0B90B 0%, #E8749E 100%)",
+                                WebkitBackgroundClip: "text",
+                                WebkitTextFillColor: "transparent",
+                              },
+                              children: "LadyGO",
+                            }),
                             " ",
                           ],
                         }),
