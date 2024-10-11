@@ -68788,7 +68788,7 @@
                                       justifyContent: "center",
                                       alignItems: "center",
                                       cursor: "pointer",
-                                      background: B ? "#F0B90B" : "transparent",
+                                      background: B ? "#ff65c3" : "transparent",
                                       marginLeft: "30px",
                                     },
                                     children: (0, C.jsx)("img", {
@@ -68810,7 +68810,7 @@
                                       justifyContent: "center",
                                       alignItems: "center",
                                       cursor: "pointer",
-                                      background: L ? "#F0B90B" : "transparent",
+                                      background: L ? "#ff65c3" : "transparent",
                                       marginRight: "30px",
                                       
                                     },
