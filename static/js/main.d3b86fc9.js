@@ -68449,7 +68449,7 @@
                                         display: "flex",
                                         justifyContent: "center",
                                         alignItems: "center",
-                                        color: "#f0b90b",
+                                        color: "#ff65c3",
                                       },
                                       children: [
                                         (0, C.jsx)(Oy, {
