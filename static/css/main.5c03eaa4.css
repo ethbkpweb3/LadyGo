@@ -37,7 +37,7 @@ code {
 
 .cardBox:before {
     animation: spin 3s linear infinite;
-    background: linear-gradient(271.68deg,#f0b90b 50%,#e8749e 0);
+    background: linear-gradient(271.68deg,#000000 50%,#000000 0);
     border-radius: 14px;
     content: "";
     height: 50px;
