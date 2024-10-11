@@ -68440,7 +68440,7 @@
                                 rel: "noreferrer",
                                 children: (0, C.jsx)(Ay, {
                                   style: {
-                                    color: "#F0B90B",
+                                    color: "#ff65c3",
                                     fontSize: "25px",
                                     marginRight: "23px",
                                   },
@@ -68455,7 +68455,7 @@
                                 rel: "noreferrer",
                                 children: (0, C.jsx)(Py, {
                                   style: {
-                                    color: "#F0B90B",
+                                    color: "#ff65c3",
                                     fontSize: "28px",
                                     marginRight: "23px",
                                   },
@@ -68470,7 +68470,7 @@
                                 rel: "noreferrer",
                                 children: (0, C.jsx)(Iy, {
                                   style: {
-                                    color: "#F0B90B",
+                                    color: "#ff65c3",
                                     fontSize: "28px",
                                     marginRight: "23px",
                                   },
@@ -68485,7 +68485,7 @@
                                 rel: "noreferrer",
                                 children: (0, C.jsx)(jy, {
                                   style: {
-                                    color: "#F0B90B",
+                                    color: "#ff65c3",
                                     fontSize: "28px",
                                   },
                                 }),
