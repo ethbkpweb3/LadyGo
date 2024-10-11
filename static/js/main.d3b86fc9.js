@@ -69751,7 +69751,7 @@
           }),
         });
       }
-      const $b = n.p + "static/media/ewallet1.15d85498d616c9aba18a.png";
+      const $b = n.p + "static/media/logo.webp";
       n.p;
       const Wb = [
         {
@@ -69872,7 +69872,7 @@
         Gb = n.p + "static/media/fig2.c78402887392364fb9ed.png",
         Kb = n.p + "static/media/fig3.7e4577aa86b2d834bc27.png",
         Yb = n.p + "static/media/fig4.f572dbdfc035e581b90e.png",
-        Xb = n.p + "static/media/fig5.d4ebb1ca4340e405efc2.png",
+        Xb = n.p + "static/media/logo.webp",
         Qb = n.p + "static/media/fig6.74cbc802e49f741902ae.png";
       const Jb =
         n.p + "static/media/card1.eb8bf96b52151de98df7faae35b55268.svg";
