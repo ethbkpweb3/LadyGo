@@ -70338,8 +70338,8 @@
                           xs: 3,
                           md: 3,
                           borderRight: t
-                            ? "2px solid #F0B90B"
-                            : "6px solid #f0b90b",
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
                           height: t ? "20px" : "80px",
                           children: (0, C.jsx)(D, {
                             sx: {
@@ -70357,8 +70357,8 @@
                           xs: 3,
                           md: 3,
                           borderRight: t
-                            ? "2px solid #F0B90B"
-                            : "6px solid #f0b90b",
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
                           height: t ? "20px" : "80px",
                           children: (0, C.jsx)(D, {
                             sx: {
@@ -70412,8 +70412,8 @@
                           xs: 2.4,
                           md: 2.4,
                           borderRight: t
-                            ? "2px solid #F0B90B"
-                            : "6px solid #f0b90b",
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
                           height: t ? "20px" : "80px",
                           children: (0, C.jsx)(D, {
                             sx: {
@@ -70431,8 +70431,8 @@
                           xs: 2.8,
                           md: 2.8,
                           borderRight: t
-                            ? "2px solid #F0B90B"
-                            : "6px solid #f0b90b",
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
                           height: t ? "20px" : "80px",
                           children: (0, C.jsx)(D, {
                             sx: {
@@ -70450,8 +70450,8 @@
                           xs: 2.6,
                           md: 2.6,
                           borderRight: t
-                            ? "2px solid #F0B90B"
-                            : "6px solid #f0b90b",
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
                           height: t ? "20px" : "80px",
                           children: (0, C.jsx)(D, {
                             sx: {
