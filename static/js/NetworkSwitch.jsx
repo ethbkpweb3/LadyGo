@@ -69,7 +69,7 @@ export default function NetworkSwitch({ open, setOpen }) {
             </Box>
             <Box my={2} color="#fff" fontSize="400" fontFamily="GiloryBold">
               {" "}
-              You are on wrong network please switch your network.
+              You are on please switch your network.
             </Box>
             <StyledButton
               col="#000000"
