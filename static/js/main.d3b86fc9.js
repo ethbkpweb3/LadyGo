@@ -68633,7 +68633,7 @@
                                         style: {
                                           background: "transparent",
                                           backgroundImage:
-                                            "linear-gradient(271.68deg, #F0B90B 0%, #E8749E 100%)",
+                                            "linear-gradient(271.68deg, #ff65c3 0%, #ff65c3 100%)",
                                           WebkitBackgroundClip: "text",
                                           WebkitTextFillColor: "transparent",
                                         },
@@ -68645,7 +68645,7 @@
                                       " ",
                                       (0, C.jsx)("span", {
                                         style: {
-                                          color: "#F0B90B",
+                                          color: "#ff65c3",
                                         },
                                         children: d,
                                       }),
