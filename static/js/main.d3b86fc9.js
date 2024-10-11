@@ -70289,7 +70289,7 @@
                           fontFamily: "Poppins",
                           fontWeight: 400,
                           fontSize: t ? "8px" : "16px",
-                          color: "#F0B90B",
+                          color: "#ff65c3",
                           textAlign: "center",
                           px: t ? 1 : 2,
                         },
@@ -70319,8 +70319,8 @@
                           xs: 3,
                           md: 3,
                           borderRight: t
-                            ? "2px solid #F0B90B"
-                            : "6px solid #f0b90b",
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
                           height: t ? "20px" : "80px",
                           children: (0, C.jsx)(D, {
                             sx: {
