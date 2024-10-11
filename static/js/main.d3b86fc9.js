@@ -68789,6 +68789,7 @@
                                       alignItems: "center",
                                       cursor: "pointer",
                                       background: B ? "#F0B90B" : "transparent",
+                                      marginLeft: "30px",
                                     },
                                     children: (0, C.jsx)("img", {
                                       src: By,
@@ -68811,6 +68812,7 @@
                                       cursor: "pointer",
                                       background: L ? "#F0B90B" : "transparent",
                                       marginRight: "30px",
+                                      
                                     },
                                     children: (0, C.jsx)("img", {
                                       src: Ny,
