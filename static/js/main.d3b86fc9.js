@@ -48470,18 +48470,18 @@
           },
           rpcUrls: {
             alchemy: {
-              http: ["https://8453.rpc.thirdweb.com/4a728d0fb54fc4c6adf012d2457c398f"],
+              http: ["https://mainnet.base.org/"],
               webSocket: ["wss://eth-mainnet.g.alchemy.com/v2"],
             },
             infura: {
-              http: ["https://mainnet.infura.io/v3"],
+              http: ["https://mainnet.base.org/"],
               webSocket: ["wss://mainnet.infura.io/ws/v3"],
             },
             default: {
-              http: ["https://cloudflare-eth.com"],
+              http: ["https://mainnet.base.org/"],
             },
             public: {
-              http: ["https://cloudflare-eth.com"],
+              http: ["https://mainnet.base.org/"],
             },
           },
           blockExplorers: {
