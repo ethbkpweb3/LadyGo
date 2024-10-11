@@ -68312,51 +68312,9 @@
                             alignItems: "center",
                             justifyContent: "center",
                             children: [
-              
-                              (0, C.jsx)("a", {
-                                href: "https://t.me/rexasfinance",
-                                style: {
-                                  textDecoration: "none",
-                                },
-                                target: "_blank",
-                                rel: "noreferrer",
-                                children: (0, C.jsx)(Py, {
-                                  style: {
-                                    color: "#F0B90B",
-                                    fontSize: "28px",
-                                    marginRight: "23px",
-                                  },
-                                }),
-                              }),
-                              (0, C.jsx)("a", {
-                                href: " https://linktr.ee/rexasfinance",
-                                style: {
-                                  textDecoration: "none",
-                                },
-                                target: "_blank",
-                                rel: "noreferrer",
-                                children: (0, C.jsx)(Iy, {
-                                  style: {
-                                    color: "#F0B90B",
-                                    fontSize: "28px",
-                                    marginRight: "23px",
-                                  },
-                                }),
-                              }),
-                              (0, C.jsx)("a", {
-                                href: "https://medium.com/@rexasfinance",
-                                style: {
-                                  textDecoration: "none",
-                                },
-                                target: "_blank",
-                                rel: "noreferrer",
-                                children: (0, C.jsx)(jy, {
-                                  style: {
-                                    color: "#F0B90B",
-                                    fontSize: "28px",
-                                  },
-                                }),
-                              }),
+          
+                
+          
                             ],
                           }),
                         (0, C.jsxs)(D, {
