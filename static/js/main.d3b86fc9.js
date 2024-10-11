@@ -70156,7 +70156,7 @@
                     display: "flex",
                     alignItems: "center",
                     sx: {
-                      border: "1px solid #F0B90B",
+                      border: "1px solid #ff65c3",
                       borderRadius: t ? "9px" : "29px",
                       width: "100%",
                       height: t ? "43px" : "130px",
@@ -70231,7 +70231,7 @@
                     justifyContent: "center",
                     flexDirection: "column",
                     sx: {
-                      border: "1px solid #F0B90B",
+                      border: "1px solid #ff65c3",
                       borderRadius: t ? "9px" : "29px",
                       width: "100%",
                       height: t ? "55px" : "130px",
@@ -70303,7 +70303,7 @@
                     display: "flex",
                     alignItems: "center",
                     sx: {
-                      border: "1px solid #F0B90B",
+                      border: "1px solid #ff65c3",
                       borderRadius: t ? "9px" : "29px",
                       width: "100%",
                       height: t ? "43px" : "130px",
@@ -70396,7 +70396,7 @@
                     display: "flex",
                     alignItems: "center",
                     sx: {
-                      border: "1px solid #F0B90B",
+                      border: "1px solid #ff65c3",
                       borderRadius: t ? "9px" : "29px",
                       width: "100%",
                       height: t ? "43px" : "130px",
