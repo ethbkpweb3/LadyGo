@@ -1,0 +1,5 @@
+export const tokenAddress = "0xAEAEF3A26ACB7A3A229585700921976965D2a15F";
+// export const preSaleAddress = "0x1fE2D3A7F5621aF20B7eF86A9975F960036F5928";
+export const preSaleAddress = "0x58CC998ED000C83f872C56858318d5E906f80F72";
+export const usdtAddress = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
+export const usdcAddress = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48";
