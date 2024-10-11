@@ -1177,7 +1177,7 @@
         var u = n(61133);
         const d = {
             black: "#000",
-            white: "#fff",
+            white: "#000",
           },
           p = {
             50: "#fafafa",
