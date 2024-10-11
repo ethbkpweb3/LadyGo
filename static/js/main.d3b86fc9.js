@@ -65159,7 +65159,7 @@
           });
         };
       const vg =
-        n.p + "static/media/logorx.02a6c9ac9e9396bd835488886bb8a7ae.svg";
+        n.p + "static/media/logo.webp";
       function yg() {
         return (
           (yg = Object.assign
