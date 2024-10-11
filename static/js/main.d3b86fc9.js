@@ -69643,7 +69643,7 @@
                     bgcolor: "#ffffff",
                     width: "200px",
                     onClick: () => {
-                      null === r || void 0 === r || r(1), n(!1);
+                      null === r || void 0 === r || r(8453), n(!8453);
                     },
                     children: "Switch Network",
                   }),
