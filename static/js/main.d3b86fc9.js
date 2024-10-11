@@ -66735,19 +66735,19 @@
           },
           {
             name: "Win $1M",
-            link: "https://rexas.com/rexas-millionaire/",
+            link: "/LadyGO-millionaire/",
           },
           {
             name: "Whitepaper",
-            link: "https://rexas.com/rexas-whitepaper.pdf",
+            link: "/LadyGO-whitepaper.pdf",
           },
           {
             name: "How To Buy",
-            link: "https://rexas.com/how-to-buy/",
+            link: "/how-to-buy/",
           },
           {
             name: "Contact Us",
-            link: "https://rexas.com/contact-us/",
+            link: "/contact-us/",
           },
           
         ];
@@ -66907,7 +66907,7 @@
                             }),
                           }),
                           (0, C.jsx)(Uv, {
-                            to: "https://rexas.com/rexas-whitepaper.pdf",
+                            to: "whitepaper.pdf",
                             style: {
                               textDecoration: "none",
                             },
@@ -66918,7 +66918,7 @@
                             }),
                           }),
                           (0, C.jsx)(Uv, {
-                            to: "https://rexas.com/rexas-millionaire/",
+                            to: "/LadyGO-millionaire/",
                             style: {
                               textDecoration: "none",
                             },
@@ -66929,7 +66929,7 @@
                             }),
                           }),
                           (0, C.jsx)(Uv, {
-                            to: "https://rexas.com/how-to-buy/",
+                            to: "/how-to-buy/",
                             style: {
                               textDecoration: "none",
                             },
@@ -66940,7 +66940,7 @@
                             }),
                           }),
                           (0, C.jsx)(Uv, {
-                            to: "https://rexas.com/contact-us/",
+                            to: "/contact-us/",
                             style: {
                               textDecoration: "none",
                             },
@@ -68370,7 +68370,7 @@
                           justifyContent: "center",
                           children: [
                             (0, C.jsx)("a", {
-                              href: "https://rexas.com/rexas-whitepaper.pdf",
+                              href: "/LadyGO-whitepaper.pdf",
                               target: "_blank",
                               style: {
                                 textDecoration: "none",
@@ -68432,7 +68432,7 @@
                             justifyContent: "center",
                             children: [
                               (0, C.jsx)("a", {
-                                href: "https://x.com/rexasfinance",
+                                href: "https://x.com/LadyGO",
                                 style: {
                                   textDecoration: "none",
                                 },
@@ -68447,7 +68447,7 @@
                                 }),
                               }),
                               (0, C.jsx)("a", {
-                                href: "https://t.me/rexasfinance",
+                                href: "https://t.me/LadyGO",
                                 style: {
                                   textDecoration: "none",
                                 },
@@ -68462,7 +68462,7 @@
                                 }),
                               }),
                               (0, C.jsx)("a", {
-                                href: " https://linktr.ee/rexasfinance",
+                                href: " https://linktr.ee/",
                                 style: {
                                   textDecoration: "none",
                                 },
@@ -68477,7 +68477,7 @@
                                 }),
                               }),
                               (0, C.jsx)("a", {
-                                href: "https://medium.com/@rexasfinance",
+                                href: "https://medium.com/@LadyGO",
                                 style: {
                                   textDecoration: "none",
                                 },
@@ -68543,7 +68543,7 @@
                                           WebkitBackgroundClip: "text",
                                           WebkitTextFillColor: "transparent",
                                         },
-                                        children: ["Rexas", " "],
+                                        children: ["LadyGO", " "],
                                       }),
                                       "Presale ",
                                       (0, C.jsx)("br", {}),
@@ -68911,7 +68911,7 @@
                                     alignItems: "center",
                                     children: [
                                       (0, C.jsxs)(zt, {
-                                        href: "https://rexas.com/how-to-buy/",
+                                        href: "/how-to-buy/",
                                         target: "_blank",
                                         sx: {
                                           width: "48%",
@@ -68942,7 +68942,7 @@
                                         ],
                                       }),
                                       (0, C.jsxs)(zt, {
-                                        href: "https://rexas.com/rexas-millionaire/",
+                                        href: "millionaire/",
                                         target: "_blank",
                                         sx: {
                                           width: "48%",
@@ -68979,7 +68979,7 @@
                                     justifyContent: "center",
                                     mt: 2,
                                     children: (0, C.jsxs)(zt, {
-                                      href: "https://rexas.com/help/",
+                                      href: "/help/",
                                       target: "_blank",
                                       sx: {
                                         width: t ? "80%" : "60%",
@@ -69781,7 +69781,7 @@
         {
           title: "Global Market Access:",
           description:
-            "Rexas brings the potential of the global market directly to your fingertips.",
+            "LadyGO brings the potential of the global market directly to your fingertips.",
         },
       ];
       function Hb() {
@@ -69896,9 +69896,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "Rexas Token Builder",
+              title: "LadyGO Token Builder",
               description:
-                "Tokenize your real world assets effortlessly. Rexas Token Builder platform eliminates the complexity of blockchain coding, enabling users to launch tokens in minutes.",
+                "Tokenize your real world assets effortlessly. LadyGO Token Builder platform eliminates the complexity of blockchain coding, enabling users to launch tokens in minutes.",
             },
             {
               bg: iw,
@@ -69907,9 +69907,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "Rexas Launchpad",
+              title: "LadyGO Launchpad",
               description:
-                "Kickstart your token funding with Rexas Launchpad. This decentralized launchpad provides a secure and transparent environment for token sales on multiple blockchain networks.",
+                "Kickstart your token funding with LadyGO Launchpad. This decentralized launchpad provides a secure and transparent environment for token sales on multiple blockchain networks.",
             },
             {
               bg: nw,
@@ -69918,9 +69918,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "Rexas GenAI",
+              title: "LadyGO GenAI",
               description:
-                "Harness the power of AI with Rexas GenAI for generating unique, high-quality digital artworks. Ideal for artists and creators looking to venture into the NFT space.",
+                "Harness the power of AI with LadyGO GenAI for generating unique, high-quality digital artworks. Ideal for artists and creators looking to venture into the NFT space.",
             },
             {
               bg: tw,
@@ -69929,9 +69929,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "Rexas DeFi",
+              title: "LadyGO DeFi",
               description:
-                "Rexas DeFi offers a powerful decentralized solution for cryptocurrency trading, enabling users to effortlessly swap crypto across multiple networks.",
+                "LadyGO DeFi offers a powerful decentralized solution for cryptocurrency trading, enabling users to effortlessly swap crypto across multiple networks.",
             },
             {
               bg: ew,
@@ -69940,9 +69940,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "Rexas Estate",
+              title: "LadyGO Estate",
               description:
-                "Invest in real estate with Rexas, co-own real world properties and earn passive income in stable coins.",
+                "Invest in real estate with LadyGO, co-own real world properties and earn passive income in stable coins.",
             },
             {
               bg: Jb,
@@ -69951,7 +69951,7 @@
                 width: e ? "60%" : "65%",
                 alt: "",
               }),
-              title: "Rexas Treasury",
+              title: "LadyGO Treasury",
               description:
                 "Multi-chain yield optimizer that allows users to earn compound interest on their crypto deposits.",
             },
@@ -69990,7 +69990,7 @@
                               WebkitBackgroundClip: "text",
                               WebkitTextFillColor: "transparent",
                             },
-                            children: "REXAS ECOSYSTEM",
+                            children: "LadyGO ECOSYSTEM",
                           }),
                           " ",
                         ],
@@ -70010,7 +70010,7 @@
                           textAlign: e ? "center" : "left",
                         },
                         children:
-                          "Explore the Rexas ecosystem, designed to streamline your journey into the world of blockchain and digital assets. Whether you're looking to invest in real estate, tokenize your assets, or engage in creative endeavors through NFTs, Rexas provides the tools you need. Benefit from a secure platform for trading and token funding, while maximizing your investments with advanced yield-optimizing strategies. Our seamless multi-chain technology ensures that your trading is efficient and your investments grow.",
+                          "Explore the LadyGO ecosystem, designed to streamline your journey into the world of blockchain and digital assets. Whether you're looking to invest in real estate, tokenize your assets, or engage in creative endeavors through NFTs, LadyGO provides the tools you need. Benefit from a secure platform for trading and token funding, while maximizing your investments with advanced yield-optimizing strategies. Our seamless multi-chain technology ensures that your trading is efficient and your investments grow.",
                       }),
                     ],
                   }),
@@ -71268,30 +71268,30 @@
               question: "How can I start investing with LadyGO?",
               answer: (0, C.jsxs)(C.Fragment, {
                 children: [
-                  "To begin investing with LadyGO, Head over to rexas.com",
+                  "To begin investing with LadyGO, Head over to LadyGO.com",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://rexas.com ",
+                    href: "https://LadyGO.com ",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "https://rexas.com",
+                    children: "https://LadyGO.com",
                   }),
                   " ",
                   "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy LadyGO - Click Here.",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://rexas.com/how-to-buy/ ",
+                    href: "https://LadyGO.com/how-to-buy/ ",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "https://rexas.com/how-to-buy/",
+                    children: "https://LadyGO.com/how-to-buy/",
                   }),
                 ],
               }),
@@ -71316,27 +71316,27 @@
                   "You can contact us using our contact us form:",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://rexas.com/contact-us/ ",
+                    href: "https://LadyGO.com/contact-us/ ",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "https://rexas.com/contact-us/",
+                    children: "https://LadyGO.com/contact-us/",
                   }),
                   " ",
                   "Or buy emailing us at:",
                   " ",
                   (0, C.jsxs)("a", {
-                    href: "mailto: support@rexas.com",
+                    href: "mailto: support@LadyGO.com",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: [" ", "support@rexas.com"],
+                    children: [" ", "support@LadyGO.com"],
                   }),
                 ],
               }),
@@ -71762,7 +71762,7 @@
                     justifyContent: "center",
                     children: [
                       (0, C.jsx)("a", {
-                        href: "https://x.com/rexasfinance",
+                        href: "https://x.com/LadyGO",
                         style: {
                           textDecoration: "none",
                         },
@@ -71777,7 +71777,7 @@
                         }),
                       }),
                       (0, C.jsx)("a", {
-                        href: "https://t.me/rexasfinance",
+                        href: "https://t.me/LadyGO",
                         style: {
                           textDecoration: "none",
                         },
@@ -71792,7 +71792,7 @@
                         }),
                       }),
                       (0, C.jsx)("a", {
-                        href: " https://linktr.ee/rexasfinance",
+                        href: " https://linktr.ee/LadyGO",
                         style: {
                           textDecoration: "none",
                         },
@@ -71807,7 +71807,7 @@
                         }),
                       }),
                       (0, C.jsx)("a", {
-                        href: "https://medium.com/@rexasfinance",
+                        href: "https://medium.com/@LadyGOfinance",
                         style: {
                           textDecoration: "none",
                         },
@@ -71831,7 +71831,7 @@
                       justifyContent: "center",
                       children: [
                         (0, C.jsx)(Uv, {
-                          to: "https://rexas.com/rexas-whitepaper.pdf",
+                          to: "whitepaper.pdf",
                           style: {
                             textDecoration: "none",
                           },
@@ -71845,7 +71845,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "https://rexas.com/rexas-millionaire/",
+                          to: "millionaire/",
                           style: {
                             textDecoration: "none",
                           },
@@ -71859,7 +71859,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "https://rexas.com/how-to-buy/",
+                          to: "/how-to-buy/",
                           style: {
                             textDecoration: "none",
                           },
@@ -71873,7 +71873,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "https://rexas.com/contact-us/",
+                          to: "/contact-us/",
                           style: {
                             textDecoration: "none",
                           },
@@ -71887,7 +71887,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "https://rexas.com/privacy-policy",
+                          to: "/privacy-policy",
                           style: {
                             textDecoration: "none",
                           },
@@ -71901,7 +71901,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "https://rexas.com/terms-and-conditions",
+                          to: "/terms-and-conditions",
                           style: {
                             textDecoration: "none",
                           },
@@ -71915,7 +71915,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "https://rexas.com/cookies",
+                          to: "/cookies",
                           style: {
                             textDecoration: "none",
                           },
@@ -71943,7 +71943,7 @@
                           alignItems: "center",
                           children: [
                             (0, C.jsx)(Uv, {
-                              to: "https://rexas.com/rexas-millionaire/",
+                              to: "/LadyGO-millionaire/",
                               style: {
                                 textDecoration: "none",
                               },
@@ -71957,7 +71957,7 @@
                               }),
                             }),
                             (0, C.jsx)(Uv, {
-                              to: "https://rexas.com/how-to-buy/",
+                              to: "/how-to-buy/",
                               style: {
                                 textDecoration: "none",
                               },
@@ -71971,7 +71971,7 @@
                               }),
                             }),
                             (0, C.jsx)(Uv, {
-                              to: "https://rexas.com/contact-us/",
+                              to: "/contact-us/",
                               style: {
                                 textDecoration: "none",
                               },
@@ -71991,7 +71991,7 @@
                           mt: 2,
                           children: [
                             (0, C.jsx)(Uv, {
-                              to: "https://rexas.com/privacy-policy",
+                              to: "/privacy-policy",
                               style: {
                                 textDecoration: "none",
                               },
@@ -72005,7 +72005,7 @@
                               }),
                             }),
                             (0, C.jsx)(Uv, {
-                              to: "https://rexas.com/terms-and-conditions",
+                              to: "/terms-and-conditions",
                               style: {
                                 textDecoration: "none",
                               },
@@ -72019,7 +72019,7 @@
                               }),
                             }),
                             (0, C.jsx)(Uv, {
-                              to: "https://rexas.com/cookies",
+                              to: "/cookies",
                               style: {
                                 textDecoration: "none",
                               },
@@ -72091,7 +72091,7 @@
                     children: "Please Note:",
                   }),
                   " ",
-                  "REXAS Team will never send you messages on any social networks, Please verify our social links via our website: Rexas.com | Never Share Your Seed Phrase or Private Key with anyone.",
+                  "LadyGO Team will never send you messages on any social networks, Please verify our social links via our website: LadyGO.Taxi | Never Share Your Seed Phrase or Private Key with anyone.",
                 ],
               }),
             }),
