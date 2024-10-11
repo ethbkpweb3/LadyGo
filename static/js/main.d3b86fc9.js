@@ -71873,7 +71873,7 @@
               (0, C.jsx)($w, {
                 sx: {
                   background:
-                    "",
+                    " linear-gradient(90deg, rgba(192, 204, 218, 0.1) 0%, rgba(192, 204, 218, 0.6) 50.38%, rgba(192, 204, 218, 0.1) 100%)",
                   width: "100%",
                   height: "2px",
                 },
