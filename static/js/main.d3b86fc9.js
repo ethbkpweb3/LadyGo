@@ -66794,7 +66794,7 @@
                         color: "#fff",
                         fontFamily: "accelerator",
                       },
-                      children: "REXAS FINANCE",
+                      children: "LadyGO",
                     }),
                   }),
                 }),
@@ -66874,7 +66874,7 @@
                         color: "#fff",
                         fontFamily: "accelerator",
                       },
-                      children: "REXAS FINANCE",
+                      children: "LadyGO",
                     }),
                   }),
                   (0, C.jsxs)(O, {
@@ -68567,7 +68567,7 @@
                                       fontWeight: "500",
                                     },
                                     children: [
-                                      "1 RXS = $",
+                                      "1 LGO = $",
                                       parseFloat(I).toFixed(3),
                                     ],
                                   }),
@@ -68838,7 +68838,7 @@
                                                 style: {
                                                   fontWeight: "700",
                                                 },
-                                                children: " RXS ",
+                                                children: " LGO ",
                                               }),
                                               " You Receive:",
                                             ],
@@ -70203,7 +70203,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Symbol: RXS",
+                            children: "Symbol: LGO",
                           }),
                         }),
                         (0, C.jsx)(fy, {
@@ -71253,23 +71253,23 @@
           i = [
             {
               id: 1,
-              question: "What is Rexas Finance?",
+              question: "What is LadyGO?",
               answer:
-                "Rexas Finance is a blockchain platform designed to facilitate the tokenization of real-world assets. Our ecosystem offers tools to tokenize, invest, and manage assets such as real estate, precious metals, and other valuable commodities, leveraging blockchain technology for transparency and efficiency",
+                "LadyGO is a blockchain platform designed to facilitate the tokenization of real-world assets. Our ecosystem offers tools to tokenize, invest, and manage assets such as real estate, precious metals, and other valuable commodities, leveraging blockchain technology for transparency and efficiency",
             },
             {
               id: 2,
               question:
-                "What types of assets can I tokenize with Rexas Finance?",
+                "What types of assets can I tokenize with LadyGO?",
               answer:
-                "Rexas Finance supports the tokenization of a wide variety of assets, including but not limited to real estate, art, gold, and corporate bonds. Our platform provides the flexibility to bring almost any valuable asset onto the blockchain.",
+                "LadyGO supports the tokenization of a wide variety of assets, including but not limited to real estate, art, gold, and corporate bonds. Our platform provides the flexibility to bring almost any valuable asset onto the blockchain.",
             },
             {
               id: 3,
-              question: "How can I start investing with Rexas Finance?",
+              question: "How can I start investing with LadyGO?",
               answer: (0, C.jsxs)(C.Fragment, {
                 children: [
-                  "To begin investing with Rexas Finance, Head over to rexas.com",
+                  "To begin investing with LadyGO, Head over to rexas.com",
                   " ",
                   (0, C.jsx)("a", {
                     href: "https://rexas.com ",
@@ -71282,7 +71282,7 @@
                     children: "https://rexas.com",
                   }),
                   " ",
-                  "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy Rexas Finance - Click Here.",
+                  "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy LadyGO - Click Here.",
                   " ",
                   (0, C.jsx)("a", {
                     href: "https://rexas.com/how-to-buy/ ",
@@ -71299,19 +71299,19 @@
             },
             {
               id: 4,
-              question: "What is RXS Token?",
+              question: "What is LGO Token?",
               answer:
-                "RXS is the symbol of Rexas Finance token. RXS token is used for governance of the Rexas Finance and Ecosystem.",
+                "LGO is the symbol of LadyGO token. LGO token is used for governance of the LadyGO and Ecosystem.",
             },
             {
               id: 5,
-              question: "How will I receive RXS Tokens?",
+              question: "How will I receive LGO Tokens?",
               answer:
-                "Rexas Finance (RXS) tokens are transferred to your wallet in real time, to see the amount of tokens in your wallet please add RXS as custom token in your wallet.",
+                "LadyGO (LGO) tokens are transferred to your wallet in real time, to see the amount of tokens in your wallet please add LGO as custom token in your wallet.",
             },
             {
               id: 6,
-              question: "How can I contact Rexas Finance team?",
+              question: "How can I contact LadyGO team?",
               answer: (0, C.jsxs)(C.Fragment, {
                 children: [
                   "You can contact us using our contact us form:",
@@ -71344,9 +71344,9 @@
             },
             {
               id: 7,
-              question: "Where can I sell my RXS tokens?",
+              question: "Where can I sell my LGO tokens?",
               answer:
-                "Since we are currently on presale, you cannot sell or transfer your tokens. Once Rexas Finance goes live, users will be able to freely trade it on Uniswap.",
+                "Since we are currently on presale, you cannot sell or transfer your tokens. Once LadyGO goes live, users will be able to freely trade it on Uniswap.",
             },
             {
               id: 8,
@@ -72060,7 +72060,7 @@
                   color: "#fff",
                   textAlign: "center",
                 },
-                children: "2024\xa9 Rexas Finance | All Rights Reserved",
+                children: "2024\xa9 LadyGO| All Rights Reserved",
               }),
             ],
           }),
