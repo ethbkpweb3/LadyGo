@@ -68333,7 +68333,7 @@
                                 WebkitBackgroundClip: "text",
                                 WebkitTextFillColor: "transparent",
                               },
-                              children: "Rexas Finance",
+                              children: "LadyGO",
                             }),
                             " ",
                           ],
@@ -68346,7 +68346,7 @@
                             fontWeight: 600,
                           },
                           children:
-                            "Tokenize Real World Assets Anything, Anywhere",
+                            "Empowering Women, One Journey at a Time",
                         }),
                         (0, C.jsx)(O, {
                           sx: {
@@ -68362,7 +68362,7 @@
                               width: t ? "100%" : "80%",
                             },
                             children:
-                              "Rexas Finance is your gateway to the future of asset management. Rexas Finance empowers you to own or tokenize virtually any real-world asset, from real estate and art to commodities and intellectual property, on a global scale. With Rexas Finance, you gain access to a world where asset liquidity and investment opportunities are boundless. Embrace the power of blockchain technology to make investing more inclusive, transparent, and efficient.",
+                              "We believe in the power of women supporting women. Our car ride service is not just about reaching your destination; it's about the journey itself.",
                           }),
                         }),
                         (0, C.jsxs)(O, {
