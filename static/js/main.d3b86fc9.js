@@ -68810,6 +68810,7 @@
                                       alignItems: "center",
                                       cursor: "pointer",
                                       background: L ? "#F0B90B" : "transparent",
+                                      marginRight: "30px",
                                     },
                                     children: (0, C.jsx)("img", {
                                       src: Ny,
