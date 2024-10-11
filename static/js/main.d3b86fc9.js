@@ -70184,7 +70184,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Name: Rexas Finance",
+                            children: "Name: LadyGO",
                           }),
                         }),
                         (0, C.jsx)(fy, {
