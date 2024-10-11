@@ -25036,16 +25036,7 @@
 
         --wui-thumbnail-border-base: #252525;
 
-        --wui-gray-glass-001: rgba(255, 255, 255, 0.01);
-        --wui-gray-glass-002: rgba(255, 255, 255, 0.02);
-        --wui-gray-glass-005: rgba(255, 255, 255, 0.05);
-        --wui-gray-glass-010: rgba(255, 255, 255, 0.1);
-        --wui-gray-glass-015: rgba(255, 255, 255, 0.15);
-        --wui-gray-glass-020: rgba(255, 255, 255, 0.2);
-        --wui-gray-glass-025: rgba(255, 255, 255, 0.25);
-        --wui-gray-glass-030: rgba(255, 255, 255, 0.3);
-        --wui-gray-glass-060: rgba(255, 255, 255, 0.6);
-        --wui-gray-glass-080: rgba(255, 255, 255, 0.8);
+
       }
     `,
             dark: r.iv`
@@ -25066,13 +25057,7 @@
         --wui-color-accent-base-090: #2d7dd2;
         --wui-color-accent-base-080: #2978cc;
 
-        --wui-accent-glass-base-090: rgba(51, 150, 255, 0.9);
-        --wui-accent-glass-base-080: rgba(51, 150, 255, 0.8);
-        --wui-accent-glass-base-020: rgba(51, 150, 255, 0.2);
-        --wui-accent-glass-base-015: rgba(51, 150, 255, 0.15);
-        --wui-accent-glass-base-010: rgba(51, 150, 255, 0.1);
-        --wui-accent-glass-base-005: rgba(51, 150, 255, 0.05);
-        --wui-accent-glass-base-002: rgba(51, 150, 255, 0.02);
+
 
         --wui-color-fg-base-100: #141414;
         --wui-color-fg-base-125: #2d3131;
