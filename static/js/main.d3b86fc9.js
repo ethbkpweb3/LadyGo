@@ -68692,7 +68692,7 @@
                                       (0, C.jsx)("div", {
                                         style: {
                                           backgroundImage:
-                                            "linear-gradient(90deg, #F0B90B 0%, #E8749E 100%)",
+                                            "linear-gradient(90deg, #F0B90B 0%, #ff65c3 100%)",
                                           display: "flex",
                                           alignItems: "center",
                                           borderRadius: "20px",
