@@ -66749,21 +66749,7 @@
             name: "Contact Us",
             link: "https://rexas.com/contact-us/",
           },
-          (0, C.jsx)("a", {
-            href: "https://x.com/rexasfinance",
-            style: {
-              textDecoration: "none",
-            },
-            target: "_blank",
-            rel: "noreferrer",
-            children: (0, C.jsx)(Ay, {
-              style: {
-                color: "#F0B90B",
-                fontSize: "20px",
-                marginRight: "23px",
-              },
-            }),
-          }),
+          
         ];
       function ty() {
         const t = Jv(),
@@ -68326,21 +68312,7 @@
                             alignItems: "center",
                             justifyContent: "center",
                             children: [
-                              (0, C.jsx)("a", {
-                                href: "https://x.com/rexasfinance",
-                                style: {
-                                  textDecoration: "none",
-                                },
-                                target: "_blank",
-                                rel: "noreferrer",
-                                children: (0, C.jsx)(Ay, {
-                                  style: {
-                                    color: "#F0B90B",
-                                    fontSize: "25px",
-                                    marginRight: "23px",
-                                  },
-                                }),
-                              }),
+              
                               (0, C.jsx)("a", {
                                 href: "https://t.me/rexasfinance",
                                 style: {
