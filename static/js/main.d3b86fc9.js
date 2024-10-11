@@ -72182,7 +72182,37 @@
         });
       }
       function Hw() {
-        return (0, C.jsx)(C.Fragment, );
+        return (0, C.jsx)(C.Fragment, {
+          children: (0, C.jsx)(O, {
+            py: 1,
+            sx: {
+              background: "rgb(255,145,28,0.5)",
+            },
+            children: (0, C.jsx)(Eb.Z, {
+              speed: 50,
+              pauseOnClick: !0,
+              pauseOnHover: !0,
+              gradient: !1,
+              children: (0, C.jsxs)(D, {
+                sx: {
+                  fontSize: "15px",
+                  fontWeight: "400",
+                  color: "#fff",
+                },
+                children: [
+                  (0, C.jsx)("span", {
+                    style: {
+                      fontWeight: "700",
+                    },
+                    children: "Please Note:",
+                  }),
+                  " ",
+                  "REXAS Team will never send you messages on any social networks, Please verify our social links via our website: Rexas.com | Never Share Your Seed Phrase or Private Key with anyone.",
+                ],
+              }),
+            }),
+          }),
+        });
       }
       const qw = function () {
           const { account: t } = (0, e.useContext)(fg),
@@ -72206,7 +72236,7 @@
                     path: "/",
                     element: (0, C.jsxs)(C.Fragment, {
                       children: [
-                        (0, C.jsx)(Hw, {}),
+                    
                         (0, C.jsx)(ty, {}),
                         (0, C.jsx)(rb, {}),
                         (0, C.jsx)(Zb, {}),
