@@ -68467,45 +68467,7 @@
                                 }),
                               }),
                             }),
-                            (0, C.jsx)("a", {
-                              href: "https://rexas.com/audit/",
-                              target: "_blank",
-                              style: {
-                                textDecoration: "none",
-                              },
-                              rel: "noreferrer",
-                              children: (0, C.jsx)("div", {
-                                className: "cardBox",
-                                style: {
-                                  marginRight: "20px",
-                                  width: "120px",
-                                },
-                                children: (0, C.jsx)("div", {
-                                  className: "card-animation",
-                                  style: {
-                                    width: "80%",
-                                  },
-                                  children: (0, C.jsx)("div", {
-                                    className: "card-content",
-                                    style: {
-                                      width: "115px",
-                                    },
-                                    children: (0, C.jsx)("h2", {
-                                      style: {
-                                        fontSize: "16px",
-                                        fontWeight: 500,
-                                        fontFamily: "Poppins",
-                                        display: "flex",
-                                        justifyContent: "center",
-                                        alignItems: "center",
-                                        color: "#fff",
-                                      },
-                                      children: "Audit",
-                                    }),
-                                  }),
-                                }),
-                              }),
-                            }),
+     
                           ],
                         }),
                         (0, C.jsx)(D, {
