@@ -68454,7 +68454,7 @@
                                       children: [
                                         (0, C.jsx)(Oy, {
                                           style: {
-                                            color: "#F0B90B",
+                                            color: "#ff65c3",
                                             fontSize: "25px",
                                             marginRight: "5px",
                                           },
