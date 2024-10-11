@@ -68817,26 +68817,7 @@
                                       alt: "",
                                     }),
                                   }),
-                                  (0, C.jsx)(zt, {
-                                    href: "https://rexas.com/how-to-buy/#Buy-With-Card",
-                                    target: "_blank",
-                                    sx: {
-                                      width: "32%",
-                                      height: "44px",
-                                      border: "2px solid #fff",
-                                      borderRadius: "10px",
-                                      display: "flex",
-                                      justifyContent: "center",
-                                      alignItems: "center",
-                                      cursor: "pointer",
-                                      background: "transparent",
-                                    },
-                                    children: (0, C.jsx)("img", {
-                                      src: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAAArCAYAAABl25buAAAACXBIWXMAABCcAAAQnAEmzTo0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAOLSURBVHgB7ZmNdeIwDIDFvRuADZpOUDa43ARlg+YmaDsB6QSlE9CboNwEYQPoBOQmgE7gky4yEcZxfuiDF6rvPb0ktiU7/pUSAEVRFEVRFEVRFEVRlIG9McaM8DKEEzIYDBaghMGBmZjzMAGlkv8rBztpA8WqyeF0RPaKK+gvKH7ETI7hBGA9kajzChQv3+FCoAGH8szMcTVuoed8g55jivNyjbckS5YNpmUoSUMbb2IlPwTKpYHz01tfQGfXRp5YB7gr5xkLnmLGHe0V8gu9oYw4actCUF5MguVucBU91tgZi6RblCnUk4v7SNR3hfU9tdGhdNR7RL05eBp4TlqfOaY4s9asTzOQZt/QyX8VdTwHbCXCjmVYUdaugrUnbyr044Y6sXiPPT1Z6Jx0GZwZ61KHRoFycruKK8pknD8z5QClFWVDHT0U+g9NdDxtWBsxMXp35nDjE358wa0gDxT/hXLNsvLYiqDYVojfLMQPaAk7IHZbbbtt2203Eu3ppUMwEvfzUEHqMBo8Ft9Zas+anL9WWHuxaRlW8EBH/LhqoUrtXAmdW5veR1d6Nzj8Usdwz9cF21tgJ+dQdPLYpnugLSwRz7Q1260s9x7s9bxD8W6RTbiYOKctpviWGPHji8iirY0+K91B2eEutG3NPOk5yk/4JPq4re22J1PhVTXErprcWYGvfB0GtjZqA7nLclDJFb6uOQNDWMfowyb0ceXQlmFnbQLNYhIfMV+35Kk5edT5NPBVWxudZSndoO4N27rH+9cuXyYcx2TuZp6TLq50xrp1rjQF1WuWsUiPG7aN7Mv46cAtdmylnjY0caUnwkbkZnZhSS/MjSORMcVUpEvJPHa6BqE2plgbzwA5L5w5eTOhm1SIZVzX0aYMeA8mi6mPjZ5FXanvZbuQODbkDKqKsMceO52+SqPeyOxH1zRZ3lg2Tnrk6G587+CUybhMJtKqBkcGoO5EsDqUPxOydNqZum045syZOC99K+6p8nePzh18EnSIYx3kGaVsdwT7MRDt/XRgT+U5wANiJ88iUMUfKL+XDUNnCeVhGaprwuVjz19eGTzLNlK5J99fYfuzzcD5OPpnG69U6RqvqmIgU/6O34biJGHT2tuaMtA80HXK59ZrM/vBqSRnO9WDzgZ6PTiXio1zjo20u0Kz5gMUL3Zw6APhqQcohyJwax0XKIqiKIqiKIqiKIqifB3+AUEPkjFlPcC4AAAAAElFTkSuQmCC",
-                                      width: t ? "68px" : "78px",
-                                      alt: "",
-                                    }),
-                                  }),
+                                
                                 ],
                               }),
                               (0, C.jsxs)(O, {
