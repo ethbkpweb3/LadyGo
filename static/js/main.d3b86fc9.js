@@ -68732,7 +68732,7 @@
                                       " ",
                                       (0, C.jsxs)("span", {
                                         style: {
-                                          color: "#FFe1a9",
+                                          color: "#ff65c3",
                                         },
                                         children: [
                                           "$",
