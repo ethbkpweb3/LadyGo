@@ -68812,7 +68812,6 @@
                                       cursor: "pointer",
                                       background: L ? "#ff65c3" : "transparent",
                                       marginRight: "30px",
-                                      
                                     },
                                     children: (0, C.jsx)("img", {
                                       src: Ny,
@@ -68820,7 +68819,6 @@
                                       alt: "",
                                     }),
                                   }),
-                                
                                 ],
                               }),
                               (0, C.jsxs)(O, {
@@ -72220,7 +72218,6 @@
                     path: "/",
                     element: (0, C.jsxs)(C.Fragment, {
                       children: [
-                    
                         (0, C.jsx)(ty, {}),
                         (0, C.jsx)(rb, {}),
                         (0, C.jsx)(Zb, {}),
