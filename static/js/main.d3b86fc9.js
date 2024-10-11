@@ -48460,7 +48460,7 @@
         };
       }
       const Ps = Es({
-          id: 1,
+          id: 8453,
           network: "homestead",
           name: "Ethereum",
           nativeCurrency: {
@@ -48470,7 +48470,7 @@
           },
           rpcUrls: {
             alchemy: {
-              http: ["https://eth-mainnet.g.alchemy.com/v2"],
+              http: ["https://8453.rpc.thirdweb.com/4a728d0fb54fc4c6adf012d2457c398f"],
               webSocket: ["wss://eth-mainnet.g.alchemy.com/v2"],
             },
             infura: {
