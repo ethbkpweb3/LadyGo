@@ -69990,7 +69990,7 @@
                               WebkitBackgroundClip: "text",
                               WebkitTextFillColor: "transparent",
                             },
-                            children: "LadyGO ECOSYSTEM",
+                            children: "LadyGO Empowering Women Drivers with Blockchain",
                           }),
                           " ",
                         ],
