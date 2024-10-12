@@ -71254,7 +71254,7 @@
               id: 1,
               question: "What is LadyGO?",
               answer:
-                "LadyGO is a blockchain platform designed to facilitate the tokenization of real-world assets. Our ecosystem offers tools to tokenize, invest, and manage assets such as real estate, precious metals, and other valuable commodities, leveraging blockchain technology for transparency and efficiency",
+                "LadyGo is a revolutionary platform designed to empower female drivers through the use of blockchain technology. Built on a foundation of trust, safety, and inclusivity, LadyGo allows women to take control of their journeys, both on the road and in the world of cryptocurrency.",
             },
             {
               id: 2,
@@ -71271,27 +71271,27 @@
                   "To begin investing with LadyGO, Head over to LadyGO.com",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://LadyGO.com ",
+                    href: "https://LadyGO.taxi",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "https://LadyGO.com",
+                    children: "https://LadyGO.taxi",
                   }),
                   " ",
                   "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy LadyGO - Click Here.",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://LadyGO.com/how-to-buy/ ",
+                    href: "https://LadyGO.taxi/how-to-buy/ ",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "https://LadyGO.com/how-to-buy/",
+                    children: "https://LadyGO.taxi/how-to-buy/",
                   }),
                 ],
               }),
@@ -71300,7 +71300,7 @@
               id: 4,
               question: "What is LGO Token?",
               answer:
-                "LGO is the symbol of LadyGO token. LGO token is used for governance of the LadyGO and Ecosystem.",
+                "LGO is the symbol of LadyGO token.  With blockchain-enhanced identity verification and trustless payment systems, LadyGo ensures a safe and reliable environment for both drivers and passengers.",
             },
             {
               id: 5,
@@ -71316,27 +71316,27 @@
                   "You can contact us using our contact us form:",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://LadyGO.com/contact-us/ ",
+                    href: "https://LadyGO.taxi/contact-us/ ",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "https://LadyGO.com/contact-us/",
+                    children: "https://LadyGO.taxi/contact-us/",
                   }),
                   " ",
                   "Or buy emailing us at:",
                   " ",
                   (0, C.jsxs)("a", {
-                    href: "mailto: support@LadyGO.com",
+                    href: "mailto: support@LadyGO.taxi",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: [" ", "support@LadyGO.com"],
+                    children: [" ", "support@LadyGO.taxi"],
                   }),
                 ],
               }),
@@ -71347,12 +71347,7 @@
               answer:
                 "Since we are currently on presale, you cannot sell or transfer your tokens. Once LadyGO goes live, users will be able to freely trade it on Uniswap.",
             },
-            {
-              id: 8,
-              question: "My wallet is Hacked, What should I do?",
-              answer:
-                "Unfortunately, there is nothing we can do on our end in this situation. Never Share Your Seed Phrase or Private Key: Under no circumstances should you share your Seed Phrase or Private Key with anyone. These are sensitive and should be kept secure.",
-            },
+       
           ];
         return (0, C.jsx)(C.Fragment, {
           children: (0, C.jsx)(O, {
