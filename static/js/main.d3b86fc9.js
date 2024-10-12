@@ -69864,7 +69864,7 @@
         Kb = n.p + "static/media/fig3.7e4577aa86b2d834bc27.png",
         Yb = n.p + "static/media/fig4.f572dbdfc035e581b90e.png",
         Xb = n.p + "static/media/logo.webp",
-        Qb = n.p + "static/media/fig6.74cbc802e49f741902ae.png";
+        Qb = n.p + "static/media/launch.png";
       const Jb =
         n.p + "static/media/card1.eb8bf96b52151de98df7faae35b55268.svg";
       const ew =
