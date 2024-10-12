@@ -69998,7 +69998,7 @@
                       e &&
                         (0, C.jsx)("img", {
                           src: qb,
-                          width: "20%",
+                          width: "60%",
                           alt: "",
                         }),
                       (0, C.jsx)(D, {
