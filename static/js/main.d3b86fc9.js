@@ -69944,7 +69944,7 @@
               }),
               title: "LadyGo Mission",
               description:
-                "At LadyGo, our mission is to empower women in the transportation industry by providing a safe, supportive, and innovative platform that harnesses the power of technology. We are committed to fostering a community of female drivers, enhancing their mobility experience through AI-driven solutions, and promoting equal opportunities in a traditionally male-dominated field. By prioritizing safety, flexibility, and support, LadyGo aims to transform the driving landscape, enabling women to thrive and succeed on their own terms.",
+                "At LadyGo, our mission is to empower women in the transportation industry by providing a safe, supportive, and innovative platform that harnesses the power of technology. ",
             },
           ];
         return (0, C.jsx)(O, {
