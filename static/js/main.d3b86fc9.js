@@ -69978,7 +69978,7 @@
                       (0, C.jsxs)(D, {
                         sx: {
                           fontFamily: "accelerator",
-                          fontSize: e ? "36px" : "66px",
+                          fontSize: e ? "26px" : "26px",
                           textAlign: e ? "center" : "left",
                         },
                         children: [
