@@ -68698,7 +68698,7 @@
                                       marginLeft: "30px",
                                     },
                                     children: [(0, C.jsx)("img", {
-                                          className: "token_logo",
+                                        
                                           src: zy,
                                           alt: "",
                                           width: "22%",
