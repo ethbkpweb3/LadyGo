@@ -70000,6 +70000,7 @@
                           src: qb,
                           width: "60%",
                           alt: "",
+                          margintop:"20px",
                         }),
                       (0, C.jsx)(D, {
                         mt: 4,
