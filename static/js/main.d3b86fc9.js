@@ -68697,12 +68697,13 @@
                                       background: B ? "#ff65c3" : "transparent",
                                       marginLeft: "30px",
                                     },
-                                    children: (0, C.jsx)("img", {
-                                      
-                                      src: By  ,  
-                                      width: t ? "68px" : "78px",
-                                      alt: "",
-                                    }),
+                                    children: [(0, C.jsx)("img", {
+                                          className: "token_logo",
+                                          src: By,
+                                          alt: ""
+                                      }), (0, C.jsx)("p", {
+                                          children: "ETH"
+                                      })]
                                   }),
                                   (0, C.jsx)(O, {
                                     onClick: () => {
