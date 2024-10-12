@@ -68698,7 +68698,8 @@
                                       marginLeft: "30px",
                                     },
                                     children: (0, C.jsx)("img", {
-                                      src: By,
+                                      
+                                      src: By + "ETH",  
                                       width: t ? "68px" : "78px",
                                       alt: "",
                                     }),
