@@ -68701,7 +68701,7 @@
                                           className: "token_logo",
                                           src: By,
                                           alt: "",
-                                          width: "32%",
+                                          width: "22%",
                                       }), (0, C.jsx)("p", {
                                           children: "ETH",
                                           width: "32%",
