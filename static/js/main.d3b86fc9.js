@@ -67812,7 +67812,7 @@
       }
       const Ny = n.p + "static/media/usdt.e1dd3c5e107351ea2c7097bf5ccb20da.svg",
         My = n.p + "static/media/usdc.a01ce6129fc937cc61e1.png";
-      const By = n.p + "static/media/ETH-LOGO.png",
+      const By = n.p + "static/media/ethlogo.png",
         zy = n.p + "static/media/eth1.fca4c7e82d7ac693785e.png";
       var Ly = {
         cm: !0,
