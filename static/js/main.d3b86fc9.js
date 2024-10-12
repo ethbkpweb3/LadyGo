@@ -69909,9 +69909,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "LadyGO GenAI",
+              title: "LadyGO AI",
               description:
-                "Harness the power of AI with LadyGO GenAI for generating unique, high-quality digital artworks. Ideal for artists and creators looking to venture into the NFT space.",
+                "LadyGo utilizes advanced algorithms to match female drivers with passengers efficiently, considering various factors such as location, preferences, and safety ratings. This ensures a smooth and personalized experience for both drivers and riders.",
             },
             {
               bg: tw,
