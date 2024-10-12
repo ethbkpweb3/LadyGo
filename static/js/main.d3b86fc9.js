@@ -66734,7 +66734,7 @@
             link: "/#tokenomics",
           },
           {
-            name: "Win $1M",
+            name: "Win $100K",
             link: "/LadyGO-millionaire/",
           },
           {
@@ -66925,7 +66925,7 @@
                             target: "_blank",
                             children: (0, C.jsx)(ys, {
                               mr: 4,
-                              children: "Win $1M",
+                              children: "Win $100K",
                             }),
                           }),
                           (0, C.jsx)(Uv, {
@@ -71853,7 +71853,7 @@
                             style: {
                               fontSize: "14px",
                             },
-                            children: "Win $1M",
+                            children: "Win $100K",
                           }),
                         }),
                         (0, C.jsx)(Uv, {
@@ -71951,7 +71951,7 @@
                                 style: {
                                   fontSize: "14px",
                                 },
-                                children: "Win $1M",
+                                children: "Win $100K",
                               }),
                             }),
                             (0, C.jsx)(Uv, {
