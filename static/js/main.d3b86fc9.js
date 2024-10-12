@@ -69755,23 +69755,23 @@
       n.p;
       const Wb = [
         {
-          title: "Diverse Asset Range:",
+          title: "AI-Powered Optimization:",
           description:
-            "Seamlessly invest in a wide range of Real World Assets.",
+            "Our AI-driven system enhances ride-matching, optimizes routes, and provides real-time safety monitoring, ensuring seamless experiences for both drivers and passengers.",
         },
         {
-          title: "Fractional Ownership:",
+          title: "Blockchain-Based Payments:",
           description:
-            " Participate in fractional ownership, making previously inaccessible investment opportunities available to all.",
+            " LadyGo’s decentralized payment system guarantees secure, transparent transactions, while offering crypto rewards for drivers, allowing them to participate in the digital economy and increase their earning potential.",
         },
         {
-          title: "Democratize Investment:",
+          title: "Scalable and Global Potential: ",
           description:
-            " Our platform democratizes access, offering a simple, secure, and transparent way to diversify your portfolio.",
+            " LadyGo is designed to easily expand into new markets globally, leveraging its AI and blockchain foundation to scale across transportation, delivery, and logistics sectors.",
         },
         {
-          title: "Accessible Real Estate Investment:",
-          description: "Invest in real estate without the high entry costs.",
+          title: "Blockchain-Powered Transparency and Security:",
+          description: " All transactions on the LadyGo platform are secured by blockchain, ensuring transparency, security, and tamper-proof records. As a token holder, you are part of a trusted, decentralized system that offers long-term value and stability.",
         },
         {
           title: "Diverse Opportunities:",
@@ -69817,10 +69817,10 @@
                             WebkitBackgroundClip: "text",
                             WebkitTextFillColor: "transparent",
                           },
-                          children: "Unlock",
+                          children: "LadyGo",
                         }),
                         " ",
-                        "the World of Asset Investment with Ease and Flexibility",
+                        " Revolutionizing Ride-Hailing with AI and Blockchain",
                       ],
                     }),
                     Wb.map((t, n) => {
@@ -69929,9 +69929,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "LadyGO DeFi",
+              title: "Staking and Governance",
               description:
-                "LadyGO DeFi offers a powerful decentralized solution for cryptocurrency trading, enabling users to effortlessly swap crypto across multiple networks.",
+                "LadyGO Token holders will have the opportunity to stake their tokens for additional rewards and participate in key decisions regarding platform development, governance, and community initiatives.",
             },
             {
               bg: ew,
