@@ -69866,7 +69866,7 @@
         Xb = n.p + "static/media/logo.webp",
         Qb = n.p + "static/media/launch.png";
       const Jb =
-        n.p + "static/media/card1.eb8bf96b52151de98df7faae35b55268.svg";
+        n.p + "static/media/logo.webp";
       const ew =
         n.p + "static/media/card2.4170d3057132918f7b0744d7f8b13c44.svg";
       const tw =
