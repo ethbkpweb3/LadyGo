@@ -68699,12 +68699,12 @@
                                     },
                                     children: [(0, C.jsx)("img", {
                                         
-                                          src: zy,
+                                          src: By,
                                           alt: "",
                                           width: "22%",
                                       }), (0, C.jsx)("p", {
                                           children: "ETH",
-                                          width: "22%",
+                                          width: "20002%",
                                       })]
                                   }),
                                   (0, C.jsx)(O, {
