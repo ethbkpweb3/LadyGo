@@ -69859,7 +69859,7 @@
         });
       }
       const qb = n.p + "static/media/women-drive.webp",
-        Vb = n.p + "static/media/fig1.67821f18580e14af9224.png",
+        Vb = n.p + "static/media/mission.png",
         Gb = n.p + "static/media/fig2.c78402887392364fb9ed.png",
         Kb = n.p + "static/media/fig3.7e4577aa86b2d834bc27.png",
         Yb = n.p + "static/media/ai.png",
