@@ -70010,7 +70010,7 @@
                           textAlign: e ? "center" : "left",
                         },
                         children:
-                          "Explore the LadyGO ecosystem, designed to streamline your journey into the world of blockchain and digital assets. Whether you're looking to invest in real estate, tokenize your assets, or engage in creative endeavors through NFTs, LadyGO provides the tools you need. Benefit from a secure platform for trading and token funding, while maximizing your investments with advanced yield-optimizing strategies. Our seamless multi-chain technology ensures that your trading is efficient and your investments grow.",
+                          "LadyGo is a revolutionary platform designed to empower female drivers through the use of blockchain technology. Built on a foundation of trust, safety, and inclusivity, LadyGo allows women to take control of their journeys, both on the road and in the world of cryptocurrency. <br> Our platform connects women drivers with passengers in a secure, decentralized ecosystem, where every transaction is transparent and verified via blockchain. With LadyGo, women not only gain financial independence by driving but also access unique crypto rewards for every ride completed.",
                       }),
                     ],
                   }),
