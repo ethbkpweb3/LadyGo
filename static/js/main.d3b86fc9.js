@@ -70010,7 +70010,17 @@
                           textAlign: e ? "center" : "left",
                         },
                         children:
-                          "LadyGo is a revolutionary platform designed to empower female drivers through the use of blockchain technology. Built on a foundation of trust, safety, and inclusivity, LadyGo allows women to take control of their journeys, both on the road and in the world of cryptocurrency. <br> Our platform connects women drivers with passengers in a secure, decentralized ecosystem, where every transaction is transparent and verified via blockchain. With LadyGo, women not only gain financial independence by driving but also access unique crypto rewards for every ride completed.",
+                          "LadyGo is a revolutionary platform designed to empower female drivers through the use of blockchain technology. Built on a foundation of trust, safety, and inclusivity, LadyGo allows women to take control of their journeys, both on the road and in the world of cryptocurrency.  ",
+                      }),         (0, C.jsx)(D, {
+                        mt: 4,
+                        sx: {
+                          fontFamily: "Poppins",
+                          fontSize: e ? "12px" : "22px",
+                          color: "#fff",
+                          textAlign: e ? "center" : "left",
+                        },
+                        children:
+                          " Our platform connects women drivers with passengers in a secure, decentralized ecosystem, where every transaction is transparent and verified via blockchain. With LadyGo, women not only gain financial independence by driving but also access unique crypto rewards for every ride completed.",
                       }),
                     ],
                   }),
