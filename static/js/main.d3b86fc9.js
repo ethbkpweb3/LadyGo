@@ -69773,16 +69773,7 @@
           title: "Blockchain-Powered Transparency and Security:",
           description: " All transactions on the LadyGo platform are secured by blockchain, ensuring transparency, security, and tamper-proof records. As a token holder, you are part of a trusted, decentralized system that offers long-term value and stability.",
         },
-        {
-          title: "Diverse Opportunities:",
-          description:
-            "Own a piece of precious metals or thriving businesses with just a few clicks.",
-        },
-        {
-          title: "Global Market Access:",
-          description:
-            "LadyGO brings the potential of the global market directly to your fingertips.",
-        },
+   
       ];
       function Hb() {
         const e = u("(max-width:950px)");
