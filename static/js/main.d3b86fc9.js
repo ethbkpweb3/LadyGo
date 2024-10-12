@@ -69931,9 +69931,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "LadyGO Estate",
+              title: "Transparent Pricing",
               description:
-                "Invest in real estate with LadyGO, co-own real world properties and earn passive income in stable coins.",
+                "Say goodbye to hidden fees and complicated fare structures. LadyGo offers transparent and competitive pricing, allowing you to know the cost of your ride upfront.",
             },
             {
               bg: Jb,
@@ -69942,9 +69942,9 @@
                 width: e ? "60%" : "65%",
                 alt: "",
               }),
-              title: "LadyGO Treasury",
+              title: "LadyGo Mission",
               description:
-                "Multi-chain yield optimizer that allows users to earn compound interest on their crypto deposits.",
+                "At LadyGo, our mission is to empower women in the transportation industry by providing a safe, supportive, and innovative platform that harnesses the power of technology. We are committed to fostering a community of female drivers, enhancing their mobility experience through AI-driven solutions, and promoting equal opportunities in a traditionally male-dominated field. By prioritizing safety, flexibility, and support, LadyGo aims to transform the driving landscape, enabling women to thrive and succeed on their own terms.",
             },
           ];
         return (0, C.jsx)(O, {
