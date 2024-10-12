@@ -69868,15 +69868,15 @@
       const Jb =
         n.p + "static/media/logo";
       const ew =
-        n.p + "static/media/card2.4170d3057132918f7b0744d7f8b13c44.svg";
+        n.p + "static/media/card2.4170d3057132918vg";
       const tw =
-        n.p + "static/media/card3.13e2e8fcede25e7d69b232ff9691dd8b.svg";
+        n.p + "static/media/card3.13e2e8fcede29691dd8b.svg";
       const nw =
-        n.p + "static/media/card4.141711aa24ff0ec82193de0d04bbbbd3.svg";
+        n.p + "static/media/card4.141711aa24ff0d04bbbbd3.svg";
       const rw =
-        n.p + "static/media/card5.d524972979258aac0138f70fc9f00890.svg";
+        n.p + "static/media/card5.d52497297925fc9f00890.svg";
       const iw =
-        n.p + "static/media/card6.b29d28d4b21cebc1e63565a38da3233f.svg";
+        n.p + "static/media/card6.b29d28d4b21cebc1da3233f.svg";
       function ow() {
         const e = u("(max-width:950px)"),
           t = [
