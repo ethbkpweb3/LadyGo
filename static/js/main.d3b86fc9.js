@@ -68699,7 +68699,7 @@
                                     },
                                     children: (0, C.jsx)("img", {
                                       
-                                      src: By + "ETH",  
+                                      src: By  ,  
                                       width: t ? "68px" : "78px",
                                       alt: "",
                                     }),
