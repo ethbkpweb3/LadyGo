@@ -68700,7 +68700,8 @@
                                     children: [(0, C.jsx)("img", {
                                           className: "token_logo",
                                           src: By,
-                                          alt: ""
+                                          alt: "",
+                                          width: "32%",
                                       }), (0, C.jsx)("p", {
                                           children: "ETH"
                                       })]
