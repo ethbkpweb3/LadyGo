@@ -66746,7 +66746,7 @@
           },
           {
             name: "Contact Us",
-            link: "/contact-us/",
+            link: "https://ladygo.taxi/gb/about-us/",
           },
         ];
       function ty() {
@@ -66938,7 +66938,7 @@
                             }),
                           }),
                           (0, C.jsx)(Uv, {
-                            to: "/contact-us/",
+                            to: "https://ladygo.taxi/gb/about-us/",
                             style: {
                               textDecoration: "none",
                             },
@@ -71294,7 +71294,7 @@
                   "You can contact us using our contact us form:",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://LadyGO.taxi/contact-us/ ",
+                    href: "https://ladygo.taxi/gb/about-us/ ",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
@@ -71818,7 +71818,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "/contact-us/",
+                          to: "https://ladygo.taxi/gb/about-us/",
                           style: {
                             textDecoration: "none",
                           },
@@ -71916,7 +71916,7 @@
                               }),
                             }),
                             (0, C.jsx)(Uv, {
-                              to: "/contact-us/",
+                              to: "https://ladygo.taxi/gb/about-us/",
                               style: {
                                 textDecoration: "none",
                               },
