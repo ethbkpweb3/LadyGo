@@ -69967,13 +69967,20 @@
                         ],
                       }),
                       e &&
-                        (0, C.jsx)("img", {
+                      (0, C.jsx)(fy, {
+                        item: !0,
+                        xs: 12,
+                        md: 6,
+                        textAlign: "center",
+                        order: e ? 1 : 2,
+                        children: (0, C.jsx)("img", {
                           src: qb,
                           width: "60%",
                           alt: "",
-                          margintop: "20px",
                           textAlign: "center",
+                          marginLeft: "30px",
                         }),
+                      }),
                       (0, C.jsx)(D, {
                         mt: 4,
                         sx: {
