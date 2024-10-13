@@ -70310,7 +70310,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Marketing: 3%",
+                            children: "Presale: 40%",
                           }),
                         }),
                         (0, C.jsx)(fy, {
@@ -70329,7 +70329,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Presale 42.5%",
+                            children: "Liquidity 15%",
                           }),
                         }),
                         (0, C.jsx)(fy, {
@@ -70348,7 +70348,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Liquidity: 15%",
+                            children: "Marketing: 5%",
                           }),
                         }),
                         (0, C.jsx)(fy, {
@@ -70364,7 +70364,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Treasury: 10%",
+                            children: "Rewards: 5%",
                           }),
                         }),
                       ],
@@ -70403,7 +70403,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Team: 3%",
+                            children: "Staking: 10%",
                           }),
                         }),
                         (0, C.jsx)(fy, {
@@ -70422,7 +70422,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Giveaway: 2%",
+                            children: "Development: 5%",
                           }),
                         }),
                         (0, C.jsx)(fy, {
@@ -70441,7 +70441,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Partner: 2%",
+                            children: "Development: 20%",
                           }),
                         }),
                         (0, C.jsx)(fy, {
@@ -70457,7 +70457,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Staking Pool: 22.5%",
+                            children: "CEX: 10%",
                           }),
                         }),
                       ],
