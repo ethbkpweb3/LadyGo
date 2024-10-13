@@ -68704,7 +68704,7 @@
                                           width: "22%",
                                       }), (0, C.jsx)("p", {
                                           children: "ETH",
-                                          width: "21%",
+                                          width: "22%",
                                       })]
                                   }),
                                   (0, C.jsx)(O, {
