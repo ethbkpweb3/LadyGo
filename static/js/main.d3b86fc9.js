@@ -66867,7 +66867,7 @@
                     },
                     children: (0, C.jsx)("img", {
                       src: "static/media/logo.webp",
-                      width: e ? "120px" : "200px",
+                      width: e ? "90px" : "200px",
                       style: {
                         marginRight: e ? "30px" : "55px",
                       },
