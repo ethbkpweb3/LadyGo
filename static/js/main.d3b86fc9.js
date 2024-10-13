@@ -69832,6 +69832,7 @@
                     src: $b,
                     width: "60%",
                     alt: "",
+                    textAlign: "center",
                   }),
                 }),
               ],
