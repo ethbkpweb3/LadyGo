@@ -70006,6 +70006,7 @@
                         src: qb,
                         width: "60%",
                         alt: "",
+                        textAlign: e ? "center" : "left",
                       }),
                     }),
                 ],
