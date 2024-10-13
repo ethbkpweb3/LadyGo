@@ -69732,7 +69732,7 @@
           }),
         });
       }
-      const $b = n.p + "static/media/lgo.webp";
+      const $b = n.p + "static/media/logo.webp";
       n.p;
       const Wb = [
         {
