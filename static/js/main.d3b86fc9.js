@@ -65158,8 +65158,7 @@
               : "Connect Wallet",
           });
         };
-      const vg =
-        n.p + "static/media/logo.webp";
+      const vg = n.p + "static/media/logo.webp";
       function yg() {
         return (
           (yg = Object.assign
@@ -66749,7 +66748,6 @@
             name: "Contact Us",
             link: "/contact-us/",
           },
-          
         ];
       function ty() {
         const t = Jv(),
@@ -66868,13 +66866,13 @@
                       textDecoration: "none",
                     },
                     children: (0, C.jsx)("img", {
-                        src: "static/media/logo.webp",
-                        width: e ? "120px" : "200px",
-                        style: {
-                          marginRight: e ? "30px" : "55px",
-                        },
-                        alt: "",
-                      }),
+                      src: "static/media/logo.webp",
+                      width: e ? "120px" : "200px",
+                      style: {
+                        marginRight: e ? "30px" : "55px",
+                      },
+                      alt: "",
+                    }),
                   }),
                   (0, C.jsxs)(O, {
                     display: "flex",
@@ -68310,11 +68308,7 @@
                             display: "flex",
                             alignItems: "center",
                             justifyContent: "center",
-                            children: [
-          
-                
-          
-                            ],
+                            children: [],
                           }),
                         (0, C.jsxs)(D, {
                           mt: 1,
@@ -68344,8 +68338,7 @@
                             textAlign: "center",
                             fontWeight: 600,
                           },
-                          children:
-                            "Empowering Women, One Journey at a Time",
+                          children: "Empowering Women, One Journey at a Time",
                         }),
                         (0, C.jsx)(O, {
                           sx: {
@@ -68411,7 +68404,6 @@
                                 }),
                               }),
                             }),
-     
                           ],
                         }),
                         (0, C.jsx)(D, {
@@ -68697,17 +68689,19 @@
                                       background: B ? "#ff65c3" : "transparent",
                                       marginLeft: "30px",
                                     },
-                                    children: [(0, C.jsx)("img", {
-                                        
-                                          src: By,
-                                          alt: "",
-                                          width: "22%",
-                                          marginRight: "50px",
-                                      }), (0, C.jsx)("p", {
-                                          children: "ETH",
-                                          width: "22%",
-                                          marginLeft: "25px",
-                                      })]
+                                    children: [
+                                      (0, C.jsx)("img", {
+                                        src: By,
+                                        alt: "",
+                                        width: "22%",
+                                        marginRight: "50px",
+                                      }),
+                                      (0, C.jsx)("p", {
+                                        children: "ETH",
+                                        width: "22%",
+                                        marginLeft: "25px",
+                                      }),
+                                    ],
                                   }),
                                   (0, C.jsx)(O, {
                                     onClick: () => {
@@ -68727,7 +68721,7 @@
                                     },
                                     children: (0, C.jsx)("img", {
                                       src: Ny,
-                                      width: t ? "68px" : "78px",
+                                      width: t ? "38px" : "38px",
                                       alt: "",
                                     }),
                                   }),
@@ -69777,9 +69771,9 @@
         },
         {
           title: "Blockchain-Powered Transparency and Security:",
-          description: " All transactions on the LadyGo platform are secured by blockchain, ensuring transparency, security, and tamper-proof records. As a token holder, you are part of a trusted, decentralized system that offers long-term value and stability.",
+          description:
+            " All transactions on the LadyGo platform are secured by blockchain, ensuring transparency, security, and tamper-proof records. As a token holder, you are part of a trusted, decentralized system that offers long-term value and stability.",
         },
-   
       ];
       function Hb() {
         const e = u("(max-width:950px)");
@@ -69871,18 +69865,12 @@
         Yb = n.p + "static/media/ai.png",
         Xb = n.p + "static/media/logo.webp",
         Qb = n.p + "static/media/launch.png";
-      const Jb =
-        n.p + "static/media/logo";
-      const ew =
-        n.p + "static/media/card2.4170d3057132918vg";
-      const tw =
-        n.p + "static/media/card3.13e2e8fcede29691dd8b.svg";
-      const nw =
-        n.p + "static/media/card4.141711aa24ff0d04bbbbd3.svg";
-      const rw =
-        n.p + "static/media/card5.d52497297925fc9f00890.svg";
-      const iw =
-        n.p + "static/media/card6.b29d28d4b21cebc1da3233f.svg";
+      const Jb = n.p + "static/media/logo";
+      const ew = n.p + "static/media/card2.4170d3057132918vg";
+      const tw = n.p + "static/media/card3.13e2e8fcede29691dd8b.svg";
+      const nw = n.p + "static/media/card4.141711aa24ff0d04bbbbd3.svg";
+      const rw = n.p + "static/media/card5.d52497297925fc9f00890.svg";
+      const iw = n.p + "static/media/card6.b29d28d4b21cebc1da3233f.svg";
       function ow() {
         const e = u("(max-width:950px)"),
           t = [
@@ -69963,7 +69951,7 @@
                 container: !0,
                 spacing: 5,
                 mt: e && 5,
-                marginTop:"50px",
+                marginTop: "50px",
                 display: "flex",
                 alignItems: "center",
                 children: [
@@ -69988,7 +69976,8 @@
                               WebkitBackgroundClip: "text",
                               WebkitTextFillColor: "transparent",
                             },
-                            children: "LadyGO Empowering Women Drivers with Blockchain",
+                            children:
+                              "LadyGO Empowering Women Drivers with Blockchain",
                           }),
                           " ",
                         ],
@@ -69998,7 +69987,7 @@
                           src: qb,
                           width: "60%",
                           alt: "",
-                          margintop:"20px",
+                          margintop: "20px",
                         }),
                       (0, C.jsx)(D, {
                         mt: 4,
@@ -70010,7 +69999,8 @@
                         },
                         children:
                           "LadyGo is a revolutionary platform designed to empower female drivers through the use of blockchain technology. Built on a foundation of trust, safety, and inclusivity, LadyGo allows women to take control of their journeys, both on the road and in the world of cryptocurrency.  ",
-                      }),         (0, C.jsx)(D, {
+                      }),
+                      (0, C.jsx)(D, {
                         mt: 4,
                         sx: {
                           fontFamily: "Poppins",
@@ -70492,7 +70482,6 @@
                       ],
                     }),
                   }),
-              
                 ],
               }),
             }),
@@ -71267,8 +71256,7 @@
             },
             {
               id: 2,
-              question:
-                "What types of assets can I tokenize with LadyGO?",
+              question: "What types of assets can I tokenize with LadyGO?",
               answer:
                 "LadyGO supports the tokenization of a wide variety of assets, including but not limited to real estate, art, gold, and corporate bonds. Our platform provides the flexibility to bring almost any valuable asset onto the blockchain.",
             },
@@ -71356,7 +71344,6 @@
               answer:
                 "Since we are currently on presale, you cannot sell or transfer your tokens. Once LadyGO goes live, users will be able to freely trade it on Uniswap.",
             },
-       
           ];
         return (0, C.jsx)(C.Fragment, {
           children: (0, C.jsx)(O, {
