@@ -68950,7 +68950,7 @@
                                             },
                                           }),
                                           " ",
-                                          "$100K Giveaway",
+                                          "Buy & Win a share of $100K!",
                                         ],
                                       }),
                                     ],
