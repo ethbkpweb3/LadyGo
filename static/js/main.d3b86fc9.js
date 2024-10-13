@@ -70006,7 +70006,7 @@
                       textAlign: "center",
                       order: !e && 1,
                       children: (0, C.jsx)("img", {
-                        src: qb,
+                        src: ,
                         width: "60%",
                         alt: "",
                         textAlign: "center",
