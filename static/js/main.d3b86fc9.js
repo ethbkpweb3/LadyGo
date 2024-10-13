@@ -68702,7 +68702,7 @@
                                           src: By,
                                           alt: "",
                                           width: "22%",
-                                          marginRight: "10px",
+                                          marginRight: "50px",
                                       }), (0, C.jsx)("p", {
                                           children: "ETH",
                                           width: "22%",
