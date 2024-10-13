@@ -69827,7 +69827,7 @@
                   item: !0,
                   xs: 12,
                   md: 6,
-                  bg: rw,
+             
                   order: e ? 1 : 2,
                   children: (0, C.jsx)("img", {
                     src: $b,
