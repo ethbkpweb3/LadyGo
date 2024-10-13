@@ -69968,7 +69968,7 @@
                       }),
                       e &&
                         (0, C.jsx)("img", {
-                      
+                          src: qb,
                           width: "60%",
                           alt: "",
                           margintop: "20px",
@@ -70006,7 +70006,7 @@
                       textAlign: "center",
                       order: !e && 1,
                       children: (0, C.jsx)("img", {
-                     
+                        src: qb,
                         width: "60%",
                         alt: "",
                         textAlign: "center",
