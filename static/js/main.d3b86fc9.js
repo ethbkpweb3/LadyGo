@@ -70403,7 +70403,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Staking: 20%",
+                            children: "Staking: 15%",
                           }),
                         }),
                         (0, C.jsx)(fy, {
@@ -70441,7 +70441,7 @@
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
-                            children: "Team: 10%",
+                            children: "Team: 5%",
                           }),
                         }),
                         (0, C.jsx)(fy, {
