@@ -70366,21 +70366,6 @@
                             },
                             children: "Treasury: 10%",
                           }),
-                        }),       (0, C.jsx)(fy, {
-                          item: !0,
-                          xs: 3,
-                          md: 3,
-                          height: t ? "20px" : "80px",
-                          children: (0, C.jsx)(D, {
-                            sx: {
-                              fontFamily: "Space Grotesk",
-                              fontWeight: 700,
-                              fontSize: t ? "11px" : "30px",
-                              color: "#FFFFFF",
-                              textAlign: "center",
-                            },
-                            children: "Treasury: 10%",
-                          }),
                         }),
                       ],
                     }),
