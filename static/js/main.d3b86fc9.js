@@ -68945,7 +68945,7 @@
                                         children: [
                                           (0, C.jsx)(Oy, {
                                             style: {
-                                              fontSize: "17px",
+                                              fontSize: "10px",
                                               marginRight: "7px",
                                             },
                                           }),
