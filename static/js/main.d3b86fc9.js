@@ -68729,7 +68729,7 @@
                                             },
                                             children:
                                               "USDT" === i
-                                                ? "USDT"
+                                                ? "USDC"
                                                 : "USDC" === i
                                                 ? "USDC"
                                                 : "ETH",
