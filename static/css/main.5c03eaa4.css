@@ -34,9 +34,7 @@ code {
     position: relative;
     width: 176px
 }
-.bkp{
-    text-align: center;
-}
+
 .cardBox:before {
     animation: spin 3s linear infinite;
     background: linear-gradient(271.68deg,#000000 50%,#000000 0);
