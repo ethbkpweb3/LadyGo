@@ -66734,7 +66734,7 @@
           },
           {
             name: "Win $100K",
-            link: "/LadyGO-millionaire/",
+            link: "https://gleam.io/",
           },
           {
             name: "Whitepaper",
@@ -66916,7 +66916,7 @@
                             }),
                           }),
                           (0, C.jsx)(Uv, {
-                            to: "/LadyGO-millionaire/",
+                            to: "https://gleam.io/",
                             style: {
                               textDecoration: "none",
                             },
@@ -68923,7 +68923,7 @@
                                         ],
                                       }),
                                       (0, C.jsxs)(zt, {
-                                        href: "millionaire/",
+                                        href: "https://gleam.io/",
                                         target: "_blank",
                                         sx: {
                                           width: "48%",
@@ -71803,7 +71803,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "millionaire/",
+                          to: "https://gleam.io/",
                           style: {
                             textDecoration: "none",
                           },
@@ -71889,7 +71889,7 @@
                           alignItems: "center",
                           children: [
                             (0, C.jsx)(Uv, {
-                              to: "/LadyGO-millionaire/",
+                              to: "https://gleam.io/",
                               style: {
                                 textDecoration: "none",
                               },
