@@ -69833,6 +69833,7 @@
                     width: "60%",
                     alt: "",
                     textAlign: "center",
+                    marginLeft: "30px",
                   }),
                 }),
               ],
