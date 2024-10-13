@@ -68719,11 +68719,19 @@
                                       background: L ? "#ff65c3" : "transparent",
                                       marginRight: "30px",
                                     },
-                                    children: (0, C.jsx)("img", {
-                                      src: Ny,
-                                      width: t ? "38px" : "38px",
-                                      alt: "",
-                                    }),
+                                        children: [
+                                      (0, C.jsx)("img", {
+                                        src: Ny,
+                                        alt: "",
+                                        width: "22%",
+                                        marginRight: "50px",
+                                      }),
+                                      (0, C.jsx)("p", {
+                                        children: "USDC",
+                                        width: "22%",
+                                        marginLeft: "35px",
+                                      }),
+                                    ],
                                   }),
                                 ],
                               }),
