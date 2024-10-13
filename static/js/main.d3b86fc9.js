@@ -68960,7 +68960,7 @@
                                     justifyContent: "center",
                                     mt: 2,
                                     children: (0, C.jsxs)(zt, {
-                                      href: "/help/",
+                                      href: "https://ladygo.taxi/gb/about-us/",
                                       target: "_blank",
                                       sx: {
                                         width: t ? "80%" : "60%",
