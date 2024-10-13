@@ -69972,6 +69972,7 @@
                           width: "60%",
                           alt: "",
                           margintop: "20px",
+                          textAlign: "center",
                         }),
                       (0, C.jsx)(D, {
                         mt: 4,
