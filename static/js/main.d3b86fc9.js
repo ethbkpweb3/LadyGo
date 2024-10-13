@@ -70002,6 +70002,7 @@
                       item: !0,
                       xs: 12,
                       md: 6,
+                      textAlign: "center",
                       order: !e && 1,
                       children: (0, C.jsx)("img", {
                         src: qb,
