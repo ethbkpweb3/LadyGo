@@ -68728,7 +68728,7 @@
                                               fontWeight: "700",
                                             },
                                             children:
-                                              "USDT" === i
+                                              "USDC" === i
                                                 ? "USDT"
                                                 : "USDC" === i
                                                 ? "USDC"
