@@ -68699,7 +68699,7 @@
                                     },
                                     children: [(0, C.jsx)("img", {
                                         
-                                          src: zy,
+                                          src: By,
                                           alt: "",
                                           width: "22%",
                                       }), (0, C.jsx)("p", {
