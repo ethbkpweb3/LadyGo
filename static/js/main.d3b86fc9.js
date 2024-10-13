@@ -71832,7 +71832,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "/privacy-policy",
+                          to: "https://ladygo.taxi/gb/privacy-policy/",
                           style: {
                             textDecoration: "none",
                           },
@@ -71846,7 +71846,7 @@
                           }),
                         }),
                         (0, C.jsx)(Uv, {
-                          to: "/terms-and-conditions",
+                          to: "https://ladygo.taxi/gb/terms-of-use/",
                           style: {
                             textDecoration: "none",
                           },
@@ -71859,19 +71859,7 @@
                             children: ["Terms & Conditions", " "],
                           }),
                         }),
-                        (0, C.jsx)(Uv, {
-                          to: "/cookies",
-                          style: {
-                            textDecoration: "none",
-                          },
-                          target: "_blank",
-                          children: (0, C.jsx)(ys, {
-                            style: {
-                              fontSize: "14px",
-                            },
-                            children: "Cookies ",
-                          }),
-                        }),
+              
                       ],
                     }),
                   e &&
@@ -71936,7 +71924,7 @@
                           mt: 2,
                           children: [
                             (0, C.jsx)(Uv, {
-                              to: "/privacy-policy",
+                              to: "https://ladygo.taxi/gb/privacy-policy/",
                               style: {
                                 textDecoration: "none",
                               },
@@ -71950,7 +71938,7 @@
                               }),
                             }),
                             (0, C.jsx)(Uv, {
-                              to: "/terms-and-conditions",
+                              to: "https://ladygo.taxi/gb/terms-of-use/",
                               style: {
                                 textDecoration: "none",
                               },
@@ -71963,19 +71951,7 @@
                                 children: ["Terms & Conditions", " "],
                               }),
                             }),
-                            (0, C.jsx)(Uv, {
-                              to: "/cookies",
-                              style: {
-                                textDecoration: "none",
-                              },
-                              target: "_blank",
-                              children: (0, C.jsx)(ys, {
-                                style: {
-                                  fontSize: "14px",
-                                },
-                                children: "Cookies ",
-                              }),
-                            }),
+                  
                           ],
                         }),
                       ],
