@@ -66725,8 +66725,8 @@
         }),
         ey = [
           {
-            name: "Ecosystem",
-            link: "/#ecosystem",
+            name: "LadyGO Empowering",
+            link: "/#LadyGO",
           },
           {
             name: "Tokenomics",
@@ -66884,13 +66884,13 @@
                         children: [
                           (0, C.jsx)(Qv, {
                             smooth: !0,
-                            to: "/#ecosystem",
+                            to: "/#LadyGO",
                             style: {
                               textDecoration: "none",
                             },
                             children: (0, C.jsx)(ys, {
                               mr: 4,
-                              children: "Ecosystem",
+                              children: "LadyGO Empowering",
                             }),
                           }),
                           (0, C.jsx)(Qv, {
@@ -69923,7 +69923,7 @@
             },
           ];
         return (0, C.jsx)(O, {
-          id: "ecosystem",
+          id: "LadyGO",
           mt: e ? 0 : -17,
           children: (0, C.jsxs)(ut, {
             maxWidth: "xl",
