@@ -70004,7 +70004,7 @@
                       order: !e && 1,
                       children: (0, C.jsx)("img", {
                         src: qb,
-                        width: "100%",
+                        width: "60%",
                         alt: "",
                       }),
                     }),
