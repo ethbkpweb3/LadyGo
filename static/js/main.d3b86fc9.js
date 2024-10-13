@@ -68839,7 +68839,7 @@
                                                 type: "number",
                                                 style: {
                                                   height: "40px",
-                                                  width: "60%",
+                                                  width: "100%",
                                                   fontSize: "17px",
                                                   fontWeight: "500",
                                                   textAlign: "left",
@@ -69830,7 +69830,7 @@
                   order: e ? 1 : 2,
                   children: (0, C.jsx)("img", {
                     src: $b,
-                    width: "100%",
+                    width: "60%",
                     alt: "",
                   }),
                 }),
