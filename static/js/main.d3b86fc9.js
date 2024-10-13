@@ -70001,12 +70001,13 @@
                       item: !0,
                       xs: 12,
                       md: 6,
+                      className:"bkp",
                       order: !e && 1,
                       children: (0, C.jsx)("img", {
                         src: qb,
                         width: "60%",
                         alt: "",
-                        textAlign: e ? "center" : "left",
+                        
                       }),
                     }),
                 ],
