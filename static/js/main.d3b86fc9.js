@@ -70403,6 +70403,7 @@
                               fontSize: t ? "11px" : "30px",
                               color: "#FFFFFF",
                               textAlign: "center",
+                              marginLeft: "50px",
                             },
                             children: "Giveaway: 2%",
                           }),
