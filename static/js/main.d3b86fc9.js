@@ -68453,35 +68453,8 @@
                                   },
                                 }),
                               }),
-                              (0, C.jsx)("a", {
-                                href: " https://linktr.ee/",
-                                style: {
-                                  textDecoration: "none",
-                                },
-                                target: "_blank",
-                                rel: "noreferrer",
-                                children: (0, C.jsx)(Iy, {
-                                  style: {
-                                    color: "#ff65c3",
-                                    fontSize: "28px",
-                                    marginRight: "23px",
-                                  },
-                                }),
-                              }),
-                              (0, C.jsx)("a", {
-                                href: "https://medium.com/@LadyGO",
-                                style: {
-                                  textDecoration: "none",
-                                },
-                                target: "_blank",
-                                rel: "noreferrer",
-                                children: (0, C.jsx)(jy, {
-                                  style: {
-                                    color: "#ff65c3",
-                                    fontSize: "28px",
-                                  },
-                                }),
-                              }),
+                 
+                 
                             ],
                           }),
                       ],
@@ -71790,35 +71763,8 @@
                           },
                         }),
                       }),
-                      (0, C.jsx)("a", {
-                        href: " https://linktr.ee/LadyGO",
-                        style: {
-                          textDecoration: "none",
-                        },
-                        target: "_blank",
-                        rel: "noreferrer",
-                        children: (0, C.jsx)(Iy, {
-                          style: {
-                            color: "#ff65c3",
-                            fontSize: "20px",
-                            marginRight: "23px",
-                          },
-                        }),
-                      }),
-                      (0, C.jsx)("a", {
-                        href: "https://medium.com/@LadyGOfinance",
-                        style: {
-                          textDecoration: "none",
-                        },
-                        target: "_blank",
-                        rel: "noreferrer",
-                        children: (0, C.jsx)(jy, {
-                          style: {
-                            color: "#ff65c3",
-                            fontSize: "20px",
-                          },
-                        }),
-                      }),
+
+         
                     ],
                   }),
                   !e &&
