@@ -70387,7 +70387,25 @@
                       display: "flex",
                       alignItems: "center",
                       children: [
-     
+                        (0, C.jsx)(fy, {
+                          item: !0,
+                          xs: 2.4,
+                          md: 2.4,
+                          borderRight: t
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
+                          height: t ? "20px" : "80px",
+                          children: (0, C.jsx)(D, {
+                            sx: {
+                              fontFamily: "Space Grotesk",
+                              fontWeight: 700,
+                              fontSize: t ? "11px" : "30px",
+                              color: "#FFFFFF",
+                              textAlign: "center",
+                            },
+                            children: "Team: 3%",
+                          }),
+                        }),
                         (0, C.jsx)(fy, {
                           item: !0,
                           xs: 2.8,
@@ -70403,12 +70421,29 @@
                               fontSize: t ? "11px" : "30px",
                               color: "#FFFFFF",
                               textAlign: "center",
-                              marginLeft: "200px",
                             },
                             children: "Giveaway: 2%",
                           }),
                         }),
-             
+                        (0, C.jsx)(fy, {
+                          item: !0,
+                          xs: 2.6,
+                          md: 2.6,
+                          borderRight: t
+                            ? "2px solid #ff65c3"
+                            : "6px solid #ff65c3",
+                          height: t ? "20px" : "80px",
+                          children: (0, C.jsx)(D, {
+                            sx: {
+                              fontFamily: "Space Grotesk",
+                              fontWeight: 700,
+                              fontSize: t ? "11px" : "30px",
+                              color: "#FFFFFF",
+                              textAlign: "center",
+                            },
+                            children: "Partner: 2%",
+                          }),
+                        }),
                         (0, C.jsx)(fy, {
                           item: !0,
                           xs: 4,
@@ -70421,7 +70456,6 @@
                               fontSize: t ? "11px" : "30px",
                               color: "#FFFFFF",
                               textAlign: "center",
-                              marginLeft: "200px",
                             },
                             children: "Staking Pool: 22.5%",
                           }),
