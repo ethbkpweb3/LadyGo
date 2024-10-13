@@ -68839,7 +68839,7 @@
                                                 type: "number",
                                                 style: {
                                                   height: "40px",
-                                                  width: "100%",
+                                                  width: "60%",
                                                   fontSize: "17px",
                                                   fontWeight: "500",
                                                   textAlign: "left",
