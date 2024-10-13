@@ -68950,7 +68950,7 @@
                                             },
                                           }),
                                           " ",
-                                          "$1 Million Giveaway",
+                                          "$100K Giveaway",
                                         ],
                                       }),
                                     ],
