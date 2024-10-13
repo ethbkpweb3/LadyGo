@@ -68728,7 +68728,9 @@
                                               fontWeight: "700",
                                             },
                                             children:
-                                            "USDC" === i
+                                              "USDT" === i
+                                                ? "USDT"
+                                                : "USDC" === i
                                                 ? "USDC"
                                                 : "ETH",
                                           }),
