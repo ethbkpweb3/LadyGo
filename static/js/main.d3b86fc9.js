@@ -68410,15 +68410,16 @@
                         (0, C.jsx)("a", {
                           href: "https://LadyGO.taxi",
                           target: "_blank",
-                          textAlign: "center",
+                          alignItems: "center",
                           sx: {
                             fontFamily: "Poppins",
                             fontSize: "12px",
                             textDecoration: "underline",
-                            textAlign: "center",
+                            alignItems: "center",
                             color: "#fff",
                           },
                           rel: "noreferrer",
+                          alignItems: "center",
                           children: "Audited | 100% Secure & Verified",
                         }),
                         t &&
