@@ -68426,7 +68426,7 @@
                             fontSize: "12px",
                             textDecoration: "underline",
                             textAlign: "center",
-                            display: "white", // ensures the text takes up the full width, helpful for center alignment
+                            display: "block", // ensures the text takes up the full width, helpful for center alignment
                             marginTop: "24px" // equivalent to `mt: 3` (if each unit is 8px)
                           },
                           rel: "noreferrer",
