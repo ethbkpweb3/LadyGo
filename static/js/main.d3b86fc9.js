@@ -68406,16 +68406,7 @@
                             }),
                           ],
                         }),
-                        (0, C.jsx)(D, {
-                          mt: 3,
-                          sx: {
-                            fontFamily: "Poppins",
-                            fontSize: "12px",
-                            textDecoration: "underline",
-                            textAlign: "center",
-                          },
-                          children: "",
-                        }),
+            
                         (0, C.jsx)("a", {
                           href: "https://LadyGO.taxi",
                           target: "_blank",
@@ -68428,7 +68419,6 @@
                             textAlign: "center",
                             display: "white", // ensures the text takes up the full width, helpful for center alignment
                             marginTop: "24px" // equivalent to `mt: 3` (if each unit is 8px)
-                            color:"white",
                           },
                           rel: "noreferrer",
                           children: "Audited | 100% Secure & Verified",
