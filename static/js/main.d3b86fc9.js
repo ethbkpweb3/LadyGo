@@ -68406,7 +68406,7 @@
                             }),
                           ],
                         }),
-                        (0, C.jsx)(D, {
+                        (0, C.jsx)(a, {
                           mt: 3,
                           sx: {
                             fontFamily: "Poppins",
@@ -68420,10 +68420,8 @@
                           href: "https://LadyGO.taxi",
                           target: "_blank",
                           style: {
-                            fontFamily: "Poppins",
-                            fontSize: "12px",
-                            textDecoration: "underline",
-                            textAlign: "center",
+                            textDecoration: "none",
+                            color: "#fff",
                           },
                           rel: "noreferrer",
                           children: "Audited | 100% Secure & Verified",
