@@ -68409,6 +68409,7 @@
                         (0, C.jsx)(D, {
                           mt: 3,
                           sx: {
+                            href: "https://x.com/LadyGO",
                             fontFamily: "Poppins",
                             fontSize: "12px",
                             textDecoration: "underline",
