@@ -68419,6 +68419,7 @@
                         (0, C.jsx)("a", {
                           href: "https://LadyGO.taxi",
                           target: "_blank",
+                          textAlign:"center",
                           style: {
                             textDecoration: "none",
                             color: "#fff",
