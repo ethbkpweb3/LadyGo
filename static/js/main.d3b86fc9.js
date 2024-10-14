@@ -70126,7 +70126,7 @@
                     sx: {
                       border: "1px solid #ff65c3",
                       borderRadius: t ? "9px" : "29px",
-                      width: "70%",
+                      width: "100%",
                       textAlign:"center",
                       
              
@@ -70150,7 +70150,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 300,
-                              fontSize: t ? "11px" : "30px",
+                              fontSize: t ? "11px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
@@ -70169,7 +70169,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 300,
-                              fontSize: t ? "11px" : "30px",
+                              fontSize: t ? "11px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
@@ -70185,7 +70185,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 300,
-                              fontSize: t ? "10px" : "30px",
+                              fontSize: t ? "10px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
@@ -70206,7 +70206,7 @@
                       borderRadius: t ? "9px" : "29px",
                    
                       height: t ? "55px" : "130px",
-                      width: "70%",
+                      width: "100%",
                       textAlign:"center",
                     
                       height: t ? "43px" : "130px",
@@ -70279,8 +70279,8 @@
                     alignItems: "center",
                     sx: {
                       border: "1px solid #ff65c3",
-                      borderRadius: t ? "9px" : "29px",
-                      width: "70%",
+                      borderRadius: t ? "9px" : "20px",
+                      width: "100%",
                       textAlign:"center",
                    
                       height: t ? "43px" : "130px",
@@ -70299,7 +70299,7 @@
                           borderRight: t
                             ? "2px solid #ff65c3"
                             : "6px solid #ff65c3",
-                          height: t ? "20px" : "80px",
+                          height: t ? "20px" : "20px",
                           children: (0, C.jsx)(D, {
                             sx: {
                               fontFamily: "Space Grotesk",
@@ -70323,7 +70323,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 700,
-                              fontSize: t ? "11px" : "30px",
+                              fontSize: t ? "11px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
@@ -70337,7 +70337,7 @@
                           borderRight: t
                             ? "2px solid #ff65c3"
                             : "6px solid #ff65c3",
-                          height: t ? "20px" : "80px",
+                          height: t ? "20px" : "20px",
                           children: (0, C.jsx)(D, {
                             sx: {
                               fontFamily: "Space Grotesk",
@@ -70358,7 +70358,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 700,
-                              fontSize: t ? "11px" : "30px",
+                              fontSize: t ? "11px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
@@ -70395,7 +70395,7 @@
                           borderRight: t
                             ? "2px solid #ff65c3"
                             : "6px solid #ff65c3",
-                          height: t ? "20px" : "80px",
+                          height: t ? "20px" : "20px",
                           children: (0, C.jsx)(D, {
                             sx: {
                               fontFamily: "Space Grotesk",
@@ -70419,7 +70419,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 700,
-                              fontSize: t ? "11px" : "30px",
+                              fontSize: t ? "11px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
@@ -70438,7 +70438,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 700,
-                              fontSize: t ? "11px" : "30px",
+                              fontSize: t ? "11px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
@@ -70454,7 +70454,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 700,
-                              fontSize: t ? "11px" : "30px",
+                              fontSize: t ? "11px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
