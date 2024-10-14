@@ -69779,6 +69779,7 @@
                             fontSize: e ? "12px" : "17px",
                             color: "#FFFFFF",
                             fontWeight: "400",
+                            margin:"20px",
                           },
                           children: [
                             (0, C.jsx)("span", {
