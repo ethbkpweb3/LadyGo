@@ -69804,7 +69804,7 @@
                   textAlign: "center",
                   order: e ? 1 : 2,
                   children: (0, C.jsx)("img", {
-                    src: $b,
+                    src: qb,
                     width: "60%",
                     alt: "",
                     textAlign: "center",
@@ -69948,7 +69948,7 @@
                         textAlign: "center",
                         order: e ? 1 : 2,
                         children: (0, C.jsx)("img", {
-                          src: qb,
+                          src: Xb,
                           width: "60%",
                           alt: "",
                           textAlign: "center",
@@ -69987,7 +69987,7 @@
                       textAlign: "center",
                       order: !e && 1,
                       children: (0, C.jsx)("img", {
-                        src: qb,
+                        src: Xb,
                         width: "60%",
                         alt: "",
                         textAlign: "center",
