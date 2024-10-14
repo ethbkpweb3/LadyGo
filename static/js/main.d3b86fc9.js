@@ -68403,24 +68403,19 @@
                                   }),
                                 }),
                               }),
-                            }),          (0, C.jsx)("a", {
-                              href: "https://LadyGO.taxi",
-                              target: "_blank",
-                              textAlign: "center",
-                              sx: {
-                                fontFamily: "Poppins",
-                                fontSize: "12px",
-                                textDecoration: "underline",
-                                alignItems: "center",
-                                color: "#fff",
-                              },
-                              rel: "noreferrer",
-                              textAlign: "center",
-                              children: "Audited | 100% Secure & Verified",
                             }),
                           ],
                         }),
-             
+                        (0, C.jsx)(D, {
+                          mt: 3,
+                          sx: {
+                            fontFamily: "Poppins",
+                            fontSize: "12px",
+                            textDecoration: "underline",
+                            textAlign: "center",
+                          },
+                          children: "Audited | 100% Secure & Verified",
+                        }),
                         (0, C.jsx)("a", {
                           href: "https://LadyGO.taxi",
                           target: "_blank",
@@ -68429,11 +68424,10 @@
                             fontFamily: "Poppins",
                             fontSize: "12px",
                             textDecoration: "underline",
-                            alignItems: "center",
+                            textAlign: "center",
                             color: "#fff",
                           },
                           rel: "noreferrer",
-                          textAlign: "center",
                           children: "Audited | 100% Secure & Verified",
                         }),
                         t &&
