@@ -70216,8 +70216,8 @@
                         alignItems: "center",
                         sx: {
                           fontFamily: "Space Grotesk",
-                          fontWeight: 50,
-                          fontSize: t ? "7.5px" : "30px",
+                          fontWeight: 10,
+                          fontSize: t ? "2.5px" : "30px",
                           color: "#FFFFFF",
                           textAlign: "center",
                         },
@@ -70226,7 +70226,7 @@
                           " ",
                           (0, C.jsxs)("span", {
                             style: {
-                              fontWeight: 50,
+                              fontWeight: 10,
                               marginLeft: "10px",
                             },
                             children: [
