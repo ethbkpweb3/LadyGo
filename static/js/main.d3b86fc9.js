@@ -70454,7 +70454,7 @@
                             sx: {
                               fontFamily: "Space Grotesk",
                               fontWeight: 700,
-                              fontSize: t ? "11px" : "20px",
+                              fontSize: t ? "11px" : "21px",
                               color: "#FFFFFF",
                               textAlign: "center",
                             },
