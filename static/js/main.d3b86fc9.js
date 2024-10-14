@@ -68386,12 +68386,12 @@
                                         display: "flex",
                                         justifyContent: "center",
                                         alignItems: "center",
-                                        color: "#ff65c3",
+                                        color: "#222",
                                       },
                                       children: [
                                         (0, C.jsx)(Oy, {
                                           style: {
-                                            color: "#ff65c3",
+                                            color: "#222",
                                             fontSize: "25px",
                                             marginRight: "5px",
                                           },
