@@ -68419,10 +68419,11 @@
                         (0, C.jsx)("a", {
                           href: "https://LadyGO.taxi",
                           target: "_blank",
-                          textAlign:"center",
+                          textAlign: "center",
                           style: {
                             textDecoration: "none",
                             color: "#fff",
+                            textAlign: "center",
                           },
                           rel: "noreferrer",
                           children: "Audited | 100% Secure & Verified",
