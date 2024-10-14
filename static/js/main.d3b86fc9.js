@@ -68421,12 +68421,13 @@
                           target: "_blank",
                           textAlign: "center",
                           marginLeft:"50px",
-                          sx: {
+                          style: {
                             fontFamily: "Poppins",
                             fontSize: "12px",
                             textDecoration: "underline",
                             textAlign: "center",
-                            color: "#fff",
+                            display: "block", // ensures the text takes up the full width, helpful for center alignment
+                            marginTop: "24px" // equivalent to `mt: 3` (if each unit is 8px)
                           },
                           rel: "noreferrer",
                           children: "Audited | 100% Secure & Verified",
