@@ -70136,7 +70136,7 @@
                       container: !0,
                       spacing: t ? 0 : 2,
                       display: "flex",
-                      alignItems: "center",
+                      textAlign: "center",
                       children: [
                         (0, C.jsx)(fy, {
                           item: !0,
@@ -70145,7 +70145,7 @@
                           borderRight: t
                             ? "2px solid #ff65c3"
                             : "6px solid #ff65c3",
-                          height: t ? "20px" : "80px",
+                          height: t ? "20px" : "80px",    textAlign: "center",
                           children: (0, C.jsx)(D, {
                             sx: {
                               fontFamily: "Space Grotesk",
