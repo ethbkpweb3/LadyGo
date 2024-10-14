@@ -68420,10 +68420,12 @@
                           href: "https://LadyGO.taxi",
                           target: "_blank",
                           textAlign: "center",
-                          style: {
-                            textDecoration: "none",
-                            color: "#fff",
+                          sx: {
+                            fontFamily: "Poppins",
+                            fontSize: "12px",
+                            textDecoration: "underline",
                             textAlign: "center",
+                            color: "#fff",
                           },
                           rel: "noreferrer",
                           children: "Audited | 100% Secure & Verified",
