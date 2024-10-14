@@ -70,7 +70,7 @@ code {
 }
 
 .card-content {
-    background: radial-gradient(circle at 10% 20%,#455666 0,#222 90%);
+    background: radial-gradient(circle at 10% 20%,#ff65c3 0,#ff65c3 90%);
     font-size: 18px;
     height: 45px;
     left: 50%;
