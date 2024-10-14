@@ -70126,9 +70126,9 @@
                     sx: {
                       border: "1px solid #ff65c3",
                       borderRadius: t ? "9px" : "29px",
-                      width: "60%",
+                      width: "70%",
                       textAlign:"center",
-                      marginLeft:"50px",
+                      marginLeft:"150px",
                       height: t ? "43px" : "130px",
                     },
                     children: (0, C.jsxs)(fy, {
