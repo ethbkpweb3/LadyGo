@@ -68408,7 +68408,7 @@
                         }),
               
                         (0, C.jsx)("a", {
-                          href: "https://LadyGO.taxi",
+                          href: "https://basescan.org/address/0x5D5642476bd6ac9eb674cC9A4104d1B789eA7ACC",
                           target: "_blank",
                           textAlign: "center",
                           marginLeft:"50px",
