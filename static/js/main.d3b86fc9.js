@@ -70120,7 +70120,7 @@
                   }),
                   (0, C.jsx)(O, {
                     mt: t ? 2 : 4,
-                  
+                    display: "flex",
                     alignItems: "center",
                     textAlign:"center",
                     sx: {
