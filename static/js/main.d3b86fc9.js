@@ -68963,42 +68963,7 @@
                                       }),
                                     ],
                                   }),
-                                  (0, C.jsx)(O, {
-                                    display: "flex",
-                                    justifyContent: "center",
-                                    mt: 2,
-                                    children: (0, C.jsxs)(zt, {
-                                      href: "https://ladygo.taxi/gb/about-us/",
-                                      target: "_blank",
-                                      sx: {
-                                        width: t ? "80%" : "60%",
-                                        height: "32px",
-                                        border: "2px solid #4B4C59",
-                                        background: "#414141",
-                                        borderRadius: "8px",
-                                        display: "flex",
-                                        alignItems: "center",
-                                        justifyContent: "center",
-                                        color: "#fff",
-                                        fontSize: t ? "12px" : "13px",
-                                        cursor: "pointer",
-                                        textTransform: "capitalize",
-                                        "&:hover": {
-                                          background: "#414141",
-                                        },
-                                      },
-                                      children: [
-                                        (0, C.jsx)(Ty, {
-                                          style: {
-                                            fontSize: "20px",
-                                            marginRight: "7px",
-                                          },
-                                        }),
-                                        " ",
-                                        "Getting Error? Click here",
-                                      ],
-                                    }),
-                                  }),
+                            
                                 ],
                               }),
                             ],
