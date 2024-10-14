@@ -68354,7 +68354,7 @@
                               width: t ? "100%" : "80%",
                             },
                             children:
-                              "We believe in the power of women supporting women. Our car ride service is not just about reaching your destination; it's about the journey itself.",
+                              "LadyGo is a revolutionary, women-only ride-sharing platform designed to provide safe and empowering transportation solutions for women across the globe. Unlike traditional ride-sharing services, LadyGo is exclusively for female drivers and passengers, creating a community that prioritizes safety, comfort, and support.",
                           }),
                         }),
                         (0, C.jsxs)(O, {
