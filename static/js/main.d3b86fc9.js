@@ -69839,9 +69839,9 @@
                 width: "60%",
                 alt: "",
               }),
-              title: "LadyGO Token Builder",
+              title: "LadyGO Token",
               description:
-                "Tokenize your real world assets effortlessly. LadyGO Token Builder platform eliminates the complexity of blockchain coding, enabling users to launch tokens in minutes.",
+                "LadyGo Token (LGO) is more than just a digital currency—it's a tool for driving social impact, safety, and economic empowerment for women across the globe.",
             },
             {
               bg: iw,
@@ -69852,7 +69852,7 @@
               }),
               title: "LadyGO Launchpad",
               description:
-                "Kickstart your token funding with LadyGO Launchpad. This decentralized launchpad provides a secure and transparent environment for token sales on multiple blockchain networks.",
+                "Built on the Ethereum blockchain, LadyGo Launchpad allows users to invest in LadyGo Crypto, access exclusive funding opportunities, and support the expansion of women-only transportation services worldwide.",
             },
             {
               bg: nw,
@@ -69885,7 +69885,7 @@
               }),
               title: "Transparent Pricing",
               description:
-                "Say goodbye to hidden fees and complicated fare structures. LadyGo offers transparent and competitive pricing, allowing you to know the cost of your ride upfront.",
+                "-LadyGo eliminates hidden fees and opaque processes common in traditional financial systems, allowing women to experience safe, direct, and accountable financial interactions. Whether through ride payments, driver rewards, or investment opportunities, every transaction is recorded on the blockchain, ensuring absolute trust and fairness.",
             },
             {
               bg: Jb,
@@ -69896,7 +69896,7 @@
               }),
               title: "LadyGo Mission",
               description:
-                "At LadyGo, our mission is to empower women in the transportation industry by providing a safe, supportive, and innovative platform that harnesses the power of technology. ",
+                "-LadyGo goes beyond just transportation—we leverage blockchain technology to offer financial empowerment through transparent, decentralized transactions. By combining safety with financial independence, LadyGo is creating a platform where women can drive, ride, and invest with peace of mind, knowing they are part of a supportive, women-only ecosystem.",
             },
           ];
         return (0, C.jsx)(O, {
@@ -71233,7 +71233,7 @@
               id: 1,
               question: "What is LadyGO?",
               answer:
-                "LadyGo is a revolutionary platform designed to empower female drivers through the use of blockchain technology. Built on a foundation of trust, safety, and inclusivity, LadyGo allows women to take control of their journeys, both on the road and in the world of cryptocurrency.",
+                "The LadyGo Token (LGC) is the official cryptocurrency of the LadyGo ecosystem, designed to empower women through safe transportation and financial freedom. Built on the Ethereum blockchain, the LadyGo Token provides a secure, transparent, and decentralized way for users to make transactions, earn rewards, and invest within the platform.LGC powers every aspect of the LadyGo experience, from facilitating ride payments to offering drivers and investors unique opportunities to grow their wealth. By holding and using LadyGo Tokens, users can participate in a global network that prioritizes the safety and economic empowerment of women.With LadyGo Token, women are not only accessing safer rides—they're building a financial future in a trusted, blockchain-backed ecosystem.",
             },
             {
               id: 2,
