@@ -68432,7 +68432,7 @@
                             justifyContent: "center",
                             children: [
                               (0, C.jsx)("a", {
-                                href: "https://x.com/LadyGO",
+                                href: "https://x.com/ladygo_crypto?s=21&t=WWlCbHq_SNWp8KRw2RWGSw",
                                 style: {
                                   textDecoration: "none",
                                 },
@@ -68447,7 +68447,7 @@
                                 }),
                               }),
                               (0, C.jsx)("a", {
-                                href: "https://t.me/LadyGO",
+                                href: "https://t.me/+Z6XRWj0fam9lMWIx",
                                 style: {
                                   textDecoration: "none",
                                 },
@@ -71671,7 +71671,7 @@
                     justifyContent: "center",
                     children: [
                       (0, C.jsx)("a", {
-                        href: "https://x.com/LadyGO",
+                        href: "https://x.com/ladygo_crypto?s=21&t=WWlCbHq_SNWp8KRw2RWGSw",
                         style: {
                           textDecoration: "none",
                         },
@@ -71686,7 +71686,7 @@
                         }),
                       }),
                       (0, C.jsx)("a", {
-                        href: "https://t.me/LadyGO",
+                        href: "https://t.me/+Z6XRWj0fam9lMWIx",
                         style: {
                           textDecoration: "none",
                         },
