@@ -71562,7 +71562,7 @@
                           background: `url(${r})`,
                           backgroundRepeat: "none",
                           backgroundSize: "cover",
-                          height: e ? "200px" : "600px",
+                          height: e ? "350px" : "600px",
                           border: "1px solid #FFFFFF33",
                           borderRadius: e ? "13px" : "22px",
                           px: e ? 2 : 5,
