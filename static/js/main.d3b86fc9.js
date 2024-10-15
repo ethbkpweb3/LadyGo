@@ -69921,19 +69921,7 @@
             
                   }),
                   !e &&
-                    (0, C.jsx)(fy, {
-                      item: !0,
-                      xs: 12,
-                      md: 6,
-                      textAlign: "center",
-                      order: !e && 1,
-                      children: (0, C.jsx)("img", {
-                        src: Xb,
-                        width: "60%",
-                        alt: "",
-                        textAlign: "center",
-                      }),
-                    }),
+  
                 ],
               }),
               (0, C.jsx)(fy, {
