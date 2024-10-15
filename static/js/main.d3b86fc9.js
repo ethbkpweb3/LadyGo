@@ -71252,6 +71252,15 @@
                     },
                     rel: "noreferrer",
                     children: [" ", "support@LadyGO.taxi"],
+                  }),       (0, C.jsx)("a", {
+                    href: "https://ladygo.taxi/gb/about-us/ ",
+                    target: "_blank",
+                    style: {
+                      textDecoration: "none",
+                      color: "#fff",
+                    },
+                    rel: "noreferrer",
+                    children: ".linkedin",
                   }),
                 ],
               }),
