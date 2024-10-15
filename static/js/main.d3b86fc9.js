@@ -70366,6 +70366,18 @@
                       ],
                     }),
                   }),
+                ],         children: [
+                  (0, C.jsx)("span", {
+                    style: {
+                      background: "transparent",
+                      backgroundImage:
+                        "linear-gradient(91.08deg, #E8749E 26.22%, #F0B90B 84.23%)",
+                      WebkitBackgroundClip: "text",
+                      WebkitTextFillColor: "transparent",
+                    },
+                    children: "TOKENOMICS",
+                  }),
+                  " ",
                 ],
               }),
               
