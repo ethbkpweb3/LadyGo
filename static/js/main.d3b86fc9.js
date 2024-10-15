@@ -66732,10 +66732,7 @@
             name: "Tokenomics",
             link: "/#tokenomics",
           },
-          {
-            name: "Win $100K",
-            link: "https://gleam.io/",
-          },
+    
           {
             name: "Whitepaper",
             link: "https://ladygo.taxi/wp-content/uploads/2024/10/Whitepaper-Page.pdf",
@@ -66915,17 +66912,7 @@
                               children: "Whitepaper",
                             }),
                           }),
-                          (0, C.jsx)(Uv, {
-                            to: "https://gleam.io/",
-                            style: {
-                              textDecoration: "none",
-                            },
-                            target: "_blank",
-                            children: (0, C.jsx)(ys, {
-                              mr: 4,
-                              children: "Win $100K",
-                            }),
-                          }),
+              
                           (0, C.jsx)(Uv, {
                             to: "/how-to-buy/",
                             style: {
@@ -68943,37 +68930,7 @@
                                           "How To Buy?",
                                         ],
                                       }),
-                                      (0, C.jsxs)(zt, {
-                                        href: "https://gleam.io/",
-                                        target: "_blank",
-                                        sx: {
-                                          width: "48%",
-                                          height: "32px",
-                                          border: "2px solid #4B4C59",
-                                          background: "#414141",
-                                          borderRadius: "8px",
-                                          display: "flex",
-                                          alignItems: "center",
-                                          justifyContent: "center",
-                                          color: "#fff",
-                                          fontSize: t ? "12px" : "14px",
-                                          cursor: "pointer",
-                                          textTransform: "capitalize",
-                                          "&:hover": {
-                                            background: "#414141",
-                                          },
-                                        },
-                                        children: [
-                                          (0, C.jsx)(Oy, {
-                                            style: {
-                                              fontSize: "6px",
-                                              marginRight: "7px",
-                                            },
-                                          }),
-                                          " ",
-                                          "Buy & Win a share of $100K!",
-                                        ],
-                                      }),
+                                     
                                     ],
                                   }),
                             
