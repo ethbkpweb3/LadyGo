@@ -71192,9 +71192,10 @@
                   mt: 2,
                   sx: {
                     fontFamily: "accelerator",
-                    fontWeight: 700,
+                    fontWeight: 300,
                     fontSize: t ? "24px" : "32px",
                     textAlign: "center",
+                    marginTop: "50px",
                   },
                   children: "OUR TEAM",
                 }),
@@ -71202,7 +71203,7 @@
                   container: !0,
                   spacing: 5,
                   mt: e && 5,
-                  marginTop: "50px",
+                  marginTop: "20px",
                   display: "flex",
                   alignItems: "center",
                   children: [
