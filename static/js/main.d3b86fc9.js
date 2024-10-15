@@ -71253,7 +71253,7 @@
                     rel: "noreferrer",
                     children: [" ", "support@LadyGO.taxi"],
                   }),       (0, C.jsx)("a", {
-                    href: "https://ladygo.taxi/gb/about-us/ ",
+                    href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
