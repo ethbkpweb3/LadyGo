@@ -69978,7 +69978,7 @@
       }
       const aw = n.p + "static/media/token.e67069ff4c78ede84578.png";
       var sw = n(32071);
-      function dO() {
+      function dOd() {
         var e = Ke("(max-width:600px)");
         return (0, C.jsx)(re, {
           children: (0, C.jsx)("section", {
@@ -72089,7 +72089,7 @@
                         (0, C.jsx)(ow, {}),
                         (0, C.jsx)(lw, {}),
                         (0, C.jsx)(Lw, {}),
-                        (0, C.jsx)(dO, {})
+                        (0, C.jsx)(dOd, {})
                         (0, C.jsx)(Ww, {}),
                       ],
                     }),
