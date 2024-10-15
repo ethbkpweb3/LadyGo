@@ -71481,50 +71481,10 @@
       function owS() {
         const e = u("(max-width:950px)"),
           t = [
-            {
-              bg: rw,
-              icon: (0, C.jsx)("img", {
-                src: Xb,
-                width: "30%",
-                alt: "",
-              }),
-              title: "LadyGO Token",
-              description:
-                "LadyGo Token (LGO) is more than just a digital currency—it's a tool for driving social impact, safety, and economic empowerment for women across the globe.",
-            },
-            {
-              bg: iw,
-              icon: (0, C.jsx)("img", {
-                src: Qb,
-                width: "30%",
-                alt: "",
-              }),
-              title: "LadyGO Launchpad",
-              description:
-                "Built on the Ethereum blockchain, LadyGo Launchpad allows users to invest in LadyGo Crypto, access exclusive funding opportunities, and support the expansion of women-only transportation services worldwide.",
-            },
-            {
-              bg: nw,
-              icon: (0, C.jsx)("img", {
-                src: Yb,
-                width: "30%",
-                alt: "",
-              }),
-              title: "LadyGO AI",
-              description:
-                "LadyGo utilizes advanced algorithms to match female drivers with passengers efficiently, considering various factors such as location, preferences, and safety ratings. This ensures a smooth and personalized experience for both drivers and riders.",
-            },
-            {
-              bg: tw,
-              icon: (0, C.jsx)("img", {
-                src: Kb,
-                width: "30%",
-                alt: "",
-              }),
-              title: "Staking and Governance",
-              description:
-                "LadyGO Token holders will have the opportunity to stake their tokens for additional rewards and participate in key decisions regarding platform development, governance, and community initiatives.",
-            },
+    
+     
+  
+ 
             {
               bg: ew,
               icon: (0, C.jsx)("img", {
