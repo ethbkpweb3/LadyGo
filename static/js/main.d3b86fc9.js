@@ -69880,12 +69880,12 @@
               bg: ew,
               icon: (0, C.jsx)("img", {
                 src: Gb,
-                width: "60%",
+                width: "30%",
                 alt: "",
               }),
               title: "Transparent Pricing",
               description:
-                "-LadyGo eliminates hidden fees and opaque processes common in traditional financial systems, allowing women to experience safe, direct, and accountable financial interactions. Whether through ride payments, driver rewards, or investment opportunities, every transaction is recorded on the blockchain, ensuring absolute trust and fairness.",
+                "LadyGo eliminates hidden fees and opaque processes common in traditional financial systems, allowing women to experience safe, direct, and accountable financial interactions. Whether through ride payments, driver rewards, or investment opportunities, every transaction is recorded on the blockchain, ensuring absolute trust and fairness.",
             },
             {
               bg: Jb,
