@@ -68917,6 +68917,7 @@
                                           textTransform: "capitalize",
                                           "&:hover": {
                                             background: "#414141",
+                                            marginLeft: "30px",
                                           },
                                         },
                                         children: [
