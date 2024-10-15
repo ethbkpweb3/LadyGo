@@ -69921,7 +69921,14 @@
             
                   }),
                   !e &&
-  
+                    (0, C.jsx)(fy, {
+                      item: !0,
+                      xs: 12,
+                      md: 6,
+                      textAlign: "center",
+                      order: !e && 1,
+                    
+                    }),
                 ],
               }),
               (0, C.jsx)(fy, {
