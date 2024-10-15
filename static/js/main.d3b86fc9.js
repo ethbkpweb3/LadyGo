@@ -71802,20 +71802,7 @@
                             children: "Whitepaper",
                           }),
                         }),
-                        (0, C.jsx)(Uv, {
-                          to: "https://gleam.io/",
-                          style: {
-                            textDecoration: "none",
-                          },
-                          target: "_blank",
-                          children: (0, C.jsx)(ys, {
-                            mr: 4,
-                            style: {
-                              fontSize: "14px",
-                            },
-                            children: "Win $100K",
-                          }),
-                        }),
+           
                         (0, C.jsx)(Uv, {
                           to: "/how-to-buy/",
                           style: {
