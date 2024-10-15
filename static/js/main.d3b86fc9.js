@@ -71130,7 +71130,10 @@
               i
             )
           );
-        });   function owS() {
+        });  
+        
+        
+        function owS() {
           const e = u("(max-width:950px)"),
             t = [
       
@@ -71183,11 +71186,23 @@
             children: (0, C.jsxs)(ut, {
               maxWidth: "xl",
               children: [
+                (0, C.jsx)(D, {
+                  position: "relative",
+                  zIndex: 1,
+                  mt: 2,
+                  sx: {
+                    fontFamily: "accelerator",
+                    fontWeight: 700,
+                    fontSize: t ? "24px" : "32px",
+                    textAlign: "center",
+                  },
+                  children: "OUR TEAM",
+                }),
                 (0, C.jsxs)(fy, {
                   container: !0,
                   spacing: 5,
                   mt: e && 5,
-                  marginTop: "",
+                  marginTop: "50px",
                   display: "flex",
                   alignItems: "center",
                   children: [
