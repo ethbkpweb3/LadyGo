@@ -71487,7 +71487,7 @@
  
             {
               bg: ew,
-        
+      
               title: "Team",
               description:
                 "LadyGo is powered by an international team of passionate and ambitious women and men from every continent, working together to develop both the LadyGo taxi service and its native cryptocurrency, LadyGo Token (LGO). This diverse team represents a global family of innovators, unified by a common goal: to create a safer, more empowering, and inclusive ride-sharing platform for women everywhere. Each member brings a wealth of experience, creativity, and dedication to ensure that LadyGo transforms transportation for women on a global scale. As a family, we are driven by the shared vision of empowering women and advancing the future of ride-sharing.",
@@ -71600,8 +71600,7 @@
                               textAlign: "center",
                             },
                             children: a,
-                          }),
-                          (0, C.jsx)("a", {
+                          }),                        (0, C.jsx)("a", {
                             href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
                             style: {
                               textDecoration: "none",
@@ -71611,8 +71610,8 @@
                             children: (0, C.jsx) ("img", {
                               src: "/static/media/icons8-linkedin-100.svg",
                               alt: "",
-                              width: "22%",
-                              marginRight: "50px",
+                              width: "5%",
+                           
                             }),
                           }),
                         ],
