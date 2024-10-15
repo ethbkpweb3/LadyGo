@@ -71489,18 +71489,18 @@
               bg: ew,
               icon: (0, C.jsx)("img", {
                 src: Gb,
-                width: "30%",
+                width: "20%",
                 alt: "",
               }),
-              title: "Transparent Pricing",
+              title: "Team",
               description:
-                "LadyGo eliminates hidden fees and opaque processes common in traditional financial systems, allowing women to experience safe, direct, and accountable financial interactions. Whether through ride payments, driver rewards, or investment opportunities, every transaction is recorded on the blockchain, ensuring absolute trust and fairness.",
+                "LadyGo is powered by an international team of passionate and ambitious women and men from every continent, working together to develop both the LadyGo taxi service and its native cryptocurrency, LadyGo Token (LGO). This diverse team represents a global family of innovators, unified by a common goal: to create a safer, more empowering, and inclusive ride-sharing platform for women everywhere. Each member brings a wealth of experience, creativity, and dedication to ensure that LadyGo transforms transportation for women on a global scale. As a family, we are driven by the shared vision of empowering women and advancing the future of ride-sharing.",
             },
             {
               bg: Jb,
               icon: (0, C.jsx)("img", {
                 src: Vb,
-                width: e ? "30%" : "30%",
+                width: e ? "20%" : "20%",
                 alt: "",
               }),
               title: "LadyGo Mission",
