@@ -71206,7 +71206,7 @@
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "https://LadyGO.taxi",
+                    children: "https://presale.LadyGO.taxi",
                   }),
                   " ",
                   "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy LadyGO - Click Here.",
