@@ -71677,15 +71677,13 @@
             children: (0, C.jsxs)(ut, {
               maxWidth: "lg",
               children: [
-                (0, C.jsx)(D, {
-                  position: "relative",
-                  zIndex: 1,
-                  mt: 2,
-                  sx: {
-                    fontFamily: "accelerator",
-                    fontWeight: 200,
-                    fontSize: t ? "24px" : "32px",
-                    textAlign: "center",
+                (0, C.jsx)("span", {
+                  style: {
+                    background: "transparent",
+                    backgroundImage:
+                      "linear-gradient(91.08deg, #E8749E 26.22%, #F0B90B 84.23%)",
+                    WebkitBackgroundClip: "text",
+                    WebkitTextFillColor: "transparent",
                   },
                   children: "OUR TEAM",
                 }),
