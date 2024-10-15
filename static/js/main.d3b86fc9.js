@@ -71472,59 +71472,7 @@
                   },
                   children: "OUR TEAM",
                 }),
-                (0, C.jsx)("div", {
-                  className: "col-12 col-md-6 col-lg-4",
-                  style: { height: "100%" },
-                  children: (0, X.jsxs)("div", {
-                    className:
-                      "service_single_content box-shadow text-center mb-100 wow wow fadeInUp",
-                    "data-wow-delay": "0.3s",
-                    children: [
-                      (0, X.jsxs)("div", {
-                        className: "service_icon",
-                        children: [
-                          (0, C.jsx)("img", {
-                            draggable: "false",
-                            src: "img/icons/2.png",
-                            className: "white-icon",
-                            alt: "",
-                            width: "80px",
-                          }),
-                          (0, C.jsx)("span", {
-                            className: "step-num",
-                            children: "2",
-                          }),
-                        ],
-                      }),
-                      (0, C.jsx)("h6", {
-                        children: "Automated trading strategies",
-                      }),
-                      (0, C.jsx)("p", {
-                        style: { textAlign: "left" },
-                        children:
-                          "HyperproAI maximizes participation from various AI players in the ecosystem worldwide, Set up automated trading strategies based on key metrics and order types. Once created, the strategies can be plugged directly into their broker's API.",
-                      }),
-                      (0, C.jsx)(re, {
-                        mt: 1,
-                        mb: -3,
-                        display: "flex",
-                        justifyContent: "flex-end",
-                        children: (0, C.jsx)(jo, {
-                          to: "/presale",
-                          style: { textDecoration: "none" },
-                          children: (0, C.jsx)(re, {
-                            color: "#ffffff",
-                            bgcolor: "#121826",
-                            px: 2,
-                            py: 1,
-                            borderRadius: "10px",
-                            children: "Join presale",
-                          }),
-                        }),
-                      }),
-                    ],
-                  }),
-                }),
+ 
               ],
             }),
           }),
