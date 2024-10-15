@@ -71561,141 +71561,7 @@
             }),
           });
         }
-      function Lw() {
-        const t = u("(max-width:950px)"),
-          [n, r] = e.useState(!1),
-          i = [
-            {
-              id: 1,
-              question: "What is LadyGO?",
-              answer:
-                "The LadyGo Token (LGO) is the official cryptocurrency of the LadyGo ecosystem, designed to empower women through safe transportation and financial freedom. Built on the Ethereum blockchain, the LadyGo Token provides a secure, transparent, and decentralized way for users to make transactions, earn rewards, and invest within the platform.LGO powers every aspect of the LadyGo experience, from facilitating ride payments to offering drivers and investors unique opportunities to grow their wealth. By holding and using LadyGo Tokens, users can participate in a global network that prioritizes the safety and economic empowerment of women.With LadyGo Token, women are not only accessing safer rides—they're building a financial future in a trusted, blockchain-backed ecosystem.",
-            },
-            {
-              id: 2,
-              question: "What types of assets can I tokenize with LadyGO?",
-              answer:
-                "LadyGO supports the tokenization of a wide variety of assets, including but not limited to real estate, art, gold, and corporate bonds. Our platform provides the flexibility to bring almost any valuable asset onto the blockchain.",
-            },
-            {
-              id: 3,
-              question: "How can I start investing with LadyGO?",
-              answer: (0, C.jsxs)(C.Fragment, {
-                children: [
-                  "To begin investing with LadyGO, Head over to LadyGO.taxi",
-                  " ",
-                  (0, C.jsx)("a", {
-                    href: "https://presale.ladygo.taxi/",
-                    target: "_blank",
-                    style: {
-                      textDecoration: "none",
-                      color: "#fff",
-                    },
-                    rel: "noreferrer",
-                    children: "https://presale.LadyGO.taxi",
-                  }),
-                  " ",
-                  "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy LadyGO - Click Here.",
-                  " ",
-                  (0, C.jsx)("a", {
-                    href: "https://presale.ladygo.taxi/how-to-buy/",
-                    target: "_blank",
-                    style: {
-                      textDecoration: "none",
-                      color: "#fff",
-                    },
-                    rel: "noreferrer",
-                    children: "how to buy",
-                  }),
-                ],
-              }),
-            },
-            {
-              id: 4,
-              question: "What is LGO Token?",
-              answer:
-                "LGO is the symbol of LadyGO token.  With blockchain-enhanced identity verification and trustless payment systems, LadyGo ensures a safe and reliable environment for both drivers and passengers.",
-            },
-            {
-              id: 5,
-              question: "How will I receive LGO Tokens?",
-              answer:
-                "LadyGO (LGO) tokens are transferred to your wallet in real time, to see the amount of tokens in your wallet please add LGO as custom token in your wallet.",
-            },
-            {
-              id: 6,
-              question: "How can I contact LadyGO team?",
-              answer: (0, C.jsxs)(C.Fragment, {
-                children: [
-                  "You can contact us using our contact us form:",
-                  " ",
-                  (0, C.jsx)("a", {
-                    href: "https://ladygo.taxi/gb/about-us/ ",
-                    target: "_blank",
-                    style: {
-                      textDecoration: "none",
-                      color: "#fff",
-                    },
-                    rel: "noreferrer",
-                    children: "https://LadyGO.taxi/contact-us/",
-                  }),
-                  " ",
-                  "Or buy emailing us at:",
-                  " ",
-                  (0, C.jsxs)("a", {
-                    href: "mailto: support@LadyGO.taxi",
-                    target: "_blank",
-                    style: {
-                      textDecoration: "none",
-                      color: "#fff",
-                    },
-                    rel: "noreferrer",
-                    children: [" ", "support@LadyGO.taxi"],
-                  }),       (0, C.jsx)("a", {
-                    href: "https://www.linkedin.com/company/lady-go-taxi",
-                    target: "_blank",
-                    style: {
-                      textDecoration: "none",
-                      color: "#fff",
-                    },
-                    rel: "noreferrer",
-                    children: ".   linkedin",
-                  }),
-                ],
-              }),
-            },
-            {
-              id: 7,
-              question: "Where can I sell my LGO tokens?",
-              answer:
-                "Since we are currently on presale, you cannot sell or transfer your tokens. Once LadyGO goes live, users will be able to freely trade it on Uniswap.",
-            },
-          ];
-        return (0, C.jsx)(C.Fragment, {
-          children: (0, C.jsx)(O, {
-            id: "faqs",
-            children: (0, C.jsxs)(ut, {
-              maxWidth: "lg",
-              children: [
-                (0, C.jsx)(D, {
-                  position: "relative",
-                  zIndex: 1,
-                  mt: 2,
-                  sx: {
-                    fontFamily: "accelerator",
-                    fontWeight: 700,
-                    fontSize: t ? "24px" : "32px",
-                    textAlign: "center",
-                    marginBottom:"20px",
-                  },
-                  children: "OUR TEAM",
-                }),
- 
-              ],
-            }),
-          }),
-        });
-      }
+    
       function owS() {
         const e = u("(max-width:950px)"),
           t = [
@@ -72463,7 +72329,7 @@
                         (0, C.jsx)(ow, {}),
                        
                         (0, C.jsx)(lw, {}),
-                        (0, C.jsx)(Lw, {}),  (0, C.jsx)(owS, {}),
+                        (0, C.jsx)(owS, {}),
                         (0, C.jsx)(Lws, {}),
                       
                         (0, C.jsx)(Ww, {}),
