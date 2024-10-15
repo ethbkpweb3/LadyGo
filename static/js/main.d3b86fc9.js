@@ -71470,7 +71470,7 @@
                     fontSize: t ? "24px" : "32px",
                     textAlign: "center",
                   },
-                  children: "FAQs",
+                  children: "Our Team",
                 }),
  
               ],
