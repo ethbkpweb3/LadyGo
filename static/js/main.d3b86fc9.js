@@ -71219,7 +71219,7 @@
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "howv to buy",
+                    children: "how to buy",
                   }),
                 ],
               }),
