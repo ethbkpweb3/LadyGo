@@ -71143,9 +71143,37 @@
               },
               {
                 id: 2,
-                question: "What types of assets can I tokenize with LadyGO?",
-                answer:
-                  "LadyGO supports the tokenization of a wide variety of assets, including but not limited to real estate, art, gold, and corporate bonds. Our platform provides the flexibility to bring almost any valuable asset onto the blockchain.",
+                question: "What is The Token Development Roadmap?",
+                answer:(0, C.jsxs)(C.Fragment, {
+                  children: [
+                    "The LadyGo Token (LGC) is designed to revolutionize women’s safety and financial empowerment through blockchain technology. Below is the development roadmap detailing key milestones for the launch and growth of LadyGo Token.",
+                    " ",
+                    (0, C.jsx)("p", {
+                   
+                      target: "_blank",
+                      style: {
+                        textDecoration: "none",
+                        color: "#fff",
+                      },
+                      rel: "noreferrer",
+                      children: "Q4 2024: Token Launch and Initial Public Offering",
+                    }),
+                    " ",
+                    "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy LadyGO - Click Here.",
+                    " ",
+                    (0, C.jsx)("p", {
+                    
+                     
+                      style: {
+                        textDecoration: "none",
+                        color: "#fff",
+                      },
+                      rel: "noreferrer",
+                      children: "• Launch LadyGo Token (LGC) on the Ethereum blockchain.",
+                    }),
+                  ],
+                }),
+               
               },
               {
                 id: 3,
