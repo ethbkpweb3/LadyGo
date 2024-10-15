@@ -71677,18 +71677,7 @@
             children: (0, C.jsxs)(ut, {
               maxWidth: "lg",
               children: [
-                (0, C.jsx)(D, {
-                  position: "relative",
-                  zIndex: 1,
-                  mt: 2,
-                  sx: {
-                    fontFamily: "accelerator",
-                    fontWeight: 200,
-                    fontSize: t ? "24px" : "32px",
-                    textAlign: "center",
-                  },
-                  children: "OUR TEAM",
-                }),
+
  
               ],
             }),
@@ -71699,7 +71688,13 @@
         const e = u("(max-width:950px)"),
           t = [
     
-     
+            {
+           
+      
+              title: "OUR TEAM",
+           
+           
+              },
   
  
             {
@@ -71752,7 +71747,7 @@
                 container: !0,
                 spacing: 5,
                 mt: e && 5,
-                marginTop: "20px",
+                marginTop: "50px",
                 display: "flex",
                 alignItems: "center",
                 children: [
@@ -71816,6 +71811,17 @@
                             display: "flex",
                             justifyContent: "center",
                             children: i,
+                          }),                (0, C.jsx)(D, {
+                            position: "relative",
+                            zIndex: 1,
+                            mt: 2,
+                            sx: {
+                              fontFamily: "accelerator",
+                              fontWeight: 200,
+                              fontSize: t ? "24px" : "32px",
+                              textAlign: "center",
+                            },
+                            children: o,
                           }),
                           (0, C.jsx)(D, {
                             my: 1,
