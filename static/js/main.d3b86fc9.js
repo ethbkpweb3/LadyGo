@@ -71551,7 +71551,7 @@
                   xl: 10,
                 },
                 children: t.map((t, n) => {
-                  let { bg: r, icon: i, title: o, description: a , href } = t;
+                  let { bg: r, icon: i, title: o, description: a , href :b} = t;
                   return (0, C.jsx)(
                     fy,
                     {
@@ -71592,8 +71592,19 @@
                             },
                             children: o,
                           }),
-                          (0, C.jsx)("a", {
-                            href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
+                          (0, C.jsx)(D, {
+                            mt: e ? 0 : 2,
+                            pb: e && 2,
+                            sx: {
+                              fontWeight: 400,
+                              fontFamily: "'Poppins'",
+                              fontSize: e ? "9px" : "16px",
+                              color: "#F1F5F9",
+                              textAlign: "center",
+                            },
+                            children: a,
+                          }),                        (0, C.jsx)("a", {
+                            href: b,
                             style: {
                               textDecoration: "none",
                               alignItems: "center",
@@ -71609,19 +71620,7 @@
                               alignItems: "center",
                               marginLeft:"150px",
                             }),
-                          }),(D, {
-                            
-                            mt: e ? 0 : 2,
-                            pb: e && 2,
-                            sx: {
-                              fontWeight: 400,
-                              fontFamily: "'Poppins'",
-                              fontSize: e ? "9px" : "16px",
-                              color: "#F1F5F9",
-                              textAlign: "center",
-                            },
-                            children: a,
-                          }),                       
+                          }),
                         ],
                       }),
                     },
