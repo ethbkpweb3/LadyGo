@@ -71159,17 +71159,26 @@
                       children: "Q4 2024: Token Launch and Initial Public Offering",
                     }),
                     " ",
-                    "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy LadyGO - Click Here.",
+                    "",
                     " ",
                     (0, C.jsx)("p", {
                     
                      
                       style: {
                         textDecoration: "none",
-                        color: "#fff",
+                        color: "rgb(151, 151, 154)",
                       },
                       rel: "noreferrer",
                       children: "• Launch LadyGo Token (LGC) on the Ethereum blockchain.",
+                    }),          (0, C.jsx)("p", {
+                    
+                     
+                      style: {
+                        textDecoration: "none",
+                        color: "rgb(151, 151, 154)",
+                      },
+                      rel: "noreferrer",
+                      children: "• Conduct an initial public offering on platforms like Coinbase Wallet and other major cryptocurrency exchanges.",
                     }),
                   ],
                 }),
