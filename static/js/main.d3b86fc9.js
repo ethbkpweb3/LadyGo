@@ -70228,7 +70228,7 @@
                           children: (0, C.jsx)(D, {
                             sx: {
                               fontFamily: "Space Grotesk",
-                              fontWeight: 700,
+                              fontWeight: 200,
                               fontSize: t ? "11px" : "20px",
                               color: "#FFFFFF",
                               textAlign: "center",
