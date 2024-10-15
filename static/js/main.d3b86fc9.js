@@ -71478,6 +71478,188 @@
           }),
         });
       }
+      function owS() {
+        const e = u("(max-width:950px)"),
+          t = [
+            {
+              bg: rw,
+              icon: (0, C.jsx)("img", {
+                src: Xb,
+                width: "30%",
+                alt: "",
+              }),
+              title: "LadyGO Token",
+              description:
+                "LadyGo Token (LGO) is more than just a digital currency—it's a tool for driving social impact, safety, and economic empowerment for women across the globe.",
+            },
+            {
+              bg: iw,
+              icon: (0, C.jsx)("img", {
+                src: Qb,
+                width: "30%",
+                alt: "",
+              }),
+              title: "LadyGO Launchpad",
+              description:
+                "Built on the Ethereum blockchain, LadyGo Launchpad allows users to invest in LadyGo Crypto, access exclusive funding opportunities, and support the expansion of women-only transportation services worldwide.",
+            },
+            {
+              bg: nw,
+              icon: (0, C.jsx)("img", {
+                src: Yb,
+                width: "30%",
+                alt: "",
+              }),
+              title: "LadyGO AI",
+              description:
+                "LadyGo utilizes advanced algorithms to match female drivers with passengers efficiently, considering various factors such as location, preferences, and safety ratings. This ensures a smooth and personalized experience for both drivers and riders.",
+            },
+            {
+              bg: tw,
+              icon: (0, C.jsx)("img", {
+                src: Kb,
+                width: "30%",
+                alt: "",
+              }),
+              title: "Staking and Governance",
+              description:
+                "LadyGO Token holders will have the opportunity to stake their tokens for additional rewards and participate in key decisions regarding platform development, governance, and community initiatives.",
+            },
+            {
+              bg: ew,
+              icon: (0, C.jsx)("img", {
+                src: Gb,
+                width: "30%",
+                alt: "",
+              }),
+              title: "Transparent Pricing",
+              description:
+                "LadyGo eliminates hidden fees and opaque processes common in traditional financial systems, allowing women to experience safe, direct, and accountable financial interactions. Whether through ride payments, driver rewards, or investment opportunities, every transaction is recorded on the blockchain, ensuring absolute trust and fairness.",
+            },
+            {
+              bg: Jb,
+              icon: (0, C.jsx)("img", {
+                src: Vb,
+                width: e ? "30%" : "30%",
+                alt: "",
+              }),
+              title: "LadyGo Mission",
+              description:
+                "LadyGo goes beyond just transportation—we leverage blockchain technology to offer financial empowerment through transparent, decentralized transactions. By combining safety with financial independence, LadyGo is creating a platform where women can drive, ride, and invest with peace of mind, knowing they are part of a supportive, women-only ecosystem.",
+            },
+          ];
+        return (0, C.jsx)(O, {
+          id: "LadyGO",
+          mt: e ? 0 : -17,
+          children: (0, C.jsxs)(ut, {
+            maxWidth: "xl",
+            children: [
+              (0, C.jsxs)(fy, {
+                container: !0,
+                spacing: 5,
+                mt: e && 5,
+                marginTop: "50px",
+                display: "flex",
+                alignItems: "center",
+                children: [
+                  (0, C.jsxs)(fy, {
+                    item: !0,
+                    xs: 12,
+                    md: 6,
+                    order: e ? 1 : 2,
+            
+                  }),
+                  !e &&
+                    (0, C.jsx)(fy, {
+                      item: !0,
+                      xs: 12,
+                      md: 6,
+                      textAlign: "center",
+                      order: !e && 1,
+                    
+                    }),
+                ],
+              }),
+              (0, C.jsx)(fy, {
+                container: !0,
+                spacing: 5,
+                mt: e && 5,
+                display: "flex",
+                justifyContent: "center",
+                position: "relative",
+                zIndex: 1,
+                px: {
+                  xs: 0,
+                  sm: 0,
+                  md: 0,
+                  lg: 5,
+                  xl: 10,
+                },
+                children: t.map((t, n) => {
+                  let { bg: r, icon: i, title: o, description: a } = t;
+                  return (0, C.jsx)(
+                    fy,
+                    {
+                      item: !0,
+                      xs: 10,
+                      md: 4,
+                      width: "100%",
+                      mt: e && 2,
+                      children: (0, C.jsxs)(O, {
+                        sx: {
+                          background: `url(${r})`,
+                          backgroundRepeat: "none",
+                          backgroundSize: "cover",
+                          height: e ? "340px" : "500px",
+                          border: "1px solid #FFFFFF33",
+                          borderRadius: e ? "13px" : "22px",
+                          px: e ? 2 : 5,
+                          pt: e ? 3 : 5,
+                          pb: !e && 5,
+                        },
+                        children: [
+                          (0, C.jsx)(O, {
+                            display: "flex",
+                            justifyContent: "center",
+                            children: i,
+                          }),
+                          (0, C.jsx)(D, {
+                            my: 1,
+                            pt: 2,
+                            mt: 5 === n ? -2 : 0,
+                            sx: {
+                              fontFamily: "'Poppins'",
+                              fontStyle: "normal",
+                              fontWeight: 700,
+                              fontSize: e ? "20px" : "28px  ",
+                              textAlign: "center",
+                              color: "#F8FAFC",
+                            },
+                            children: o,
+                          }),
+                          (0, C.jsx)(D, {
+                            mt: e ? 0 : 2,
+                            pb: e && 2,
+                            sx: {
+                              fontWeight: 400,
+                              fontFamily: "'Poppins'",
+                              fontSize: e ? "12px" : "16px",
+                              color: "#F1F5F9",
+                              textAlign: "center",
+                            },
+                            children: a,
+                          }),
+                        ],
+                      }),
+                    },
+                    n
+                  );
+                }),
+              }),
+            ],
+          }),
+        });
+      }
       function Uw(e) {
         return (0, B.Z)("MuiDivider", e);
       }
@@ -72088,6 +72270,7 @@
                         (0, C.jsx)(lw, {}),
                         (0, C.jsx)(Lw, {}),
                         (0, C.jsx)(Lws, {}),
+                        (0, C.jsx)(owS, {}),
                         (0, C.jsx)(Ww, {}),
                       ],
                     }),
