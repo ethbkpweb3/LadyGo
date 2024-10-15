@@ -71146,7 +71146,7 @@
                 question: "What is The Token Development Roadmap?",
                 answer:(0, C.jsxs)(C.Fragment, {
                   children: [
-                    "The LadyGo Token (LGC) is designed to revolutionize women’s safety and financial empowerment through blockchain technology. Below is the development roadmap detailing key milestones for the launch and growth of LadyGo Token.",
+                    "The LadyGo Token (LGO) is designed to revolutionize women’s safety and financial empowerment through blockchain technology. Below is the development roadmap detailing key milestones for the launch and growth of LadyGo Token.",
                     " ",
                     (0, C.jsx)("p", {
                    
@@ -71169,7 +71169,7 @@
                         color: "rgb(151, 151, 154)",
                       },
                       rel: "noreferrer",
-                      children: "• Launch LadyGo Token (LGC) on the Ethereum blockchain.",
+                      children: "• Launch LadyGo Token (LGO) on the Ethereum blockchain.",
                     }),          (0, C.jsx)("p", {
                     
                      
