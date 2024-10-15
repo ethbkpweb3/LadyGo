@@ -71837,7 +71837,7 @@
                             sx: {
                               fontWeight: 400,
                               fontFamily: "'Poppins'",
-                              fontSize: e ? "9px" : "16px",
+                              fontSize: e ? "12px" : "16px",
                               color: "#F1F5F9",
                               textAlign: "center",
                             },
