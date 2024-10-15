@@ -71683,7 +71683,7 @@
                   mt: 2,
                   sx: {
                     fontFamily: "accelerator",
-                    fontWeight: 700,
+                    fontWeight: 200,
                     fontSize: t ? "24px" : "32px",
                     textAlign: "center",
                   },
