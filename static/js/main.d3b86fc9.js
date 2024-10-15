@@ -71489,7 +71489,7 @@
               bg: ew,
               icon: (0, C.jsx)("img", {
                 src: Gb,
-                width: "20%",
+                width: "15%",
                 alt: "",
               }),
               title: "Team",
@@ -71500,7 +71500,7 @@
               bg: Jb,
               icon: (0, C.jsx)("img", {
                 src: Vb,
-                width: e ? "20%" : "20%",
+                width: e ? "15%" : "15%",
                 alt: "",
               }),
               title: "Founder",
@@ -71603,7 +71603,7 @@
                             sx: {
                               fontWeight: 400,
                               fontFamily: "'Poppins'",
-                              fontSize: e ? "12px" : "16px",
+                              fontSize: e ? "9px" : "16px",
                               color: "#F1F5F9",
                               textAlign: "center",
                             },
