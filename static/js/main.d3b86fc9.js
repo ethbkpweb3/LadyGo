@@ -68460,6 +68460,19 @@
                                     marginRight: "23px",
                                   },
                                 }),
+                              }),                      (0, C.jsx)("a", {
+                                href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
+                                style: {
+                                  textDecoration: "none",
+                                },
+                                target: "_blank",
+                                rel: "noreferrer",
+                                children: (0, C.jsx) ("img", {
+                                  src: "/static/media/icons8-linkedin-100.svg",
+                                  alt: "",
+                                  width: "22%",
+                                  marginRight: "50px",
+                                }),
                               }),
                  
                  
