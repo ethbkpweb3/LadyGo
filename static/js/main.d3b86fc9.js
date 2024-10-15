@@ -68924,6 +68924,7 @@
                                             style: {
                                               fontSize: "20px",
                                               marginRight: "7px",
+                                              textAlign:"center",
                                             },
                                           }),
                                           " ",
