@@ -71199,7 +71199,7 @@
                   "To begin investing with LadyGO, Head over to LadyGO.taxi",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://LadyGO.taxi",
+                    href: "https://presale.ladygo.taxi/",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
