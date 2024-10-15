@@ -71486,14 +71486,14 @@
   
  
             {
-              bg: ew,
+           
       
               title: "Team",
               description:
                 "LadyGo is powered by an international team of passionate and ambitious women and men from every continent, working together to develop both the LadyGo taxi service and its native cryptocurrency, LadyGo Token (LGO). This diverse team represents a global family of innovators, unified by a common goal: to create a safer, more empowering, and inclusive ride-sharing platform for women everywhere. Each member brings a wealth of experience, creativity, and dedication to ensure that LadyGo transforms transportation for women on a global scale. As a family, we are driven by the shared vision of empowering women and advancing the future of ride-sharing.",
             },
             {
-              bg: Jb,
+             
           
               title: "Founder",
               description:
@@ -71562,7 +71562,7 @@
                           background: `url(${r})`,
                           backgroundRepeat: "none",
                           backgroundSize: "cover",
-                          height: e ? "640px" : "600px",
+                          height: e ? "640px" : "500px",
                           border: "1px solid #FFFFFF33",
                           borderRadius: e ? "13px" : "22px",
                           px: e ? 2 : 5,
