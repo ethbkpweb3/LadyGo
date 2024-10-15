@@ -71718,7 +71718,7 @@
               description:
               (0, C.jsxs)(C.Fragment, {
                 children: [
-                  "abil Bouassaba - Nabil is an American, Italian, and Moroccan citizen, a visionary entrepreneur, and arecognized thought leader in the business world. As a Council Member Leader atForbes Coaches Council, Nabil collaborates with top senior executives to driveinnovation in entrepreneurship. He is also the CEO of Ai 4 Ei, an advanced platformthat integrates machine learning, automation, and process management,empowering entrepreneurs and mentors to scale their businesses with precision and efficiency.",
+                  "Nabil Bouassaba - Nabil is an American, Italian, and Moroccan citizen, a visionary entrepreneur, and arecognized thought leader in the business world. As a Council Member Leader atForbes Coaches Council, Nabil collaborates with top senior executives to driveinnovation in entrepreneurship. He is also the CEO of Ai 4 Ei, an advanced platformthat integrates machine learning, automation, and process management,empowering entrepreneurs and mentors to scale their businesses with precision and efficiency.",
                   " ",
                   (0, C.jsx)("a", {
                     href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037",
