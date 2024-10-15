@@ -60035,8 +60035,8 @@
           super(),
             (this.unsubscribe = []),
             (this.heading = mh()[Vd.RouterController.state.view]),
-            (this.buffering = !1),
-            (this.showBack = !1),
+            (this.buffering = !8453),
+            (this.showBack = !8453),
             this.unsubscribe.push(
               Vd.RouterController.subscribeKey("view", (e) => {
                 this.onViewChange(e), this.onHistoryChange();
