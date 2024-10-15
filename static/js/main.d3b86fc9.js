@@ -71693,7 +71693,162 @@
               ],
             }),
           }),
-        });
+        });   t = [
+    
+     
+  
+ 
+          {
+         
+    
+            title: "Team",
+            description:
+              "LadyGo is powered by an international team of passionate and ambitious women and men from every continent, working together to develop both the LadyGo taxi service and its native cryptocurrency, LadyGo Token (LGO). This diverse team represents a global family of innovators, unified by a common goal: to create a safer, more empowering, and inclusive ride-sharing platform for women everywhere. Each member brings a wealth of experience, creativity, and dedication to ensure that LadyGo transforms transportation for women on a global scale. As a family, we are driven by the shared vision of empowering women and advancing the future of ride-sharing.",
+            href:"https://www.linkedin.com/company/lady-go-taxi",
+         
+            },
+          {
+           
+        
+            title: "Founder",
+            description:
+            (0, C.jsxs)(C.Fragment, {
+              children: [
+                "Nabil Bouassaba - Nabil is an American, Italian, and Moroccan citizen, a visionary entrepreneur, and arecognized thought leader in the business world. As a Council Member Leader atForbes Coaches Council, Nabil collaborates with top senior executives to driveinnovation in entrepreneurship. He is also the CEO of Ai 4 Ei, an advanced platformthat integrates machine learning, automation, and process management,empowering entrepreneurs and mentors to scale their businesses with precision and efficiency.",
+                " ",
+                (0, C.jsx)("a", {
+                  href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037",
+                  style: {
+                    textDecoration: "none",
+                    alignItems: "center",
+                    alignItems: "center",    
+                  },
+                  target: "_blank",
+                  rel: "noreferrer",
+                  alignItems: "center",    
+                  children: (0, C.jsx) ("img", {
+                    src: "/static/media/icons8-linkedin-100.svg",
+                    alt: "",
+                    width: "7%",
+                    alignItems: "center",
+                  
+                  }),
+                }),
+              ],
+            }),
+            },
+        ];
+      return (0, C.jsx)(O, {
+        id: "LadyGO",
+        mt: e ? 0 : -17,
+        children: (0, C.jsxs)(ut, {
+          maxWidth: "xl",
+          children: [
+            (0, C.jsxs)(fy, {
+              container: !0,
+              spacing: 5,
+              mt: e && 5,
+              marginTop: "50px",
+              display: "flex",
+              alignItems: "center",
+              children: [
+                (0, C.jsxs)(fy, {
+                  item: !0,
+                  xs: 12,
+                  md: 6,
+                  order: e ? 1 : 2,
+          
+                }),
+                !e &&
+                  (0, C.jsx)(fy, {
+                    item: !0,
+                    xs: 12,
+                    md: 6,
+                    textAlign: "center",
+                    order: !e && 1,
+                  
+                  }),
+              ],
+            }),
+            (0, C.jsx)(fy, {
+              container: !0,
+              spacing: 5,
+              mt: e && 5,
+              display: "flex",
+              justifyContent: "center",
+              position: "relative",
+              zIndex: 1,
+              px: {
+                xs: 0,
+                sm: 0,
+                md: 0,
+                lg: 5,
+                xl: 10,
+              },
+              children: t.map((t, n) => {
+                let { bg: r, icon: i, title: o, description: a , href :b} = t;
+                return (0, C.jsx)(
+                  fy,
+                  {
+                    item: !0,
+                    xs: 10,
+                    md: 4,
+                    width: "100%",
+                    mt: e && 2,
+                    children: (0, C.jsxs)(O, {
+                      sx: {
+                        background: `url(${r})`,
+                        backgroundRepeat: "none",
+                        backgroundSize: "cover",
+                        height: e ? "400px" : "600px",
+                        border: "1px solid #FFFFFF33",
+                        borderRadius: e ? "13px" : "22px",
+                        px: e ? 2 : 5,
+                        pt: e ? 3 : 5,
+                        pb: !e && 5,
+                      },
+                      children: [
+                        (0, C.jsx)(O, {
+                          display: "flex",
+                          justifyContent: "center",
+                          children: i,
+                        }),
+                        (0, C.jsx)(D, {
+                          my: 1,
+                          pt: 2,
+                          mt: 5 === n ? -2 : 0,
+                          sx: {
+                            fontFamily: "'Poppins'",
+                            fontStyle: "normal",
+                            fontWeight: 700,
+                            fontSize: e ? "20px" : "28px  ",
+                            textAlign: "center",
+                            color: "#F8FAFC",
+                          },
+                          children: o,
+                        }),
+                        (0, C.jsx)(D, {
+                          mt: e ? 0 : 2,
+                          pb: e && 2,
+                          sx: {
+                            fontWeight: 400,
+                            fontFamily: "'Poppins'",
+                            fontSize: e ? "12px" : "16px",
+                            color: "#F1F5F9",
+                            textAlign: "center",
+                          },
+                          children: a,
+                        }),                        
+                      ],
+                    }),
+                  },
+                  n
+                );
+              }),
+            }),
+          ],
+        }),
+      });
       }
       function owS() {
         const e = u("(max-width:950px)"),
@@ -72462,7 +72617,7 @@
                         (0, C.jsx)(ow, {}),
                        
                         (0, C.jsx)(lw, {}),
-                        (0, C.jsx)(Lw, {}),  (0, C.jsx)(owS, {}),
+                        (0, C.jsx)(Lw, {}),  
                         (0, C.jsx)(Lws, {}),
                       
                         (0, C.jsx)(Ww, {}),
