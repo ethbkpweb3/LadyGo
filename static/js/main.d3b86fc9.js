@@ -71196,7 +71196,7 @@
               question: "How can I start investing with LadyGO?",
               answer: (0, C.jsxs)(C.Fragment, {
                 children: [
-                  "To begin investing with LadyGO, Head over to LadyGO.com",
+                  "To begin investing with LadyGO, Head over to LadyGO.taxi",
                   " ",
                   (0, C.jsx)("a", {
                     href: "https://LadyGO.taxi",
@@ -71212,14 +71212,14 @@
                   "Click Connect Wallet and connect using your DeFi Web3 wallet, we recommend using MetaMask & Trust Wallet, Make sure you are connected on Ethereum Chain (ERC20) and have enough ETH on ethereum network. Select from ETH, USDT, USDC, Input amount you want to purchase with and click on Buy Now. Complete the transaction in your wallet. For detailed guide on How To Buy LadyGO - Click Here.",
                   " ",
                   (0, C.jsx)("a", {
-                    href: "https://LadyGO.taxi/how-to-buy/ ",
+                    href: "https://presale.ladygo.taxi/how-to-buy/",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: "https://LadyGO.taxi/how-to-buy/",
+                    children: "howv to buy",
                   }),
                 ],
               }),
