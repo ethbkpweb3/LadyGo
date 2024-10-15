@@ -71340,7 +71340,7 @@
                         color: "rgb(151, 151, 154)",
                       },
                       rel: "noreferrer",
-                      children: "• Expand into new regions and markets, with continued focus on offering LadyGo Token as a key part of global transportation and finance.",
+                      children: "• Expand into new regions and markets, with continued focus on offering LadyGo Token as a key part of global transportation and finance.",
                     }),(0, C.jsx)("p", {
                     
                      
