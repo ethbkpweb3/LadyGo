@@ -70376,7 +70376,7 @@
                     sx: {
                       border: "1px solid #ff65c3",
                       borderRadius: t ? "9px" : "29px",
-                      width: "70%",
+                      width: "100%",
                       textAlign:"center",
                    
                       height: t ? "43px" : "130px",
