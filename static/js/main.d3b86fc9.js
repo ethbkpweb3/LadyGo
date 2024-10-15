@@ -71487,22 +71487,14 @@
  
             {
               bg: ew,
-              icon: (0, C.jsx)("img", {
-                src: Gb,
-                width: "15%",
-                alt: "",
-              }),
+        
               title: "Team",
               description:
                 "LadyGo is powered by an international team of passionate and ambitious women and men from every continent, working together to develop both the LadyGo taxi service and its native cryptocurrency, LadyGo Token (LGO). This diverse team represents a global family of innovators, unified by a common goal: to create a safer, more empowering, and inclusive ride-sharing platform for women everywhere. Each member brings a wealth of experience, creativity, and dedication to ensure that LadyGo transforms transportation for women on a global scale. As a family, we are driven by the shared vision of empowering women and advancing the future of ride-sharing.",
             },
             {
               bg: Jb,
-              icon: (0, C.jsx)("img", {
-                src: Vb,
-                width: e ? "15%" : "15%",
-                alt: "",
-              }),
+          
               title: "Founder",
               description:
                 "Nabil Bouassaba - Nabil is an American, Italian, and Moroccan citizen, a visionary entrepreneur, and arecognized thought leader in the business world. As a Council Member Leader atForbes Coaches Council, Nabil collaborates with top senior executives to driveinnovation in entrepreneurship. He is also the CEO of Ai 4 Ei, an advanced platformthat integrates machine learning, automation, and process management,empowering entrepreneurs and mentors to scale their businesses with precision and efficiency.",
