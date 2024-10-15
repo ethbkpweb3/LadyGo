@@ -71678,13 +71678,13 @@
               maxWidth: "lg",
               children: [
                 (0, C.jsx)(D, {
-                  position: "relative",
-                  zIndex: 1,
-                  mt: 2,
+                  mb: 2,
                   sx: {
-                    fontFamily: "accelerator",
-                    fontWeight: 700,
-                    fontSize: t ? "24px" : "32px",
+                    fontFamily: "'Poppins'",
+                    fontStyle: "normal",
+                    fontWeight: 500,
+                    fontSize: "26px",
+                    color: "#FFFFFF",
                     textAlign: "center",
                   },
                   children: "OUR TEAM",
