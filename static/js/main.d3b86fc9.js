@@ -68448,7 +68448,7 @@
                                   },
                                 }),
                               }),                      (0, C.jsx)("a", {
-                                href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
+                                href: "https://www.linkedin.com/company/lady-go-taxi",
                                 style: {
                                   textDecoration: "none",
                                 },
@@ -71439,7 +71439,7 @@
                       rel: "noreferrer",
                       children: [" ", "support@LadyGO.taxi"],
                     }),       (0, C.jsx)("a", {
-                      href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
+                      href: "https://www.linkedin.com/company/lady-go-taxi",
                       target: "_blank",
                       style: {
                         textDecoration: "none",
@@ -71652,7 +71652,7 @@
                     rel: "noreferrer",
                     children: [" ", "support@LadyGO.taxi"],
                   }),       (0, C.jsx)("a", {
-                    href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
+                    href: "https://www.linkedin.com/company/lady-go-taxi",
                     target: "_blank",
                     style: {
                       textDecoration: "none",
@@ -72185,7 +72185,7 @@
                       }),
 
                                    (0, C.jsx)("a", {
-                        href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
+                        href: "https://www.linkedin.com/company/lady-go-taxi",
                         style: {
                           textDecoration: "none",
                         },
