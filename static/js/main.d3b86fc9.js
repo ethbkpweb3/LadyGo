@@ -69869,7 +69869,7 @@
               bg: tw,
               icon: (0, C.jsx)("img", {
                 src: Kb,
-                width: "60%",
+                width: "30%",
                 alt: "",
               }),
               title: "Staking and Governance",
