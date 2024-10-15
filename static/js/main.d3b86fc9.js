@@ -71262,7 +71262,19 @@
                             pt: e ? 3 : 5,
                             pb: !e && 5,
                           },
-                          children: [
+                          children: [   (0, C.jsx)(D, {
+                            position: "relative",
+                            zIndex: 1,
+                            mt: 2,
+                            sx: {
+                              fontFamily: "accelerator",
+                              fontWeight: 300,
+                              fontSize: t ? "24px" : "32px",
+                              textAlign: "center",
+                              marginTop: "50px",
+                            },
+                            children: "OUR TEAM",
+                          }),
                             (0, C.jsx)(O, {
                               display: "flex",
                               justifyContent: "center",
