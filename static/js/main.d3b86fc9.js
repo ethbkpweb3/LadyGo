@@ -71472,7 +71472,20 @@
                   },
                   children: "FAQs",
                 }),
-      
+                (0, C.jsx)("div", {
+                  className:
+                    "col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left",
+                  children: (0, C.jsx)("div", {
+                    className: "welcome-meter relative",
+                    "data-wow-delay": "0.7s",
+                    children:(0, C.jsx)("img", {
+                      draggable: "false",
+                      className: "center-block",
+                      src: "img/core-img/whitepaper1.png",
+                      alt: "",
+                    }),
+                  }),
+                }),
               ],
             }),
           }),
