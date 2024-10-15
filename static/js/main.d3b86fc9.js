@@ -66738,7 +66738,7 @@
           },
           {
             name: "Whitepaper",
-            link: "/LadyGO-whitepaper.pdf",
+            link: "https://ladygo.taxi/wp-content/uploads/2024/10/Whitepaper-Page.pdf",
           },
           {
             name: "How To Buy",
@@ -66905,7 +66905,7 @@
                             }),
                           }),
                           (0, C.jsx)(Uv, {
-                            to: "whitepaper.pdf",
+                            to: "https://ladygo.taxi/wp-content/uploads/2024/10/Whitepaper-Page.pdf",
                             style: {
                               textDecoration: "none",
                             },
@@ -68363,7 +68363,7 @@
                           justifyContent: "center",
                           children: [
                             (0, C.jsx)("a", {
-                              href: "/LadyGO-whitepaper.pdf",
+                              href: "https://ladygo.taxi/wp-content/uploads/2024/10/Whitepaper-Page.pdf",
                               target: "_blank",
                               style: {
                                 textDecoration: "none",
@@ -71713,7 +71713,7 @@
                       justifyContent: "center",
                       children: [
                         (0, C.jsx)(Uv, {
-                          to: "whitepaper.pdf",
+                          to: "https://ladygo.taxi/wp-content/uploads/2024/10/Whitepaper-Page.pdf",
                           style: {
                             textDecoration: "none",
                           },
