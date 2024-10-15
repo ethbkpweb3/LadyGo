@@ -71481,7 +71481,7 @@
                     children:(0, C.jsx)("img", {
                       draggable: "false",
                       className: "center-block",
-                      src: "img/core-img/whitepaper1.png",
+                      src: "/static/media/ai.png",
                       alt: "",
                     }),
                   }),
