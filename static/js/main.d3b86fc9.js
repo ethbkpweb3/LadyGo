@@ -71170,7 +71170,7 @@
               id: 1,
               question: "What is LadyGO?",
               answer:
-                "The LadyGo Token (LGC) is the official cryptocurrency of the LadyGo ecosystem, designed to empower women through safe transportation and financial freedom. Built on the Ethereum blockchain, the LadyGo Token provides a secure, transparent, and decentralized way for users to make transactions, earn rewards, and invest within the platform.LGC powers every aspect of the LadyGo experience, from facilitating ride payments to offering drivers and investors unique opportunities to grow their wealth. By holding and using LadyGo Tokens, users can participate in a global network that prioritizes the safety and economic empowerment of women.With LadyGo Token, women are not only accessing safer rides—they're building a financial future in a trusted, blockchain-backed ecosystem.",
+                "The LadyGo Token (LGO) is the official cryptocurrency of the LadyGo ecosystem, designed to empower women through safe transportation and financial freedom. Built on the Ethereum blockchain, the LadyGo Token provides a secure, transparent, and decentralized way for users to make transactions, earn rewards, and invest within the platform.LGO powers every aspect of the LadyGo experience, from facilitating ride payments to offering drivers and investors unique opportunities to grow their wealth. By holding and using LadyGo Tokens, users can participate in a global network that prioritizes the safety and economic empowerment of women.With LadyGo Token, women are not only accessing safer rides—they're building a financial future in a trusted, blockchain-backed ecosystem.",
             },
             {
               id: 2,
