@@ -71718,7 +71718,7 @@
                         target: "_blank",
                         rel: "noreferrer",
                         children: (0, C.jsx) ("img", {
-                          src: "/static/media/icons8-linkedin.svg",
+                          src: "/static/media/icons8-linkedin-100.svg",
                           alt: "",
                           width: "22%",
                           marginRight: "50px",
