@@ -69836,7 +69836,7 @@
               bg: rw,
               icon: (0, C.jsx)("img", {
                 src: Xb,
-                width: "60%",
+                width: "30%",
                 alt: "",
               }),
               title: "LadyGO Token",
@@ -69847,7 +69847,7 @@
               bg: iw,
               icon: (0, C.jsx)("img", {
                 src: Qb,
-                width: "60%",
+                width: "30%",
                 alt: "",
               }),
               title: "LadyGO Launchpad",
@@ -69858,7 +69858,7 @@
               bg: nw,
               icon: (0, C.jsx)("img", {
                 src: Yb,
-                width: "60%",
+                width: "30%",
                 alt: "",
               }),
               title: "LadyGO AI",
