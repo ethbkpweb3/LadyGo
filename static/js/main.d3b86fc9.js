@@ -69980,8 +69980,8 @@
       var sw = n(32071);
       function dO() {
         var e = Ke("(max-width:600px)");
-        return (0, X.jsx)(re, {
-          children: (0, X.jsx)("section", {
+        return (0, C.jsx)(re, {
+          children: (0, C.jsx)("section", {
             className: "darky how section-padding-100-70",
             children: (0, X.jsxs)("div", {
               className: "container",
@@ -69989,21 +69989,21 @@
                 (0, X.jsxs)("div", {
                   className: "section-heading text-center",
                   children: [
-                    (0, X.jsx)("div", {
+                    (0, C.jsx)("div", {
                       className:
                         "dream-dots justify-content-center wow fadeInUp",
                       "data-wow-delay": "0.2s",
-                      children: (0, X.jsx)("span", {
+                      children: (0, C.jsx)("span", {
                         className: "gradient-t green",
                         children: "FEATURES OF HYPERPRO",
                       }),
                     }),
-                    (0, X.jsx)("h2", {
+                    (0, C.jsx)("h2", {
                       className: "wow fadeInUp",
                       "data-wow-delay": "0.3s",
                       children: "Our Features",
                     }),
-                    (0, X.jsx)("p", {
+                    (0, C.jsx)("p", {
                       className: "wow fadeInUp",
                       "data-wow-delay": "0.4s",
                       style: {
@@ -70020,7 +70020,7 @@
                   className: "row",
                   children: [
 
-                    (0, X.jsx)("div", {
+                    (0, C.jsx)("div", {
                       className: "col-12 col-md-6 col-lg-4",
                       style: { height: "100%" },
                       children: (0, X.jsxs)("div", {
@@ -70031,36 +70031,36 @@
                           (0, X.jsxs)("div", {
                             className: "service_icon",
                             children: [
-                              (0, X.jsx)("img", {
+                              (0, C.jsx)("img", {
                                 draggable: "false",
                                 src: "img/icons/2.png",
                                 className: "white-icon",
                                 alt: "",
                                 width: "80px",
                               }),
-                              (0, X.jsx)("span", {
+                              (0, C.jsx)("span", {
                                 className: "step-num",
                                 children: "2",
                               }),
                             ],
                           }),
-                          (0, X.jsx)("h6", {
+                          (0, C.jsx)("h6", {
                             children: "Automated trading strategies",
                           }),
-                          (0, X.jsx)("p", {
+                          (0, C.jsx)("p", {
                             style: { textAlign: "left" },
                             children:
                               "HyperproAI maximizes participation from various AI players in the ecosystem worldwide, Set up automated trading strategies based on key metrics and order types. Once created, the strategies can be plugged directly into their broker's API.",
                           }),
-                          (0, X.jsx)(re, {
+                          (0, C.jsx)(re, {
                             mt: 1,
                             mb: -3,
                             display: "flex",
                             justifyContent: "flex-end",
-                            children: (0, X.jsx)(jo, {
+                            children: (0, C.jsx)(jo, {
                               to: "/presale",
                               style: { textDecoration: "none" },
-                              children: (0, X.jsx)(re, {
+                              children: (0, C.jsx)(re, {
                                 color: "#ffffff",
                                 bgcolor: "#121826",
                                 px: 2,
@@ -70073,7 +70073,7 @@
                         ],
                       }),
                     }),
-                    (0, X.jsx)("div", {
+                    (0, C.jsx)("div", {
                       className: "col-12 col-md-6 col-lg-4",
                       style: { height: "100%" },
                       children: (0, X.jsxs)("div", {
@@ -70084,23 +70084,23 @@
                           (0, X.jsxs)("div", {
                             className: "service_icon",
                             children: [
-                              (0, X.jsx)("img", {
+                              (0, C.jsx)("img", {
                                 draggable: "false",
                                 src: "img/icons/3.png",
                                 className: "white-icon",
                                 alt: "",
                                 width: "90px",
                               }),
-                              (0, X.jsx)("span", {
+                              (0, C.jsx)("span", {
                                 className: "step-num",
                                 children: "3",
                               }),
                             ],
                           }),
-                          (0, X.jsx)("h6", {
+                          (0, C.jsx)("h6", {
                             children: "Unique A.I marketplace and dapp",
                           }),
-                          (0, X.jsx)("p", {
+                          (0, C.jsx)("p", {
                             style: { textAlign: "left" },
                             children:
                               "unique A.I marketplace/ DAPP The HyperproAI is a decentralized application (DApp), which lists the available AI services and helps you to interact with those services through web interface abstracting all the complexity in invoking a service.",
