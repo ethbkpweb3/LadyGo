@@ -71607,6 +71607,7 @@
                             },
                             target: "_blank",
                             rel: "noreferrer",
+                            textAlign: "center",
                             children: (0, C.jsx) ("img", {
                               src: "/static/media/icons8-linkedin-100.svg",
                               alt: "",
