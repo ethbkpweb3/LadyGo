@@ -71491,14 +71491,17 @@
               title: "Team",
               description:
                 "LadyGo is powered by an international team of passionate and ambitious women and men from every continent, working together to develop both the LadyGo taxi service and its native cryptocurrency, LadyGo Token (LGO). This diverse team represents a global family of innovators, unified by a common goal: to create a safer, more empowering, and inclusive ride-sharing platform for women everywhere. Each member brings a wealth of experience, creativity, and dedication to ensure that LadyGo transforms transportation for women on a global scale. As a family, we are driven by the shared vision of empowering women and advancing the future of ride-sharing.",
-            },
+              href:"https://x.com/ladygo_crypto?s=21&t=WWlCbHq_SNWp8KRw2RWGSw",
+           
+              },
             {
              
           
               title: "Founder",
               description:
                 "Nabil Bouassaba - Nabil is an American, Italian, and Moroccan citizen, a visionary entrepreneur, and arecognized thought leader in the business world. As a Council Member Leader atForbes Coaches Council, Nabil collaborates with top senior executives to driveinnovation in entrepreneurship. He is also the CEO of Ai 4 Ei, an advanced platformthat integrates machine learning, automation, and process management,empowering entrepreneurs and mentors to scale their businesses with precision and efficiency.",
-            },
+             href:"https://www.linkedin.com/company/lady-go-taxi",
+              },
           ];
         return (0, C.jsx)(O, {
           id: "LadyGO",
@@ -71548,7 +71551,7 @@
                   xl: 10,
                 },
                 children: t.map((t, n) => {
-                  let { bg: r, icon: i, title: o, description: a } = t;
+                  let { bg: r, icon: i, title: o, description: a , href } = t;
                   return (0, C.jsx)(
                     fy,
                     {
@@ -71589,18 +71592,7 @@
                             },
                             children: o,
                           }),
-                          (0, C.jsx)(D, {
-                            mt: e ? 0 : 2,
-                            pb: e && 2,
-                            sx: {
-                              fontWeight: 400,
-                              fontFamily: "'Poppins'",
-                              fontSize: e ? "9px" : "16px",
-                              color: "#F1F5F9",
-                              textAlign: "center",
-                            },
-                            children: a,
-                          }),                        (0, C.jsx)("a", {
+                          (0, C.jsx)("a", {
                             href: "https://www.linkedin.com/in/nabil-bouassaba-%E7%BA%B3%E6%AF%94%E5%B0%94-00123037/",
                             style: {
                               textDecoration: "none",
@@ -71617,7 +71609,19 @@
                               alignItems: "center",
                               marginLeft:"150px",
                             }),
-                          }),
+                          }),(D, {
+                            
+                            mt: e ? 0 : 2,
+                            pb: e && 2,
+                            sx: {
+                              fontWeight: 400,
+                              fontFamily: "'Poppins'",
+                              fontSize: e ? "9px" : "16px",
+                              color: "#F1F5F9",
+                              textAlign: "center",
+                            },
+                            children: a,
+                          }),                       
                         ],
                       }),
                     },
