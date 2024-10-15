@@ -48462,7 +48462,7 @@
       const Ps = Es({
           id: 8453,
           network: "homestead",
-          name: "Ethereum",
+          name: "BASE",
           nativeCurrency: {
             name: "Ether",
             symbol: "ETH",
@@ -48470,8 +48470,8 @@
           },
           rpcUrls: {
             alchemy: {
-              http: ["https://mainnet.base.org/"],
-              webSocket: ["wss://eth-mainnet.g.alchemy.com/v2"],
+              http: ["https://base-mainnet.g.alchemy.com/v2"],
+              webSocket: ["wss://base-mainnet.g.alchemy.com/v2"],
             },
             infura: {
               http: ["https://mainnet.base.org/"],
@@ -48487,11 +48487,11 @@
           blockExplorers: {
             etherscan: {
               name: "Etherscan",
-              url: "https://etherscan.io",
+              url: "https://basescan.org/",
             },
             default: {
               name: "Etherscan",
-              url: "https://etherscan.io",
+              url: "https://basescan.org/",
             },
           },
           contracts: {
