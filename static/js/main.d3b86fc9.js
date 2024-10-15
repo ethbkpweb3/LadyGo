@@ -71811,18 +71811,7 @@
                             display: "flex",
                             justifyContent: "center",
                             children: i,
-                          }),                (0, C.jsx)(D, {
-                            position: "relative",
-                            zIndex: 1,
-                            mt: 2,
-                            sx: {
-                              fontFamily: "accelerator",
-                              fontWeight: 200,
-                              fontSize: t ? "24px" : "32px",
-                              textAlign: "center",
-                            },
-                            children: o,
-                          }),
+                          }),               
                           (0, C.jsx)(D, {
                             my: 1,
                             pt: 2,
