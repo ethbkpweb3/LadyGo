@@ -71677,7 +71677,18 @@
             children: (0, C.jsxs)(ut, {
               maxWidth: "lg",
               children: [
-
+                (0, C.jsx)(D, {
+                  position: "relative",
+                  zIndex: 1,
+                  mt: 2,
+                  sx: {
+                    fontFamily: "accelerator",
+                    fontWeight: 700,
+                    fontSize: t ? "24px" : "32px",
+                    textAlign: "center",
+                  },
+                  children: "OUR TEAM",
+                }),
  
               ],
             }),
@@ -71688,13 +71699,7 @@
         const e = u("(max-width:950px)"),
           t = [
     
-            {
-           
-      
-              title: "OUR TEAM",
-           
-           
-              },
+     
   
  
             {
@@ -71811,7 +71816,7 @@
                             display: "flex",
                             justifyContent: "center",
                             children: i,
-                          }),               
+                          }),
                           (0, C.jsx)(D, {
                             my: 1,
                             pt: 2,
