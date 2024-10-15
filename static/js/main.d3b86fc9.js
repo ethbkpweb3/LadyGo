@@ -71503,9 +71503,9 @@
                 width: e ? "20%" : "20%",
                 alt: "",
               }),
-              title: "LadyGo Mission",
+              title: "Founder",
               description:
-                "LadyGo goes beyond just transportation—we leverage blockchain technology to offer financial empowerment through transparent, decentralized transactions. By combining safety with financial independence, LadyGo is creating a platform where women can drive, ride, and invest with peace of mind, knowing they are part of a supportive, women-only ecosystem.",
+                "Nabil Bouassaba - Nabil is an American, Italian, and Moroccan citizen, a visionary entrepreneur, and arecognized thought leader in the business world. As a Council Member Leader atForbes Coaches Council, Nabil collaborates with top senior executives to driveinnovation in entrepreneurship. He is also the CEO of Ai 4 Ei, an advanced platformthat integrates machine learning, automation, and process management,empowering entrepreneurs and mentors to scale their businesses with precision and efficiency.",
             },
           ];
         return (0, C.jsx)(O, {
