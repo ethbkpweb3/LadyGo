@@ -71610,8 +71610,8 @@
                             children: (0, C.jsx) ("img", {
                               src: "/static/media/icons8-linkedin-100.svg",
                               alt: "",
-                              width: "5%",
-                           
+                              width: "7%",
+                              textAlign: "center",
                             }),
                           }),
                         ],
