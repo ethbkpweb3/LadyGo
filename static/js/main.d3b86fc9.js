@@ -68471,7 +68471,7 @@
                                   src: "/static/media/icons8-linkedin-100.svg",
                                   alt: "",
                                   width: "22%",
-                                  marginRight: "10px",
+                                  marginRight: "23px",
                                 }),
                               }),
                  
