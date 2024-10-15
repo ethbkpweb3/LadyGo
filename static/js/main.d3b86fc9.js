@@ -71127,6 +71127,93 @@
             )
           );
         });
+        function Hb() {
+          const e = u("(max-width:950px)");
+          return (0, C.jsx)(C.Fragment, {
+            children: (0, C.jsx)(ut, {
+              maxWidth: "xl",
+              children: (0, C.jsxs)(fy, {
+                container: !0,
+                spacing: 5,
+                display: "flex",
+                alignItems: "center",
+                children: [
+                  (0, C.jsxs)(fy, {
+                    item: !0,
+                    xs: 12,
+                    md: 6,
+                    order: e ? 2 : 1,
+                    children: [
+                      (0, C.jsxs)(D, {
+                        mb: 4,
+                        sx: {
+                          fontFamily: "accelerator",
+                          fontSize: e ? "20px" : "38px",
+                          textAlign: e ? "center" : "left",
+                        },
+                        children: [
+                          (0, C.jsx)("span", {
+                            style: {
+                              background: "transparent",
+                              backgroundImage:
+                                "linear-gradient(90deg, #E8749E 0%, #F0B90B 100%)",
+                              WebkitBackgroundClip: "text",
+                              WebkitTextFillColor: "transparent",
+                            },
+                            children: "LadyGo",
+                          }),
+                          " ",
+                          " Revolutionizing Ride-Hailing with AI and Blockchain",
+                        ],
+                      }),
+                      Wb.map((t, n) => {
+                        let { title: r, description: i } = t;
+                        return (0, C.jsxs)(
+                          D,
+                          {
+                            px: e ? 2 : 4,
+                            sx: {
+                              fontFamily: "Poppins",
+                              fontSize: e ? "12px" : "17px",
+                              color: "#FFFFFF",
+                              fontWeight: "400",
+                              margin:"20px",
+                            },
+                            children: [
+                              (0, C.jsx)("span", {
+                                style: {
+                                  color: " #F0B90B",
+                                },
+                                children: r,
+                              }),
+                              " ",
+                              i,
+                            ],
+                          },
+                          n
+                        );
+                      }),
+                    ],
+                  }),
+                  (0, C.jsx)(fy, {
+                    item: !0,
+                    xs: 12,
+                    md: 6,
+                    textAlign: "center",
+                    order: e ? 1 : 2,
+                    children: (0, C.jsx)("img", {
+                      src: qb,
+                      width: "60%",
+                      alt: "",
+                      textAlign: "center",
+                      marginLeft: "30px",
+                    }),
+                  }),
+                ],
+              }),
+            }),
+          });
+        }
       function Lw() {
         const t = u("(max-width:950px)"),
           [n, r] = e.useState(!1),
