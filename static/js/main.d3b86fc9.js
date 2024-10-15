@@ -71260,7 +71260,7 @@
                       color: "#fff",
                     },
                     rel: "noreferrer",
-                    children: ".linkedin",
+                    children: ".   linkedin",
                   }),
                 ],
               }),
