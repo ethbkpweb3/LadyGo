@@ -71686,6 +71686,7 @@
                     fontWeight: 700,
                     fontSize: t ? "24px" : "32px",
                     textAlign: "center",
+                    marginBottom:"20px",
                   },
                   children: "OUR TEAM",
                 }),
@@ -71752,7 +71753,7 @@
                 container: !0,
                 spacing: 5,
                 mt: e && 5,
-                marginTop: "50px",
+                marginTop: "",
                 display: "flex",
                 alignItems: "center",
                 children: [
