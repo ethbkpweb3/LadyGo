@@ -71179,7 +71179,43 @@
                       },
                       rel: "noreferrer",
                       children: "• Conduct an initial public offering on platforms like Coinbase Wallet and other major cryptocurrency exchanges.",
-                    }),
+                    }),     (0, C.jsx)("p", {
+                   
+                      target: "_blank",
+                      style: {
+                        textDecoration: "none",
+                        color: "#fff",
+                      },
+                      rel: "noreferrer",
+                      children: "Q1 2025: Platform Expansion and Market Penetration",
+                    }), (0, C.jsx)("p", {
+                    
+                     
+                      style: {
+                        textDecoration: "none",
+                        color: "rgb(151, 151, 154)",
+                      },
+                      rel: "noreferrer",
+                      children: "• Expand the LadyGo app to additional cities and countries, with a focus on enabling LadyGo Token as the primary payment method.",
+                    }),  (0, C.jsx)("p", {
+                    
+                     
+                      style: {
+                        textDecoration: "none",
+                        color: "rgb(151, 151, 154)",
+                      },
+                      rel: "noreferrer",
+                      children: "• Partner with global women’s organizations to increase awareness and adoption of the LadyGo platform and cryptocurrency.",
+                    }),  (0, C.jsx)("p", {
+                    
+                     
+                      style: {
+                        textDecoration: "none",
+                        color: "rgb(151, 151, 154)",
+                      },
+                      rel: "noreferrer",
+                      children: "• Develop integrations with local financial systems for seamless fiat-to-crypto conversion.",
+                    }), 
                   ],
                 }),
                
