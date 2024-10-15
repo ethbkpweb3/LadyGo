@@ -69891,12 +69891,12 @@
               bg: Jb,
               icon: (0, C.jsx)("img", {
                 src: Vb,
-                width: e ? "60%" : "65%",
+                width: e ? "30%" : "30%",
                 alt: "",
               }),
               title: "LadyGo Mission",
               description:
-                "-LadyGo goes beyond just transportation—we leverage blockchain technology to offer financial empowerment through transparent, decentralized transactions. By combining safety with financial independence, LadyGo is creating a platform where women can drive, ride, and invest with peace of mind, knowing they are part of a supportive, women-only ecosystem.",
+                "LadyGo goes beyond just transportation—we leverage blockchain technology to offer financial empowerment through transparent, decentralized transactions. By combining safety with financial independence, LadyGo is creating a platform where women can drive, ride, and invest with peace of mind, knowing they are part of a supportive, women-only ecosystem.",
             },
           ];
         return (0, C.jsx)(O, {
