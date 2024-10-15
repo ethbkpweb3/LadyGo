@@ -69918,66 +69918,7 @@
                     xs: 12,
                     md: 6,
                     order: e ? 1 : 2,
-                    children: [
-                      (0, C.jsxs)(D, {
-                        sx: {
-                          fontFamily: "accelerator",
-                          fontSize: e ? "26px" : "26px",
-                          textAlign: e ? "center" : "left",
-                        },
-                        children: [
-                          (0, C.jsx)("span", {
-                            style: {
-                              background: "transparent",
-                              backgroundImage:
-                                "linear-gradient(91.5deg, #E8749E 28.38%, #F0B90B 82.14%)",
-                              WebkitBackgroundClip: "text",
-                              WebkitTextFillColor: "transparent",
-                            },
-                            children:
-                              "LadyGO Empowering Women Drivers with Blockchain",
-                          }),
-                          " ",
-                        ],
-                      }),
-                      e &&
-                      (0, C.jsx)(fy, {
-                        item: !0,
-                        xs: 12,
-                        md: 6,
-                        textAlign: "center",
-                        order: e ? 1 : 2,
-                        children: (0, C.jsx)("img", {
-                          src: Xb,
-                          width: "60%",
-                          alt: "",
-                          textAlign: "center",
-                          marginLeft: "30px",
-                        }),
-                      }),
-                      (0, C.jsx)(D, {
-                        mt: 4,
-                        sx: {
-                          fontFamily: "Poppins",
-                          fontSize: e ? "12px" : "22px",
-                          color: "#fff",
-                          textAlign: e ? "center" : "left",
-                        },
-                        children:
-                          "LadyGo is a revolutionary platform designed to empower female drivers through the use of blockchain technology. Built on a foundation of trust, safety, and inclusivity, LadyGo allows women to take control of their journeys, both on the road and in the world of cryptocurrency.  ",
-                      }),
-                      (0, C.jsx)(D, {
-                        mt: 4,
-                        sx: {
-                          fontFamily: "Poppins",
-                          fontSize: e ? "12px" : "22px",
-                          color: "#fff",
-                          textAlign: e ? "center" : "left",
-                        },
-                        children:
-                          " Our platform connects women drivers with passengers in a secure, decentralized ecosystem, where every transaction is transparent and verified via blockchain. With LadyGo, women not only gain financial independence by driving but also access unique crypto rewards for every ride completed.",
-                      }),
-                    ],
+            
                   }),
                   !e &&
                     (0, C.jsx)(fy, {
