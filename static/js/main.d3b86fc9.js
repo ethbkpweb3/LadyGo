@@ -68897,7 +68897,7 @@
                                 
                                     display: "flex",
                                     justifyContent: "space-between",
-                                    alignItems: "center",
+                                    alignItems: "center", marginLeft: "30px", textAlign:"center",
                                     children: [
                                       (0, C.jsxs)(zt, {
                                         href: "/how-to-buy/",
