@@ -69983,10 +69983,10 @@
         return (0, C.jsx)(re, {
           children: (0, C.jsx)("section", {
             className: "darky how section-padding-100-70",
-            children: (0, X.jsxs)("div", {
+            children: (0, C.jsx)("div", {
               className: "container",
               children: [
-                (0, X.jsxs)("div", {
+                (0, C.jsx)("div", {
                   className: "section-heading text-center",
                   children: [
                     (0, C.jsx)("div", {
@@ -70016,19 +70016,19 @@
                     }),
                   ],
                 }),
-                (0, X.jsxs)("div", {
+                (0, C.jsx)("div", {
                   className: "row",
                   children: [
 
                     (0, C.jsx)("div", {
                       className: "col-12 col-md-6 col-lg-4",
                       style: { height: "100%" },
-                      children: (0, X.jsxs)("div", {
+                      children: (0, C.jsx)("div", {
                         className:
                           "service_single_content box-shadow text-center mb-100 wow wow fadeInUp",
                         "data-wow-delay": "0.3s",
                         children: [
-                          (0, X.jsxs)("div", {
+                          (0, C.jsx)("div", {
                             className: "service_icon",
                             children: [
                               (0, C.jsx)("img", {
@@ -70076,12 +70076,12 @@
                     (0, C.jsx)("div", {
                       className: "col-12 col-md-6 col-lg-4",
                       style: { height: "100%" },
-                      children: (0, X.jsxs)("div", {
+                      children: (0, C.jsx)("div", {
                         className:
                           "service_single_content box-shadow text-center mb-100 wow fadeInUp",
                         "data-wow-delay": "0.4s",
                         children: [
-                          (0, X.jsxs)("div", {
+                          (0, C.jsx)("div", {
                             className: "service_icon",
                             children: [
                               (0, C.jsx)("img", {
