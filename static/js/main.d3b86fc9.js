@@ -68554,7 +68554,7 @@
                                     children: [
                                       "Next Stage Price = $",
                                       " ",
-                                      parseFloat(x).toFixed(3),
+                                 
                                     ],
                                   }),
                                   (0, C.jsxs)(D, {
