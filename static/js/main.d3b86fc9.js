@@ -68554,7 +68554,7 @@
                                     children: [
                                       "Next Stage Price = $",
                                       " ",
-                                 
+                                      parseFloat(x).toFixed(3),
                                     ],
                                   }),
                                   (0, C.jsxs)(D, {
@@ -68568,7 +68568,7 @@
                                     children: [
                                       "Please Switch to Base Network",
                                       " ",
-                                      parseFloat(x).toFixed(3),
+                                
                                     ],
                                   }),
                                   (0, C.jsxs)(O, {
