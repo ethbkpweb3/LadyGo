@@ -166,7 +166,29 @@
         adroll.track("pageView");
     </script>
 
+<style>
+    /* Base Network Button Styles */
+.network-button {
+background-color: #4CAF50; /* Green background */
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 10px;
+cursor: pointer;
+border-radius: 8px;
+justify-content: center;
+transition: background-color 0.3s ease;
+}
 
+.network-button:hover {
+background-color: #45a049; /* Darker green on hover */
+}
+
+</style>
 
 </head>
 
@@ -198,8 +220,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </header>
 
     <div class="container">
-        <h1>How to Buy LadyGo (LGO)</h1> <p>
-            
+        <h1>How to Buy LadyGo (LGO)  <p></p>  <button id="baseNetworkButton" class="network-button" style="justify-content: center;">Switch to Base Network</button></h1> <p>
+        <p></p>
         </p>
 
         <p><strong>Note:</strong> LadyGo (LGO) is currently in its presale phase and is not available on Uniswap, PancakeSwap, or any other decentralized exchanges (DEXs). Please be cautious and avoid purchasing any fake LGO tokens that may be circulating
@@ -341,5 +363,79 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.
 </script>
 <script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script>
+<script>
+    const baseNetworkChainId = '0x2105'; // 8453 in hexadecimal
 
+document.getElementById('baseNetworkButton').addEventListener('click', async () => {
+    if (window.ethereum) {
+        // Check if it's a mobile device
+        const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
+        if (isMobile) {
+            // Redirect to MetaMask mobile app (use your custom deep link if needed)
+            window.location.href = "https://metamask.app.link/dapp/your-dapp-url"; // Change 'your-dapp-url' to your actual DApp URL
+            return;
+        }
+
+        await switchToBaseNetwork();
+    } else {
+        alert('MetaMask is not installed!');
+    }
+});
+
+// Function to switch to Base Network
+async function switchToBaseNetwork() {
+    try {
+        await window.ethereum.request({
+            method: 'wallet_switchEthereumChain',
+            params: [{ chainId: baseNetworkChainId }]
+        });
+        alert('You are in Base Network!');
+    } catch (error) {
+        if (error.code === 4902) {
+            try {
+                // If the network is not added, add it
+                await window.ethereum.request({
+                    method: 'wallet_addEthereumChain',
+                    params: [
+                        {
+                            chainId: baseNetworkChainId,
+                            chainName: 'Base Network',
+                            nativeCurrency: {
+                                name: 'BASE',
+                                symbol: 'BASE',
+                                decimals: 18
+                            },
+                            rpcUrls: ['https://rpc.base.org'], // Example RPC URL
+                            blockExplorerUrls: ['https://explorer.base.org'] // Example block explorer URL
+                        }
+                    ]
+                });
+            } catch (addError) {
+                console.error('Failed to add Base Network:', addError);
+            }
+        } else {
+            console.error('Failed to switch to Base Network:', error);
+        }
+    }
+}
+
+// Check network on account/chain change
+window.ethereum.on('chainChanged', async (chainId) => {
+    if (chainId !== baseNetworkChainId) {
+        await switchToBaseNetwork();
+    }
+});
+
+// Check network on page load
+window.addEventListener('load', async () => {
+    if (window.ethereum) {
+        const chainId = await window.ethereum.request({ method: 'eth_chainId' });
+        if (chainId !== baseNetworkChainId) {
+            await switchToBaseNetwork();
+        }
+    }
+});
+
+</script>
 </html>
