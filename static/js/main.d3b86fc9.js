@@ -68596,7 +68596,7 @@
                                             }
                                         },
                                         children: [(0,
-                                        C.jsx)(Ty, {
+                                        C.jsx)("p", {
                                             style: {
                                                 fontSize: "20px",
                                                 marginRight: "7px"
