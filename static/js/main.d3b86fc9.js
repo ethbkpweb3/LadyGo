@@ -68557,6 +68557,20 @@
                                       parseFloat(x).toFixed(3),
                                     ],
                                   }),
+                                  (0, C.jsxs)(D, {
+                                    pb: 1,
+                                    sx: {
+                                      fontFamily: "Poppins",
+                                      fontSize: t ? "16px" : "20px",
+                                      color: "#Fff",
+                                      fontWeight: "500",
+                                    },
+                                    children: [
+                                      "Please Switch to Base Network",
+                                      " ",
+                                      parseFloat(x).toFixed(3),
+                                    ],
+                                  }),
                                   (0, C.jsxs)(O, {
                                     sx: {
                                       position: "relative",
