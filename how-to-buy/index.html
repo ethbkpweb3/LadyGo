@@ -365,34 +365,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script>
 <script>
     const baseNetworkChainId = '0x2105'; // 8453 in hexadecimal
-    // Base network chain ID in decimal
 
 document.getElementById('baseNetworkButton').addEventListener('click', async () => {
-    // Check for wallet providers
     if (window.ethereum) {
-        await switchToBaseNetwork(window.ethereum);
-    } else if (window.trustwallet) {
-        await switchToBaseNetwork(window.trustwallet);
-    } else if (window.phantom) {
-        await switchToPhantomNetwork();
+        // Check if it's a mobile device
+        const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
+        if (isMobile) {
+            // Redirect to MetaMask mobile app (use your custom deep link if needed)
+            window.location.href = "https://metamask.app.link/dapp/your-dapp-url"; // Change 'your-dapp-url' to your actual DApp URL
+            return;
+        }
+
+        await switchToBaseNetwork();
     } else {
-        alert('No compatible wallet detected! Please install MetaMask, Trust Wallet, Phantom, or Coinbase Wallet.');
+        alert('MetaMask is not installed!');
     }
 });
 
-// Function to switch to Base Network for Ethereum-compatible wallets
-async function switchToBaseNetwork(provider) {
+// Function to switch to Base Network
+async function switchToBaseNetwork() {
     try {
-        await provider.request({
+        await window.ethereum.request({
             method: 'wallet_switchEthereumChain',
             params: [{ chainId: baseNetworkChainId }]
         });
-        alert('Switched to Base Network!');
+        alert('You are in Base Network!');
     } catch (error) {
         if (error.code === 4902) {
             try {
                 // If the network is not added, add it
-                await provider.request({
+                await window.ethereum.request({
                     method: 'wallet_addEthereumChain',
                     params: [
                         {
@@ -403,8 +406,8 @@ async function switchToBaseNetwork(provider) {
                                 symbol: 'BASE',
                                 decimals: 18
                             },
-                            rpcUrls: ['https://rpc.base.org'], // Replace with actual RPC URL
-                            blockExplorerUrls: ['https://explorer.base.org'] // Replace with actual block explorer URL
+                            rpcUrls: ['https://rpc.base.org'], // Example RPC URL
+                            blockExplorerUrls: ['https://explorer.base.org'] // Example block explorer URL
                         }
                     ]
                 });
@@ -417,40 +420,19 @@ async function switchToBaseNetwork(provider) {
     }
 }
 
-// Function to switch to Base Network for Phantom wallet
-async function switchToPhantomNetwork() {
-    if (window.phantom && window.phantom.solana) {
-        const solana = window.phantom.solana;
-        const chainId = '0x2105'; // Replace with Phantom-compatible network chain ID if necessary
-
-        if (solana.isPhantom) {
-            try {
-                // Phantom doesn't support switching networks directly
-                alert('Phantom does not support network switching. Please switch networks in the Phantom wallet.');
-            } catch (error) {
-                console.error('Error interacting with Phantom wallet:', error);
-            }
-        } else {
-            alert('Please install Phantom wallet.');
-        }
-    } else {
-        alert('Phantom wallet not detected.');
-    }
-}
-
-// Check network on account/chain change for Ethereum-compatible wallets
-window.ethereum && window.ethereum.on('chainChanged', async (chainId) => {
+// Check network on account/chain change
+window.ethereum.on('chainChanged', async (chainId) => {
     if (chainId !== baseNetworkChainId) {
-        await switchToBaseNetwork(window.ethereum);
+        await switchToBaseNetwork();
     }
 });
 
-// Check network on page load for Ethereum-compatible wallets
+// Check network on page load
 window.addEventListener('load', async () => {
     if (window.ethereum) {
         const chainId = await window.ethereum.request({ method: 'eth_chainId' });
         if (chainId !== baseNetworkChainId) {
-            await switchToBaseNetwork(window.ethereum);
+            await switchToBaseNetwork();
         }
     }
 });
